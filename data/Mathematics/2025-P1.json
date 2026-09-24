@@ -1,0 +1,102 @@
+[
+  {
+    "number": "Q1",
+    "question": "Find the first three terms in the expansion of $\\left(1 + \\frac{4}{x}\\right)^2 (1 - x)^2$ in descending power of $x$.",
+    "topic": "Sequences, Series & Binomial Expansion"
+  },
+  {
+    "number": "Q2",
+    "question": "Obtain the equation whose roots are the reciprocals of those of the equation $ax^2 - x + c = 0$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q3",
+    "question": "Express $\\left(\\frac{\\sqrt{5} - i}{\\sqrt{5} + i}\\right)^2$ in the form $a + ib$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q4",
+    "question": "Given that $\\tan 30^\\circ = \\frac{1}{\\sqrt{3}}$, obtain in surd form $\\tan 15^\\circ$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q5",
+    "question": "Show that the point $(3, 0)$ lies on the line $x = 3$ and the circle $x^2 + y^2 = 9$, find the point of intersection. What conclusion can be drawn?",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q6a",
+    "question": "Given that $A = \\begin{pmatrix} 1 & 0 & 1 \\\\ -1 & 2 & 0 \\\\ 1 & 2 & 3 \\end{pmatrix}, B = \\begin{pmatrix} 3 & 0 & -1 \\\\ 2 & 4 & 0 \\\\ -1 & 0 & 6 \\end{pmatrix}$, show that $(AB)^T \\neq A^T B^T$.",
+    "topic": "Matrices & Determinants"
+  },
+  {
+    "number": "Q6b",
+    "question": "Using mathematical induction, show that $\\sum_{r=1}^n \\frac{1}{r(r+1)} = \\frac{n}{n+1}$.",
+    "topic": "Sequences, Series & Binomial Expansion"
+  },
+  {
+    "number": "Q6c",
+    "question": "Find the value $b$ for which the equation $bx^2 + bx + 1 = 0$ to have equal roots.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q7a",
+    "question": "Find the set of values of $y$ for which $9^{y+5} = 5^{y+9}$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q7b",
+    "question": "The expression $ax^2 + bx + c$ is divisible by $(x - 1)$, has a remainder $2$ when divided by $(x + 1)$, and has a remainder of $8$ when divided by $(x - 2)$. Find the values of $a, b$ and $c$. Hence factorize the expression completely.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q8a",
+    "question": "Resolve $\\frac{x+1}{(x-1)(x-2)(x+3)}$ into partial fractions. Hence, obtain its binomial expansion up to the term in $x^2$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q8b",
+    "question": "If $\\alpha$ and $\\beta$ are the roots of the equation $ax^2 + bx + 1 = 0$, form the equation whose roots are $\\frac{1}{\\alpha + 2\\beta}$ and $\\frac{1}{\\beta + 2\\alpha}$ in terms of $a$ and $b$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q8c",
+    "question": "If one of the roots of equation $x^2 + px + q = 0$ is twice the other, prove that $2p^2 = 9q$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q9a",
+    "question": "Find the roots of the equation $z^5 + 1 = 0$, where $z = x + iy$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q9b",
+    "question": "Given that $z = r(\\cos \\theta + i \\sin \\theta)$, show that $z^n = r^n (\\cos n\\theta + i \\sin n\\theta)$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q10a(i)",
+    "question": "If $z_1 = \\frac{1}{1+i}, z_2 = \\frac{1}{1-i}$, find the value of $z_1^2 - z_2^2$ in the form $z = x + iy$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q10a(ii)",
+    "question": "Simplify $x^2 - \\frac{1}{x^2}$, given that $x = \\frac{1}{1 + i\\sqrt{3}}$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q10b",
+    "question": "Given that $\\sin^{-1} x + \\cos^{-1}(x\\sqrt{3}) = \\frac{\\pi}{2}$, find the value of $x$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q11a",
+    "question": "Using the expressions for $\\cos(A + B), \\sin(A + B)$, obtain an expression for $\\tan(A + B)$. Hence find the value of $A + B$ if $\\tan A = 5$ and $\\tan B = 1$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q11b",
+    "question": "Express $12 \\sin x - 5 \\cos x$ in terms of $R \\sin(x - \\alpha)$ and hence solve the equation $12 \\sin x - 5 \\cos x = 13$ for $0^\\circ \\le x \\le 360^\\circ$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  }
+]

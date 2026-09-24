@@ -1,0 +1,102 @@
+[
+  {
+    "number": "Q1",
+    "question": "Given that $y^{y^2} = 16$, find the value of $y$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q2",
+    "question": "Find the sum to infinity of the series $20 + 4 + \\frac{4}{5} + \\dots$",
+    "topic": "Sequences, Series & Binomial Expansion"
+  },
+  {
+    "number": "Q3",
+    "question": "Is the binary operation defined by $a * b = a - b - ab$, commutative?",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q4",
+    "question": "Express $(-1 - i\\sqrt{3})^{55}$ in the form $a + ib$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q5",
+    "question": "Without using tables or calculator, calculate $\\cot 15^\\circ$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q6a",
+    "question": "Given that $P = \\begin{pmatrix} 1 & 1 & 1 \\\\ -1 & 1 & 0 \\\\ 1 & 0 & 3 \\end{pmatrix}, Q = \\begin{pmatrix} 2 & 0 & -1 \\\\ 2 & 1 & 0 \\\\ -1 & 1 & 1 \\end{pmatrix}$, show that $|PQ| = |P||Q|$.",
+    "topic": "Matrices & Determinants"
+  },
+  {
+    "number": "Q6b",
+    "question": "Using mathematical induction, show that $\\sum_{r=1}^n (2r - 1) = n^2$.",
+    "topic": "Sequences, Series & Binomial Expansion"
+  },
+  {
+    "number": "Q6c",
+    "question": "Find the value $b$ for which the equation $bx^2 + bx + 1 = 0$ to have equal roots.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q7a",
+    "question": "Find the set of values of $x$ for which $4^{x+3} = 3^{x+4}$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q7b",
+    "question": "The expression $px^3 + qx^2 - x + r$ is divisible by $(x^2 - 1)$ and has a remainder $0$ when divided by $(x + 2)$. Find the values of $p, q$ and $r$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q8a",
+    "question": "Resolve $\\frac{x - 1}{(x^2 - 4)(x - 3)}$ into partial fractions. Hence, obtain its binomial expansion up to the term in $x^2$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q8b",
+    "question": "If $\\alpha$ and $\\beta$ are the roots of the equation $ax^2 + x + b = 0$, form the equation whose roots are $\\frac{1}{\\alpha + 2}$ and $\\frac{1}{\\beta + 2}$ in terms of $a$ and $b$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q8c",
+    "question": "If one of the roots of equation $ax^2 + x + c = 0$ is thrice the other, prove that $16ac = 3$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q9a",
+    "question": "Find the roots of the equation $z^3 - 1 = 0$, where $z = x + iy$ and show that their sum equal zero.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q9b",
+    "question": "Given that $\\cos n\\theta + i \\sin n\\theta = (\\cos \\theta + i \\sin \\theta)^n$, express $\\cos 5\\theta$ in terms of $\\cos \\theta$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q10a(i)",
+    "question": "If $z_1 = 3 + i$ and $z_2 = 2 - i$, find the value of $z_1^2 - z_2^2$ in the form $z = a + ib$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q10a(ii)",
+    "question": "Simplify $y^2 - \\frac{1}{y^2}$, given that $y = 1 + i$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q10b",
+    "question": "Given that $\\tan(A + B) = 1$ and $\\tan A = x$, find the value of $\\tan B$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q11a",
+    "question": "Using the expressions for $\\cos(A - B), \\sin(A - B)$, obtain an expression for $\\cot(A - B)$. Hence find the value of $A - B$ if $\\cot A = \\frac{1}{5}$ and $\\cot B = 1$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q11b",
+    "question": "Express $6 \\cos x - 8 \\sin x$ in terms of $R \\cos(x + \\alpha)$ and hence solve the equation $6 \\cos x - 8 \\sin x = 5$ for $0^\\circ \\le x \\le 180^\\circ$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  }
+]

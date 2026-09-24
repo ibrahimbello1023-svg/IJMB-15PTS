@@ -1,0 +1,277 @@
+[
+  {
+    "number": "Q1",
+    "question": "Determine the dimension of permittivity of free space ($\\varepsilon_0$).",
+    "topic": "Practicals"
+  },
+  {
+    "number": "Q2",
+    "question": "Assume two forces of magnitudes $\\sqrt{2}\\text{ N}$, $\\sqrt{5}\\text{ N}$ act at a point at angle $10^\\circ$ to each other. Find the resultant force.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q3a",
+    "question": "What are conservative and non conservative forces? Give one example for each.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q3b",
+    "question": "A force of magnitude $(\\hat{i} + \\hat{j} + 2\\hat{k})\\text{ N}$ is acted upon a particle of mass $5\\text{ kg}$ through a distance of $(4\\hat{i} - \\hat{j} + 10\\hat{k})\\text{ m}$. Find the work done.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q4",
+    "question": "Calculate the total amount of heat released if $1\\text{ kg}$ of steam at $107^\\circ\\text{C}$ is converted into ice at $-20^\\circ\\text{C}$.",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q5a",
+    "question": "State the zeroth law of thermodynamics and write down the mathematical expressions for the first law. State the meaning of each term in the equation.",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q5b",
+    "question": "In a given thermodynamic system, the internal energy decreases by $400\\text{ J}$ while it is doing $250\\text{ J}$ of work. Calculate the net heat taken in by the system in the process.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q6",
+    "question": "Given that, one mole of an ideal gas occupy a volume of $0.022400\\text{ m}^3$ is heated from $0^\\circ\\text{C}$ to $100^\\circ\\text{C}$ at constant pressure of $1.01 \\times 10^5\\text{ Nm}^{-2}$. Calculate the work done in the process by the gas.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q7",
+    "question": "If a steel wire of length $6.33\\text{ cm}$ and cross section of $1.07 \\times 10^{-6}\\text{ m}^2$ is stretches by $1.11\\text{ mm}$ by an external load of $29\\text{ N}$. Calculate the Young modulus of the steel.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q8a",
+    "question": "What are free and damped oscillatory motions? Illustrate graphically.",
+    "topic": "Practicals"
+  },
+  {
+    "number": "Q8b",
+    "question": "A pendulum bob of mass $20\\text{ g}$ and length $33\\text{ cm}$ is set to oscillate at $54^\\circ$. Find the potential energy stored.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q9",
+    "question": "Briefly explain the term standing waves. Determine if a wave of wavelength $4\\text{ mm}$ is propagated in air at a speed of $300\\text{ ms}^{-1}$, will it be audible by human sensation?",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q10",
+    "question": "If the speed of sound in air at $0^\\circ\\text{C}$ is $330\\text{ ms}^{-1}$. Find the change in speed at $10^\\circ\\text{C}$.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q11a i",
+    "question": "Define the term Rigid body, write the mathematical form/condition(s) for a body to be at equilibrium. Hence, state the three factors upon which the moment of inertia depends.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q11a ii",
+    "question": "Assume that, a certain wheel of a machine, accelerated uniformly from rest, and rotates through $1.13\\text{ radian}$ during the first second. What is the angle rotated during the next second?",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q11a iii",
+    "question": "Two particles having masses $m_1$ and $m_2$ are situated in a plane perpendicular to line $AB$ at a distance of $r_1$ and $r_2$, respectively as shown in figure 1. In terms of $r_1, r_2, m_1$ and $m_2$, find the: moment of inertia of the system about axis $AB$, moment of inertia of the system about an axis passing through $m_1$ and perpendicular to the line joining $m_1$ and $m_2$, and the moment of inertia of the system about an axis passing through $m_1$ and $m_2$.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q11b i",
+    "question": "Four particles of mass $1\\text{ kg}$, $2\\text{ kg}$, $3\\text{ kg}$ and $4\\text{ kg}$ are placed at the four vertices $A, B, C$ and $D$ of a square of side $1\\text{ m}$ as shown in figure 2. Find the position of centre of mass of the particles.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q11b ii",
+    "question": "What is escape velocity? Derive its expression.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q11b iii",
+    "question": "Assume that, two planets have masses in the ratio $1 : 10$ and radii in the ratio $2 : 5$. Find the ratio of their escape velocities from their surfaces.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q12a i",
+    "question": "What is meant by resultant force?",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q12a ii",
+    "question": "Consider four forces acting at a point as shown in figure 3. Find the magnitude and direction of the resultant force.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q12a iii",
+    "question": "A particle of mass $3\\text{ kg}$ is projected vertically upwards with a velocity of $29.4\\text{ m/s}$ from the top of a tower $34.3\\text{ m}$ high. Find the time taken by the particle to return to the tower. (Take $g = 9.8\\text{ ms}^{-2}$).",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q12b i",
+    "question": "State the three Newton's laws of motion in words. Hence, prove that, the Newton third law of motion can be written as $F = ma$.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q12b ii",
+    "question": "A force acts on a body of mass $300\\text{ g}$ at rest changes its speed to $3.77\\text{ ms}^{-1}$ in $1.65\\text{ seconds}$, calculate the impulse produced.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q12b iii",
+    "question": "What is trajectory? An object is projected with velocity of $30\\text{ ms}^{-1}$. Find the possible angles of projection so that, it covers a range of $45\\text{m}$.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q13a i",
+    "question": "Define the term deforming force. Hence, distinguish between elasticity and plasticity.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q13a ii",
+    "question": "Use figure 4 as a guide to find out the meaning of the following forms: $OA$, $OB$, $BC$, $CD$, and $DE$. Hence, state Hooke's law of elasticity and determine the physical meaning of the slope of the sketched graph in figure 4 within the point $OA$.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q13a iii",
+    "question": "Assume the bulk modulus of water is $2.3 \\times 10^9\\text{ Nm}^{-2}$. Calculate its compressibility and the pressure required to compress a sample of water by $0.02\\%$.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q13b",
+    "question": "Consider a certain wire of natural length $4\\text{m}$ long and $300\\mu\\text{m}$ in diameter is stretched by a load of $100\\text{N}$. If the extension produced in the wire is $0.3\\text{mm}$. Calculate: (i) the potential energy in the wire (ii) the work done in stretching the same wire of length $2\\text{m}$ and cross sectional area $1\\text{mm}^2$ through the extension of $0.1\\text{ mm}$. Take Young Modulus of the wire as $2.0 \\times 10^{11}\\text{ Nm}^{-2}$.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q14a i",
+    "question": "Distinguish between the following terms: heat capacity and Specific heat of substance, Latent heat and latent heat of fusion.",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q14a ii",
+    "question": "Briefly Explain the terms : absolute temperature scale and triple point of water.",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q14a iii",
+    "question": "Determine the temperature at which both the Fahrenheit and Celsius scales have the same reading?",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q14b i",
+    "question": "Consider a gas at $27^\\circ\\text{ C}$ in a cylinder has a volume of $4000\\text{ cm}^3$ and pressure $100\\text{ Nm}^{-2}$. Gas is first compressed at constant temperature so that the pressure is $150\\text{ Nm}^{-2}$. Calculate the change in volume. Also if it is then heated at constant volume so that temperature becomes $127^\\circ\\text{ C}$, Calculate the new pressure.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q14b ii",
+    "question": "State the necessary assumptions while describing an ideal gas, when a carbon dioxide gas is heated at $27^\\circ\\text{C}$. Calculate the root mean square speed ($v_{rms}$), the average speed ($v_{av}$) and the mean kinetic energy of the molecules. (molar mass of $\\text{CO}_2 = 44.0\\text{gmol}^{-1}$)",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q15a i",
+    "question": "What is meant by the term degree of freedom of gases? Determine the number of degree of freedom of monatomic gas.",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q15a ii",
+    "question": "When two moles of helium gas are mixed with four moles of hydrogen Find specific heat capacity at constant volume ($C_v$) and at constant pressure ($C_p$) of the mixture in terms of $R$. Hence, evaluate $\\gamma$ of the mixture.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q15b i",
+    "question": "State and briefly define the three modes of heat transfer.",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q15b ii",
+    "question": "State the Stefan's law of radiation and write down its mathematical form. State the meaning of each symbol in the equation.",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q15b iii",
+    "question": "Use a sketch diagram to explain the concept of black body radiation. Hence, sketch a graph of power of black body radiation versus wavelength at three temperatures.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q16a i",
+    "question": "Define the term thermodynamics. State and explain the four thermodynamic processes. Use mathematical equations where necessary.",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q16a ii",
+    "question": "Assume that, a gas initially at pressure $12.00\\text{ Nm}^{-2}$ and volume $9900.02\\text{ m}^3$ is compressed adiabatically to a volume of $600.01\\text{ m}^3$. Find the final pressure. (Take $\\gamma = 1.4$).",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q16b i",
+    "question": "Define the term entropy and briefly explain Carnot engine.",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q16b ii",
+    "question": "A Carnot engine operates between $227^\\circ\\text{C}$ and $27^\\circ\\text{C}$. It absorbed $100\\text{ J}$ from the hot reservoir. Calculate its efficiency, work out put and heat rejected.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q16b iii",
+    "question": "   hen $50\\text{ g}$ of ice water melts at $0^\\circ\\text{C}$.",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q17a i",
+    "question": "Use a sketch diagrams where necessary to explain the concept of standing waves.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q17a ii",
+    "question": "Consider the equation of a progressive wave $y = 6\\sin(0.02\\pi x + 4\\pi t)$. Where $x$ and $y$ are in meters and $t$ is in second. Calculate the following: amplitude, wavelength, frequency, the direction of propagation of the wave, maximum speed of the particle in the string and the period of the wave.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q17b i",
+    "question": "Write down the relation of the normal mode frequencies ($f$) of transverse waves on a string of length $l$ which is under tension $T$ and is fixed at two ends. Hence, prove that, the relation can also be written as: $\\sqrt{\\frac{T}{\\rho A}}$ where $\\rho$ and $A$ are the density and cross sectional area of the string.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q17b ii",
+    "question": "A string of length $50\\text{ cm}$ and mass per unit length $0.01\\text{ kgm}^{-1}$ has a fundamental frequency of $250\\text{ Hz}$. What is the tension in the string?",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q17c",
+    "question": "Consider a transverse wave at $t = 0$, propagated as shown in figure 5. If the speed of the wave is $300\\text{ms}^{-1}$, write down the equation of this wave.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q18a i",
+    "question": "State the effect of each of the following factors on the speed of sound on air. Temperature, Pressure and Humidity. Write down the necessary equation relating the speed for each factor.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q18a ii",
+    "question": "Briefly explain the terms: beat frequency and harmonics.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q18a iii",
+    "question": "Assume an open organ pipe of fundamental frequency $300\\text{ Hz}$. If the first overtone of a closed organ pipe has the same frequency as the first overtone of this open pipe. Find the length of each pipe.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q18b i",
+    "question": "What is mechanical wave? State the characteristics of mechanical wave.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q18b ii",
+    "question": "A ship sails in a straight line between two transmitting stations A and B which emit radio waves of the same frequency. The signal fluctuates in intensity and passes through a minimum each time the ship travels $100\\text{m}$. Calculate the frequency of the radio signals.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q18b iii",
+    "question": "A tube $1\\text{m}$ long closed at one end has its lowest resonance frequency at $86.2\\text{Hz}$. With the same tube open at both ends the first resonance occurs at $171\\text{Hz}$. Calculate the speed of sound in the column of air and the end correction for the tube briefly. Explain the underlined term.",
+    "topic": "Waves, Sound & Optics"
+  }
+]

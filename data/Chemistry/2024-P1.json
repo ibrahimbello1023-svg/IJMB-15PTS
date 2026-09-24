@@ -1,0 +1,237 @@
+[
+    {
+        "number": "Q1",
+        "question": "Classify each of the following statements as True or False:\n(a) Electropositivity of an element is inversely proportional to its electronegativity.\n(b) Sigma bond can be formed by lateral overlap of two p-orbitals.\n(c) A reaction occurring in a vacuum flask is an example of an isolated system.\n(d) Metals have sonorous property.\n(e) There are no intermolecular forces of attraction between real gas molecules.",
+        "topic": "States of Matter & Gas Laws"
+    },
+    {
+        "number": "Q2a",
+        "question": "How many moles of $\\text{Br}_2$ are there in $15.98\\text{ g}$ of $\\text{Br}_2$?",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q2b",
+        "question": "How many moles of $\\text{KOH}$ are there in $1\\text{ dm}^3$ of its $3\\text{ mole dm}^{-3}$ aqueous solution?",
+        "topic": "Stoichiometry & Volumetric Analysis"
+    },
+    {
+        "number": "Q2c",
+        "question": "How many atoms are there in two moles of cobalt?",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q2d",
+        "question": "How many atoms are there in $0.1\\text{ mole}$ of silicon?",
+        "topic": "Stoichiometry & Volumetric Analysis"
+    },
+    {
+        "number": "Q2e",
+        "question": "What is the mass of $6.023 \\times 10^{23}$ molecules of fluorine?",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q3",
+        "question": "State three (3) factors that can favour the formation of each of the following:\n(a) metallic bond;\n(b) ionic bond.",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q4",
+        "question": "A $35.5\\text{ g}$ of a gaseous compound, $\\text{Y}_2\\text{O}_5$ occupies a volume of $5.60\\text{ dm}^3$ at standard temperature and pressure. Calculate the relative molar mass of (a) $\\text{Y}_2\\text{O}_5$; (b) $\\text{Y}$.",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q5",
+        "question": "Consider the elements: $\\text{Na}$, $\\text{Si}$, $\\text{Mg}$, $\\text{P}$, $\\text{S}$, $\\text{Ar}$, $\\text{B}$, $\\text{Cl}$. Which of these elements:\n(a) forms a hydride with empirical formula, $\\text{XH}_3$?\n(b) exists as a diatomic molecule at room temperature?\n(c) is monoatomic at room temperature?\n(d) is the most electropositive?\n(e) has semiconducting property?",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q6a",
+        "question": "What are isotopes?",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q6b",
+        "question": "Why are isotopes chemically indistinguishable?",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q6c",
+        "question": "Give three (3) physical properties that can be used to differentiate between isotopes of an element.",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q7",
+        "question": "List five (5) characteristic properties of s-block elements.",
+        "topic": "Periodic Table & Periodicity"
+    },
+    {
+        "number": "Q8a",
+        "question": "What is the normal boiling point of a substance?",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q8b",
+        "question": "Is it possible for water to boil at a temperature higher than its boiling point? Justify your answer with suitable reason(s).",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q9",
+        "question": "You are given a mixture of three white crystalline substances P, Q and R. P sublimes but Q and R are not influenced by heat. All the substances are soluble in water. In addition, R is also soluble in methanol. Outline a method of separation to obtain pure samples of P, Q and R.",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q10",
+        "question": "Make a sketch of the following and give the name of the law represented in each case:\n(a) Variation of P with V for a fixed mass of gas at constant T;\n(b) Variation of PV with P for a fixed mass of gas at constant T;\n(c) Variation of V with T for a fixed mass of gas at constant P ($P = \\text{pressure}$, $V = \\text{volume}$, and $T = \\text{temperature}$).",
+        "topic": "States of Matter & Gas Laws"
+    },
+    {
+        "number": "Q11a",
+        "question": "Explain hybridisation of atomic orbitals. (2 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q11b",
+        "question": "Explain three important types of hybridisation involving valence electrons in $s$- and $p$-orbitals. (18 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q11c",
+        "question": "State Fajan's rule and explain how it can be used to predict solubility of a compound. (5 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q12a i",
+        "question": "Explain solubility product of a sparingly soluble salt. (3 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q12a ii",
+        "question": "Give two limitations of the concept of solubility product. (2 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q12a iii",
+        "question": "State 4 applications of the concept of solubility product. (4 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q12b",
+        "question": "Write the $K_{\\text{sp}}$ expression and its unit for each of the following sparingly soluble salts: (6 marks)\n(i) $\\text{BaSO}_4$;\n(ii) $\\text{Ni}_3(\\text{PO}_3)_2$.",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q12d",
+        "question": "Given that the $K_{\\text{sp}}$ of $\\text{BaCrO}_4$ is $1.80 \\times 10^{-14}\\text{ mol}^2\\text{dm}^{-6}$, calculate the concentration of $\\text{Ba}^{2+}$ in a saturated solution of $\\text{BaCrO}_4$ in: (10 marks)\n(i) pure water;\n(ii) presence of $1 \\times 10^{-3}\\text{ mol dm}^{-3}$ of $\\text{K}_2\\text{CrO}_4$.",
+        "topic": "Stoichiometry & Volumetric Analysis"
+    },
+    {
+        "number": "Q13a",
+        "question": "What are transition metals? (2 marks)",
+        "topic": "Inorganic & Coordination Chemistry"
+    },
+    {
+        "number": "Q13b",
+        "question": "State whether each of the following is a transition metal/ion or not. Justify your answers with appropriate reasons. (12 marks)\n(i) titanium;\n(ii) cobalt;\n(iii) copper(I) ion.",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q13c i",
+        "question": "Write the electronic configuration of $\\text{Fe}$, $\\text{Fe(II)}$, and $\\text{Fe(III)}$ and show their electron-in-box notations. (6 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q13c ii",
+        "question": "In which of the oxidation states in c(i) would you expect the iron to be the most stable? Suggest suitable explanation for your answer. (3 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q13d",
+        "question": "Give the names of any two neutral ligands. (2 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q14a",
+        "question": "Explain what is meant by the following: (6 marks)\n(i) Bond dissociation energy;\n(ii) Lattice dissociation energy;\n(iii) Atomisation energy.",
+        "topic": "Chemical Equilibrium"
+    },
+    {
+        "number": "Q14b",
+        "question": "Draw a complete labelled Born-Haber cycle for the formation of sodium chloride. (6 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q14c",
+        "question": "Calculate the lattice energy of sodium chloride from the following data: (6 marks)\nStandard heat of sublimation, $\\Delta H_s$ of metallic sodium $= +108\\text{ kJmol}^{-1}$,\nStandard enthalpy of formation, $\\Delta H_f$ of sodium chloride $= -411\\text{ kJmol}^{-1}$,\nStandard enthalpy of dissociation, $\\Delta H_d$ of chlorine $= +242\\text{ kJmol}^{-1}$,\nIonisation energy, $I$ of sodium $= +500\\text{ kJmol}^{-1}$,\nElectron affinity of chlorine atoms $= -364\\text{ kJmol}^{-1}$.",
+        "topic": "Chemical Equilibrium"
+    },
+    {
+        "number": "Q14d",
+        "question": "The values of the lattice energies of potassium halides are:\n| Compound | $\\text{KF}$ | $\\text{KCl}$ | $\\text{KI}$ |\n| --- | --- | --- | --- |\n| Lattice energy $(\\text{kJ mol}^{-1})$ | $-813$ | $-710$ | $-643$ |\nExplain the trend of the above values. (4 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q14e",
+        "question": "State three applications of bond energy. (3 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q15a",
+        "question": "Both carbon and silicon belong to group 14 of the periodic table, at room temperature silicon(IV) oxide is a giant solid but carbon(IV) oxide is a gas. (6 marks)",
+        "topic": "Periodic Table & Periodicity"
+    },
+    {
+        "number": "Q15b",
+        "question": "Lithium chloride is more soluble in ethoxyethane than sodium chloride. (4 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q15c",
+        "question": "Iodine forms compounds with oxidation number of $+7$ but fluorine can only form univalent compounds. (5 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q15d",
+        "question": "Nitrogen is markedly different from other members of the group 15 of the periodic table. (5 marks)",
+        "topic": "Periodic Table & Periodicity"
+    },
+    {
+        "number": "Q15e",
+        "question": "The odour of hydrogen sulphide gas is perceived when sodium hydrogen sulphide is dissolved in water. (5 marks)",
+        "topic": "States of Matter & Gas Laws"
+    },
+    {
+        "number": "Q16a",
+        "question": "Outline Dalton and Thompson theories/models of atom. (6 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q16b",
+        "question": "State three (3) limitations inherent in each of the models/theories in (a) above. (6 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q16c i",
+        "question": "A $0.6\\text{ mole}$ of copper(II) sulphide is treated with $1.40\\text{ mole}$ of trioxonitrate(V) acid according to the equation:\n$$3\\text{CuS}_{(s)} + 8\\text{HNO}_{3(aq)} \\longrightarrow 3\\text{Cu(NO}_3)_2{}_{(aq)} + 3\\text{S}_{(s)} + 2\\text{NO}_{(g)} + 4\\text{H}_2\\text{O}_{(l)}$$\nHow many moles of copper(II) nitrate could be formed? (5 marks)",
+        "topic": "Stoichiometry & Volumetric Analysis"
+    },
+    {
+        "number": "Q16c ii",
+        "question": "What is the limiting reagent in the reaction? (1 mark)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q16c iii",
+        "question": "Calculate the number of moles of excess reagent left at the end of the reaction. (3 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q16d i",
+        "question": "Cite one significance of actual yield in chemical manufacturing industries. (1 mark)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q16d ii",
+        "question": "Give three (3) reasons why actual yield is normally less than calculated yield in the synthesis of compounds. (3 marks)",
+        "topic": "General Chemistry"
+    }
+]

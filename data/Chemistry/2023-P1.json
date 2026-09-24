@@ -1,0 +1,192 @@
+[
+    {
+        "number": "Q1",
+        "question": "State the type of bonding in each of the following:\n(a) $\\text{CsF}(s)$;\n(b) $\\text{N}_2(g)$;\n(c) $\\text{Na}(s)$;\n(d) $\\text{O}_3(g)$;\n(e) $\\text{MgCl}_2(s)$.",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q2a",
+        "question": "Suggest the IUPAC names of two oxides of nitrogen that are neutral to moist litmus paper.",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q2b",
+        "question": "Define the following terms:\n(i) Molecularity of a reaction;\n(ii) Unit cell of a crystal;\n(iii) Lattice defect.",
+        "topic": "Electrochemistry"
+    },
+    {
+        "number": "Q3a",
+        "question": "Define an element.",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q3b",
+        "question": "How many atoms are there in each of the following:\n(i) $3\\text{ moles}$ of scandium?\n(ii) $32\\text{ g}$ of hydrogen sulphide?\n(iii) $13\\text{ g}$ of silicon?",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q4",
+        "question": "In the complex ion, $[\\text{Zn}(\\text{OH})_4]^{2-}$\n(a) Give the oxidation number of $\\text{Zn}$ in the complex.\n(b) What is the coordination number of $\\text{Zn}$ in the complex ion?\n(c) Draw the structure of the complex ion and indicate any coordinate covalent bond(s) involved.\n(d) What is the shape of the ion?",
+        "topic": "Inorganic & Coordination Chemistry"
+    },
+    {
+        "number": "Q5",
+        "question": "A $1.32\\text{ g}$ of magnesium was dissolved in diluted hydrochloric acid and the solution was heated in a stream of hydrogen chloride. If $5.26\\text{ g}$ of an anhydrous metal chloride remained, what is the simplest formula of the metal chloride formed?",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q6",
+        "question": "Consider the following elements of the elements in the periodic table: $\\text{F}$, $\\text{He}$, $\\text{Cs}$, $\\text{Cl}$, $\\text{Mg}$ and $\\text{K}$. Which of them:\n(a) has the lowest electronegativity value?\n(b) has the highest electron affinity value?\n(c) exist as monoatomic species at room temperature?\n(d) has the largest atomic size?\n(e) has the highest ionisation potential?",
+        "topic": "Periodic Table & Periodicity"
+    },
+    {
+        "number": "Q7a",
+        "question": "Explain briefly how change in temperature can affect solubility of a solute in a given solvent.",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q7b",
+        "question": "If the solubility of copper(II) tetraoxosulphate(VI) pentahydrate $(\\text{CuSO}_4\\cdot5\\text{H}_2\\text{O})$ at $30^\\circ\\text{C}$ is $25\\text{g}$ per $100\\text{g}$ of water, what is the maximum mass of crystals that will be obtained from $10\\text{g}$ of the solution?",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q8",
+        "question": "The isotope $^{42}_{19}\\text{K}$ undergoes $\\beta$-decay to form $^{42}_{20}\\text{Ca}$. If after $62.0\\text{ hours}$, $96.88\\%$ of $^{42}_{20}\\text{Ca}$ was found to have undergone transformation, what is the half-life of the isotope?",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q9",
+        "question": "State the reason for each of the following statement about alkali metals:\n(a) They are univalent.\n(b) They have poor complexing tendency.\n(c) They are strong reducing agents.\n(d) They have the lowest first ionisation enthalpy values in their respective periods.\n(e) They are largely ionic in nature.",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q10a",
+        "question": "Define rate of a chemical reaction.",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q10b",
+        "question": "A drop of water of volume $0.05\\text{ cm}^3$ from a pipette contains $3.0 \\times 10^{-6}\\text{ mole}$ of hydrogen ion. If the rate of disappearance of the hydrogen ion is $1.00 \\times 10^{-7}\\text{ mol dm}^{-3}\\text{ s}^{-1}$, how long would it take for the hydrogen ion in the drop to disappear?",
+        "topic": "Stoichiometry & Volumetric Analysis"
+    },
+    {
+        "number": "Q11a",
+        "question": "Define the following terms: (8 marks)\n(i) Standard heat of formation of a substance;\n(ii) Standard heat of combustion;\n(iii) Standard heat of sublimation;\n(iv) Standard heat of atomisation.",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q11b",
+        "question": "State Hess' law of heat summation. (2 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q11c",
+        "question": "A tautometric keto (A) - enol (B) equilibrium can be represented as follows:\n$$\\text{H}-\\overset{\\overset{\\text{H}}{\\vert}}{\\text{C}}-\\overset{\\overset{\\text{O}}{\\Vert}}{\\text{C}}-\\text{H} \\rightleftharpoons \\overset{\\overset{\\text{H}}{\\vert}}{\\text{C}}=\\overset{\\overset{\\text{OH}}{\\vert}}{\\text{C}}-\\text{H}$$\nGiven the following bond energy values:\n$\\text{C-H} = 435\\text{ kJmol}^{-1}$; $\\text{C-C} = 368\\text{ kJmol}^{-1}$; $\\text{C=C} = 610\\text{ kJmol}^{-1}$; $\\text{C-O} = 357\\text{ kJmol}^{-1}$; $\\text{C=O} = 748\\text{ kJmol}^{-1}$; $\\text{O-H} = 462\\text{ kJmol}^{-1}$\n(i) Calculate the enthalpy change from the keto form (A) to the enol form (B). (7 marks)\n(ii) Assuming the entropy change for the conversion of (A) to (B) is zero, calculate the equilibrium constant for the keto - enol equilibrium at $27^\\circ\\text{C}$. (8 marks)",
+        "topic": "Chemical Equilibrium"
+    },
+    {
+        "number": "Q12a",
+        "question": "Write the electron configuration of the valence shell of the following group of elements in the periodic table: (3 marks)\n(i) group 2;\n(ii) group 13;\n(iii) group 15.",
+        "topic": "Periodic Table & Periodicity"
+    },
+    {
+        "number": "Q12b",
+        "question": "Using an example of any member of group 2,\n(i) write the formula of an oxide of a group 2 element; (1 mark)\n(ii) what is the bond type of the oxide in (i) above? (1 mark)\n(iii) Write the chemical equation for the reaction of the oxide with water. (2 marks)\n(iv) Give an equation of the reaction between $\\text{HCl}$ and the product formed in (iii) above. (2 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q12c",
+        "question": "Account for each of the following observations:\n(i) Whereas both zinc and copper have the same $d$ electron configuration, zinc or its ion is a non-transition element but copper or its ion is regarded as transition element. (4 marks)\n(ii) The maximum covalency of carbon is four but that of silicon is six. (5 marks)\n(iii) The melting point of $\\text{AlF}_3$ is greater than that of $\\text{AlCl}_3$. (5 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q12d",
+        "question": "What do you understand by the term \"catenation\"? (2 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q13a",
+        "question": "State five assumptions of kinetic theory of gases. (5 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q13b",
+        "question": "Deduce the following gas laws from kinetic theory equation of an ideal gas: (10 marks)\n(i) Avogadro's law;\n(ii) Graham's law of diffusion.",
+        "topic": "States of Matter & Gas Laws"
+    },
+    {
+        "number": "Q13c",
+        "question": "The van der Waal's equation for a mole of real gas is\n$$\\left(P + \\frac{a}{V^2}\\right)(V - b) = RT$$\nCompare this equation with the equation, $PV = RT$ for a mole of an ideal gas and explain why the volume and pressure corrections are necessary. (7 marks)",
+        "topic": "Stoichiometry & Volumetric Analysis"
+    },
+    {
+        "number": "Q13d",
+        "question": "Calculate the pressure of one mole of oxygen gas at $200\\text{K}$ when placed in $1\\text{ dm}^3$ container assuming ideal behaviour. (3 marks)",
+        "topic": "Stoichiometry & Volumetric Analysis"
+    },
+    {
+        "number": "Q14a",
+        "question": "Explain the following concepts of acids and bases giving appropriate examples in each case: (9 marks)\n(i) Arrhenius;\n(ii) Lewis;\n(iii) Br\u00f8nsted-Lowry.",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q14b",
+        "question": "Classify the reactants in the following reactions as acid or base and identify the acid-base conjugate pairs:\n(i) $\\text{CH}_3\\text{COO}^- + \\text{HCN} \\rightleftharpoons \\text{CH}_3\\text{COOH} + \\text{CN}^-$ (2 marks)\n(ii) $\\text{H}_2\\text{PO}_4^- + \\text{NH}_3 \\rightleftharpoons \\text{HPO}_4^{2-} + \\text{NH}_4^+$ (2 marks)\n(iii) $\\text{HClO} + \\text{CH}_3\\text{NH}_2 \\rightleftharpoons \\text{CH}_3\\text{NH}_3^+ + \\text{ClO}^-$ (2 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q14c i",
+        "question": "Arrange the following equimolar solutions in order of increasing $\\text{pH}$:\n$\\text{NH}_4\\text{Cl}$, $\\text{KOH}$, $\\text{HCl}$, $\\text{KCl}$, $\\text{HCOOH}$, and $\\text{HCOONa}$. Give reasons for your order of arrangement. (6 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q14c ii",
+        "question": "Give two physical methods to show that $\\text{HCl}$ dissociates more in aqueous solution than methanoic acid. (4 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q15a",
+        "question": "Give 4 postulates of Bohr atomic theory. (4 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q15b",
+        "question": "State 2 each of the successes and limitations of Bohr atomic theory. (4 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q15c",
+        "question": "Explain the experimental evidence for the small size of the nucleus of an atom (detail of the experiment is not required). (5 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q15d",
+        "question": "Calculate the ionisation enthalpy of hydrogen atom. Given that the frequency of convergence limit of the Lyman series of a hydrogen atom is $3.29 \\times 10^{15}\\text{ Hz}$. (4 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q15f",
+        "question": "Explain the importance of $n$, $l$, $m$, and $s$ quantum numbers in the orbital arrangement of electrons in atoms. (8 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q16a",
+        "question": "Compound A, $[\\text{FeBr}(\\text{H}_2\\text{O})_5]\\text{SO}_4$, is isomeric with another compound B, $[\\text{FeSO}_4(\\text{H}_2\\text{O})_5]\\text{Br}$\n(i) What type of isomerism exists between the compounds, A and B? (1 mark)\n(ii) What ions would these isomers yield in aqueous solution? (4 marks)\n(iii) Using simple laboratory tests, explain how you can differentiate between the two isomers? (6 marks)\n(iv) State the oxidation state, electron configuration and coordination number of $\\text{Fe}$ in compound A? (4 marks)",
+        "topic": "Inorganic & Coordination Chemistry"
+    },
+    {
+        "number": "Q16b",
+        "question": "Draw the structure of $[\\text{FeBr}(\\text{H}_2\\text{O})_5]^{2+}$ and indicate all the coordinate covalent bonds involved. (2 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q16c",
+        "question": "Give the formula of an example of each of the following: (6 marks)\n(i) cationic complex of cobalt;\n(ii) anionic complex of cobalt;\n(iii) neutral complex of cobalt.",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q16d",
+        "question": "Give two examples of double salts. (2 marks)",
+        "topic": "General Chemistry"
+    }
+]

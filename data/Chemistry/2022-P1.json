@@ -1,0 +1,162 @@
+[
+    {
+        "number": "Q1a",
+        "question": "What is the maximum electron population in each of the following?\n(i) $n = 2$ shell;\n(ii) $3d$ subshell;\n(iii) $4p_y$ sub-orbital.",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q1b",
+        "question": "Give the set of quantum numbers for the first 2 electrons in the third shell.",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q2",
+        "question": "The osmotic pressure of a solution prepared by dissolving $1.0\\text{ g}$ of haemoglobin in $100\\text{ cm}^3$ of water is $0.413\\text{ kPa}$ at $20^\\circ\\text{C}$. Calculate\n(a) concentration in the unit of $\\text{g m}^{-3}$;\n(b) the molar mass of the haemoglobin.",
+        "topic": "Stoichiometry & Volumetric Analysis"
+    },
+    {
+        "number": "Q3",
+        "question": "In the complex ion, $[\\text{CrBrCl}(\\text{H}_2\\text{O})_4]^+$\n(a) Give the oxidation number of $\\text{Cr}$ in the complex\n(b) What is the coordination number of $\\text{Cr}$ in the complex?\n(c) Draw the structure of the complex ion and indicate the co-ordinate covalent bonds involved.\n(d) What is the shape of the ion?",
+        "topic": "Inorganic & Coordination Chemistry"
+    },
+    {
+        "number": "Q4a",
+        "question": "What are isotopes?",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q4b",
+        "question": "Five atoms that have the following composition:\n\n| Atom | protons | electrons | neutrons |\n| :--- | :---: | :---: | :---: |\n| M | 8 | 8 | 8 |\n| N | 8 | 7 | 8 |\n| P | 8 | 8 | 7 |\n| Q | 7 | 8 | 8 |\n| R | 8 | 8 | 9 |\n\nWhich of these are isotopes?",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q5",
+        "question": "Consider the following elements or most stable ions of the elements in the periodic table: $\\text{Mg}$, $\\text{Hg}$, $\\text{P}$, $\\text{Cl}$, $\\text{Na}$ and $\\text{Ar}$.\n(a) Which of these elements is most electropositive?\n(b) Which of these elements is a metal with the lowest melting point?\n(c) Which of these elements has lowest electron affinity?\n(d) Which of these elements has highest ionisation potential?\n(e) Which of these elements has highest electronegativity?",
+        "topic": "Periodic Table & Periodicity"
+    },
+    {
+        "number": "Q6",
+        "question": "Calculate the mass of the following:\n(a) $6.023 \\times 10^{23}$ atoms of nitrogen\n(b) $6.023 \\times 10^{23}$ molecules of nitrogen\n(c) a mole of carbon(II) oxide\n(d) $0.4\\text{ mole}$ of nitrogen(IV) oxide\n(e) $2\\text{ moles}$ of boron atoms",
+        "topic": "Stoichiometry & Volumetric Analysis"
+    },
+    {
+        "number": "Q7",
+        "question": "In each of the following pair, identify molecular species with the higher entropy [assuming constant temperature except in (c)]\n(a) $1\\text{ mole}$ of solid $\\text{KBr}$ or $1\\text{ mole}$ of an aqueous $\\text{KBr}$;\n(b) $1\\text{ mole}$ of $\\text{SO}_2$ or $1\\text{ mole}$ of $\\text{SO}_3$;\n(c) sea water in mid-winter at $2^\\circ\\text{C}$ or in mid-summer at $23^\\circ\\text{C}$;\n(d) $3\\text{ moles}$ of oxygen gas or $2\\text{ moles}$ of ozone gas;\n(e) $1\\text{ mole}$ of $\\text{CO}_2$ solid or $1\\text{ mole}$ of $\\text{CO}_2$ gas.",
+        "topic": "Stoichiometry & Volumetric Analysis"
+    },
+    {
+        "number": "Q8",
+        "question": "A $0.372\\text{ mole dm}^{-3}$ $\\text{KMnO}_4$ solution was titrated against a solution of hydrogen peroxide which had been diluted $10\\text{ times}$. A $25\\text{ cm}^3$ of the diluted peroxide solution was neutralised by $26.20\\text{ cm}^3$ of $\\text{KMnO}_4$ solution. Calculate the molarity of the original peroxide solution.",
+        "topic": "Stoichiometry & Volumetric Analysis"
+    },
+    {
+        "number": "Q9a",
+        "question": "State two factors responsible for the softness of group 1 elements of the periodic table.",
+        "topic": "Periodic Table & Periodicity"
+    },
+    {
+        "number": "Q9b",
+        "question": "Why is the enthalpy of hydration of calcium higher than that of potassium ion?",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q10",
+        "question": "State the number of phases in each of the following:\n(a) air;\n(b) a mixture containing oil and water;\n(c) a mixture of salt and sand;\n(d) a mixture of ethanol and water;\n(e) addition of $\\text{CaCO}_3$ to a mixture containing $\\text{CaO}$ and $\\text{CO}_2$ gas.",
+        "topic": "States of Matter & Gas Laws"
+    },
+    {
+        "number": "Q11a",
+        "question": "In the electrolysis of an aqueous solution of copper(II) tetraoxosulphate(IV), explain what would happen at the electrodes if:\n(i) platinum electrodes are used. (5 marks)\n(ii) copper electrodes are used. Write where necessary, ionic equations to support your answer. (4 marks)",
+        "topic": "Electrochemistry"
+    },
+    {
+        "number": "Q11b",
+        "question": "Comment on the observation that iron sheet rusts less rapidly when coated with zinc (galvanised) than when coated with tin (tinned). (9 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q11c",
+        "question": "Calculate the change in potential of a copper electrode at $300\\text{ K}$, if the concentration of copper(II) tetraoxosulphate solution in contact with it was changed from $0.5$ to $0.001\\text{ mol dm}^{-3}$. (7 marks)",
+        "topic": "Electrochemistry"
+    },
+    {
+        "number": "Q12a",
+        "question": "An element, A has an atomic number of 29\n(i) Write full electron configuration of A; (2 marks)\n(ii) Is the element, A in s-, p- or d-block of the periodic table? (1 mark)\n(iii) State any five characteristic properties of A. (5 marks)\n(iv) What is the principal oxidation number of A? (1 mark)\n(v) Show whether the oxide of A is likely to be acidic, basic or amphoteric substance. (2 marks)\n(vi) State the expected bond type of the oxide in a(v) above. (1 mark)",
+        "topic": "Periodic Table & Periodicity"
+    },
+    {
+        "number": "Q12b",
+        "question": "(i) What is allotropy? (2 marks)\n(ii) Name the two allotropes of carbon. (2 marks)\n(iii) Which of them conducts electricity and which would not. (2 marks)\n(iv) Give a suitable explanation to support your choice. (4 marks)\n(v) Give two other elements that exhibit allotropy in the periodic table (2 marks)",
+        "topic": "Periodic Table & Periodicity"
+    },
+    {
+        "number": "Q13a",
+        "question": "What is a phase? (2 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q13b",
+        "question": "Give one characteristic of a phase. (1 mark)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q13c",
+        "question": "Sketch the phase diagram of each of the following:\n(i) water; (ii) carbon(IV) oxide. (8 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q13d",
+        "question": "(i) Outline any three essential features of diagram c(i) (3 marks)\n(ii) Explain any two differences between the diagrams, c(i) and c(ii) above. (2 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q13e",
+        "question": "(i) State Raoult's law for ideal solutions. (2 marks)\n(ii) A mixture of $0.2\\text{ mole}$ of methanol A and $0.5\\text{ mole}$ of propanol B has a total vapour pressure of $40\\text{ mmHg}$ at $298\\text{K}$. If the mixture obeys Raoult's law, calculate the vapour pressure of pure B at $298\\text{K}$ given that the pressure of pure A is $20\\text{ mmHg}$ at $298\\text{K}$. (7 marks)",
+        "topic": "Stoichiometry & Volumetric Analysis"
+    },
+    {
+        "number": "Q14a",
+        "question": "State Moseley law of periodic table. (2 marks)",
+        "topic": "Periodic Table & Periodicity"
+    },
+    {
+        "number": "Q14b",
+        "question": "Define the following periodic properties using an appropriate chemical equation in each case:\n(i) ionisation energy; (3 marks)\n(ii) electron affinity. (3 marks)",
+        "topic": "Periodic Table & Periodicity"
+    },
+    {
+        "number": "Q14c",
+        "question": "State and account for the trend in the properties listed in (b) above:\n(i) across a period;\n(ii) down a group in the periodic table. (12 marks)",
+        "topic": "Periodic Table & Periodicity"
+    },
+    {
+        "number": "Q14d",
+        "question": "Arrange the ions, $\\text{F}^-$, $\\text{Na}^+$, $\\text{N}^{3-}$ and $\\text{Mg}^{2+}$ in the order of increasing size. Advance reason for your answer. (5 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q15a",
+        "question": "Account for the following observations:\n(i) Tin and lead form tetravalent ions but carbon and silicon do not. (5 marks)\n(ii) $\\text{NaCl}$ is insoluble in organic solvent whereas $\\text{AlCl}_3$ is substantially soluble in organic solvent. (5 marks)\n(iii) The melting points of group 14 elements decrease down the group of the periodic table. (2 marks)\n(iv) $\\text{PCl}_5$ is more stable than $\\text{PCl}_3$ on the other hand, $\\text{BiCl}_5$ is unstable but $\\text{BiCl}_3$ is stable. (6 marks)\n(v) Excessive inhalation of carbon(II) oxide is toxic to humans. (4 marks)",
+        "topic": "Periodic Table & Periodicity"
+    },
+    {
+        "number": "Q15b",
+        "question": "(i) What is hydrogen bonding? (2 marks)\n(ii) List two conditions that must be satisfied before hydrogen bond can be formed. (2 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q16a",
+        "question": "List any four laws of chemical combination of atoms. (4 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q16b",
+        "question": "(i) Zinc oxide was prepared in the laboratory by using two experimental procedures. In the first method, $0.325\\text{g}$ of zinc combined with $0.08\\text{g}$ of oxygen to form the metal oxide. In the second procedure, $1.625\\text{g}$ of zinc reacted with $0.4\\text{g}$ of oxygen to produce the oxide of the metal. Calculate the percentage by mass of the metal in the oxide in each of the methods. (4 marks)\n(ii) Which of the laws of chemical combination do the above data illustrate? Justify with suitable reason. (3 marks)\n(iii) Cite any limitation of the law. (1 mark)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q16c",
+        "question": "In the Haber process for an industrial manufacture of ammonia, $15\\text{ cm}^3$ of nitrogen was mixed with $80\\text{cm}^3$ of hydrogen gas under suitable condition.\n(i) Determine the reaction stoichiometry. (2 marks)\n(ii) Determine which of the reactant gases is in excess and by what amount. (6 marks)\n(iii) Determine the volume of reaction product. (2 marks)\n(iv) Calculate the volume of residual gas mixture at the end of the reaction. (3 marks)",
+        "topic": "States of Matter & Gas Laws"
+    }
+]

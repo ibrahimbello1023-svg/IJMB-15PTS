@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Theory Question Bank</title>
+    <link rel="stylesheet" href="style.css">
+    
+    <!-- MathJax Setup -->
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] },
+            chtml: { scale: 1.1 }
+        };
+    </script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+
+    <div class="container">
+  <!-- Search & Subject Filter Bar -->
+  <div class="search-controls" style="display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: wrap;">
+    <select id="subjectSelect" style="padding: 8px; border-radius: 6px; border: 1px solid #ccc;">
+      <option value="All">All Subjects</option>
+      <option value="Chemistry">Chemistry</option>
+      <option value="Mathematics">Mathematics</option>
+      <option value="Physics">Physics</option>
+    </select>
+
+    <select id="topicSelect" style="padding: 8px; border-radius: 6px; border: 1px solid #ccc; min-width: 220px;">
+      <option value="All Topics">All Topics</option>
+    </select>
+    
+    <input type="text" id="searchInput" placeholder="Search questions..." style="flex: 1; min-width: 220px; padding: 8px; border-radius: 6px; border: 1px solid #ccc;" />
+    <button id="searchBtn" style="padding: 8px 16px; border-radius: 6px; cursor: pointer;">Search</button>
+  </div>
+
+  <!-- Directory Grid Navigation -->
+  <div id="directoryNav" class="directory-container"></div>
+
+  <hr class="line-break">
+
+  <h2 id="viewTitle">Select a paper above</h2>
+
+  <!-- Questions Display Area -->
+  <div id="questionsContainer"></div>
+</div>
+
+    <script src="script.js"></script>
+</body>
+</html>

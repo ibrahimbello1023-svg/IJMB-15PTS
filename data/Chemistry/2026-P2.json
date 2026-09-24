@@ -1,0 +1,62 @@
+[
+    {
+        "number": "Q1",
+        "question": "The structure of the main constituent in antifreeze is:\n$$\\text{H}-\\text{C}(\\text{H})\\text{OH}-\\text{C}(\\text{OH})\\text{H}-\\text{C}(\\text{H})\\text{OH}-\\text{H}$$\nWhat is the\n(a) molecular formula\n(b) Empirical formula\n(c) IUPAC nomenclature (5 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q2",
+        "question": "Identify the reaction process induced by each of the following reagents:\n(a) concentrated $\\text{HNO}_3/\\text{H}_2\\text{SO}_4$\n(b) $\\text{LiAlH}_4$\n(c) acidified $\\text{KMnO}_4$\n(d) $\\text{CH}_3\\text{Cl}/\\text{AlCl}_3$\n(e) $\\text{Na}/\\text{liquid }\\text{NH}_3$ (5 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q3",
+        "question": "(a) Define Isotopy.\n(b) Give the formula of the three (3) known isotopes of carbon. (5 marks)",
+        "topic": "Periodic Table & Periodicity"
+    },
+    {
+        "number": "Q4",
+        "question": "The structures of the amino acids alanine and glycine are shown below.\n[Structures for alanine and glycine provided]\n(a) (i) Alanine exists as a pair of stereoisomers. Explain the meaning of the term stereoisomers.\n(ii) State how you could distinguish between the stereoisomers.\n(b) Give the formulae of the peptides which are formed when alanine and glycine react together (5 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q5",
+        "question": "In the chlorination of decane ($\\text{C}_{10}\\text{H}_{22}$),\n(a) what is the likely mechanism for the process\n(b) what type of bond fission is involved\n(c) how many different structural isomers can be produced for $\\text{C}_{10}\\text{H}_{21}\\text{Cl}$\n(d) draw the molecular formula of one of the isomer and name it (5 marks)",
+        "topic": "Organic Chemistry"
+    },
+    {
+        "number": "Q6",
+        "question": "How many pi ($\\pi$) electrons are present in each of the following molecules?\n(a) Propyne\n(b) Buta-1,3-diene\n(c) Cyclohexene\n(d) Hexane\n(e) Propanal (5 marks)",
+        "topic": "Organic Chemistry"
+    },
+    {
+        "number": "Q7",
+        "question": "List five (5) primary petrochemical feed stocks in the petrochemical industry (5 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q8",
+        "question": "Classify the following substituent groups as \"activating\" or \"deactivating\" in aromatic substitution reactions.\n(a) $-\\text{NO}_2$\n(b) $-\\text{SO}_3\\text{H}$\n(c) $-\\text{OH}$\n(d) $-\\text{COOH}$\n(e) $-\\text{NH}_2$ (5 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q9",
+        "question": "Give the molecular formula and name of the sixth, seventh, eighth, ninth and tenth member of the alkane homologous series. (5 marks)",
+        "topic": "Organic Chemistry"
+    },
+    {
+        "number": "Q10",
+        "question": "Give the structure of the first member of the following homologous series:\n(a) Alkyne\n(b) Alkanone\n(c) Alkanoic acid\n(d) Alkanamide\n(e) Alkanol (5 marks)",
+        "topic": "Organic Chemistry"
+    },
+    {
+        "number": "Q11",
+        "question": "(a) Explain, with illustrative examples, what is meant by the terms:\n(i) saponification (ii) esterification (iii) ethanoylation (iv) decarboxylation (15 marks)\n(b) List five (5) main fractions of the fractional distillation of crude oil and their uses. (10 marks)",
+        "topic": "Organic Chemistry"
+    },
+    {
+        "number": "Q12",
+        "question": "(a) An organic compound ($0.30\\text{ g}$) with relative molar mass $= 180$, was analysed and found to contain $0.120\\text{ g}$ of carbon and $0.02\\text{ g}$ of hydrogen. What is the empirical formula, molecular formula and molecular structure of the compound? (12 marks)\n(b) Give the structure of the organic product obtainable in the reaction of ethanamide with:\n(i) Phosphorus(V) oxide\n(ii) Dioxonitrate(III) acid\n(iii) Bromine and potassium hydroxide solution\n(iv) Lithium tetrahydridoaluminate\n(v) Hydrochloric acid (10 marks)",
+        "topic": "Organic Chemistry"
+    }
+]

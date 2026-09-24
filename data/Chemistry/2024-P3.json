@@ -1,0 +1,82 @@
+[
+    {
+        "number": "Q1a i",
+        "question": "Pipette 20 or $25\\text{ cm}^3$ portions of solution E in to a conical flask and add $20\\text{ cm}^3$ of solution F, to it. Titrate with solution B, from a burette to a permanent pink colour. Repeat the titration 2 more times.",
+        "topic": "Stoichiometry & Volumetric Analysis"
+    },
+    {
+        "number": "Q1a ii",
+        "question": "Pipette 20 or $25\\text{ cm}^3$ portion of solution B in to a conical flask. Add $10\\text{ cm}^3$ of solution C, and $20\\text{ cm}^3$ of solution F, to it. Dilute the mixture with distilled water to about $150\\text{ cm}^3$ and titrate the resulting solution with solution A from the burette using 3 drops of solution D as indicator. Repeat the titration 2 more times (20 marks)",
+        "topic": "Stoichiometry & Volumetric Analysis"
+    },
+    {
+        "number": "Q1a iii",
+        "question": "Determine the average titre for each titration (4 marks)",
+        "topic": "Stoichiometry & Volumetric Analysis"
+    },
+    {
+        "number": "Q1a iv",
+        "question": "Balance the reaction equations (6 marks)\n$$\\text{MnO}_4^- + \\text{Fe}^{2+} + \\text{H}^+ \\longrightarrow \\text{Mn}^{2+} + \\text{Fe}^{3+} + \\text{H}_2\\text{O}$$\n$$\\text{MnO}_4^- + \\text{I}^- + \\text{H}^+ \\longrightarrow \\text{Mn}^{2+} + \\text{I}_2 + \\text{H}_2\\text{O}$$\n$$\\text{I}_2 + \\text{S}_2\\text{O}_3^{2-} \\longrightarrow \\text{I}^- + \\text{S}_4\\text{O}_6^{2-}$$",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q1b i",
+        "question": "Calculate the mass concentration of solution E, (2 marks)",
+        "topic": "Stoichiometry & Volumetric Analysis"
+    },
+    {
+        "number": "Q1b ii",
+        "question": "Calculate the molar concentration of solution E. (3 marks)",
+        "topic": "Stoichiometry & Volumetric Analysis"
+    },
+    {
+        "number": "Q1b iii",
+        "question": "Calculate the number of moles of solution E consumed during the reaction. (2 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q1b iv",
+        "question": "Calculate the number of moles of $\\text{MnO}_4^-$ titrated. (3 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q1b v",
+        "question": "Calculate the molar concentration of $\\text{MnO}_4^-$. (2 marks)",
+        "topic": "Stoichiometry & Volumetric Analysis"
+    },
+    {
+        "number": "Q1b vi",
+        "question": "Calculate the number of moles of $\\text{S}_2\\text{O}_3^{2-}$ that reacted with $\\text{MnO}_4^-$. (2 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q1b vii",
+        "question": "Calculate the molar concentration of $\\text{S}_2\\text{O}_3^{2-}$. (2 marks)",
+        "topic": "Stoichiometry & Volumetric Analysis"
+    },
+    {
+        "number": "Q1b viii",
+        "question": "Calculate the value of X in $\\text{Na}_2\\text{S}_2\\text{O}_3 \\cdot X\\text{H}_2\\text{O}$. (4 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q2 A a",
+        "question": "Record the physical characteristics of the sample.",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q2 A b",
+        "question": "Solubility test: with small quantities of the sample in separate test tubes, determine the solubility of the sample in:\ni. water\nii. dilute hydrochloric acid\niii. dilute sodium hydroxide",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q2 A c",
+        "question": "Functional group test:\ni. using a cleaned spatula, heat a small quantity of the sample in a Bunsen Burner flame.\nii. to a small quantity of the sample dissolved in ethanol, add small amount of $\\text{NaHCO}_3$, warm the resulting mixture and note any gas evolution. If gas is evolved, test its reaction with lime water.\niii. to a small quantity of the sample dissolved in ethanol, add $1\\text{ ml}$ of $\\text{H}_2\\text{SO}_4$ and warm the resulting mixture. Perceive the odour of the mixture by blowing air with your hand across the mouth of the reaction test tube.\niv. dissolve a small amount of the sample in ethanol. Dip a moist red litmus paper into a dilute solution of $\\text{NaOH}$ or $\\text{NH}_3$, the colour changes to blue. Then dip this blue litmus paper into the sample solution.",
+        "topic": "Organic Chemistry"
+    },
+    {
+        "number": "Q2 B",
+        "question": "You are provided with an unknown inorganic sample A2. Carry out the following test.\n(i) Take a pinch of the salt on a clean spatula and carry out a flame test using a Bunsen burner\n(ii) Take the remaining sample in a test tube and add about $2\\text{ ml}$ distilled water.\n(iii) Add dilute hydrochloric acid drop wise and then in excess to the test tube mixture. Note any gas evolution. If gas is evolved, test it with lime water solution. Divide the resultant solution into 3 portions.\n(iv) To a portion of the resultant solution, add silver trioxonitrate(V) solution\n(v) To a portion of the resultant solution, add ammonium hydroxide solution drop wise and then in excess\n(vi) To a portion of the resultant solution, add potassium ferrocyanide solution drop wise and then in excess",
+        "topic": "States of Matter & Gas Laws"
+    }
+]

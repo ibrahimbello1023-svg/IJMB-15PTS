@@ -1,0 +1,217 @@
+[
+    {
+        "number": "Q1",
+        "question": "Identify the following reactions as precipitation, neutralisation, redox, addition, or decomposition:\n(a) $\\text{H}_2\\text{SO}_4(aq) + \\text{CuO}(s) \\longrightarrow \\text{CuSO}_4(aq) + \\text{H}_2\\text{O}(l)$\n(b) $\\text{Mg}(s) + \\text{I}_2(g) \\longrightarrow \\text{MgI}_2(s)$\n(c) $\\text{BaCl}_2(aq) + \\text{K}_2\\text{SO}_4(aq) \\longrightarrow \\text{BaSO}_4(s) + 2\\text{KCl}(aq)$\n(d) $\\text{PbO}_2(aq) + \\text{SO}_2(g) \\longrightarrow \\text{PbSO}_4(s)$\n(e) $\\text{Pb(NO}_3)_2(aq) + 2\\text{KI}(aq) \\longrightarrow 2\\text{KNO}_3(aq) + \\text{PbI}_2(s)$",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q2",
+        "question": "List five uses of compounds of group 2 elements of the periodic table.",
+        "topic": "Periodic Table & Periodicity"
+    },
+    {
+        "number": "Q3",
+        "question": "Classify each of the following statements as True or False:\n(a) A reaction occurring in a beaker is an example of an open system;\n(b) Non-metals are reducing agents;\n(c) A chemical equilibrium equation does not give information about the mechanism of a reaction;\n(d) The order of the strength of a bond is $p\\text{-}p > s\\text{-}p > s\\text{-}s$;\n(e) Electron affinity is directly proportional to the tendency of anion formation.",
+        "topic": "Chemical Equilibrium"
+    },
+    {
+        "number": "Q4",
+        "question": "Using an appropriate equation(s), explain why an aqueous solution of $\\text{AlCl}_3$ is acidic to litmus paper.",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q5",
+        "question": "A $1.00\\text{ dm}^3$ vessel contains oxygen gas at $25^\\circ\\text{C}$ and a pressure of $4.05 \\times 10^5\\text{ Pascals}$. Calculate the number of molecules of oxygen present in the vessel.",
+        "topic": "States of Matter & Gas Laws"
+    },
+    {
+        "number": "Q6",
+        "question": "Give the shapes of the following species:\n(a) $\\text{NH}_3$\n(b) $\\text{NH}_4^+$\n(c) $\\text{BCl}_3$\n(d) $\\text{CO}_2$\n(e) $\\text{H}_2\\text{O}$",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q7a",
+        "question": "State Le-Chatelier's principle.",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q7b",
+        "question": "Lime is prepared by the decomposition of calcium trioxocarbonate(IV) at $298\\text{K}$ in accordance to the equation: $\\text{CaCO}_3(s) \\longrightarrow \\text{CaO}(s) + \\text{CO}_2(g) \\quad \\Delta G = +31\\text{kcal mol}^{-1}$\n(i) Is the reaction spontaneous at $500\\text{K}$?\n(ii) What is the change in entropy of the reaction?\n(iii) Does the reaction occur spontaneously at $298\\text{K}$?",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q8",
+        "question": "In a Victor Meyer experiment, $0.52\\text{g}$ of an organic liquid of a molar mass $120\\text{g mol}^{-1}$ was vapourised at a temperature of $298\\text{K}$ and pressure of $1.013 \\times 10^5\\text{ Nm}^{-2}$. What is the volume $(\\text{cm}^3)$ of the air displaced? Given that the saturated vapour pressure of water at $298\\text{K}$ is $2.32 \\times 10^3\\text{ N m}^{-2}$.",
+        "topic": "States of Matter & Gas Laws"
+    },
+    {
+        "number": "Q9a",
+        "question": "When calcium was burnt in gas A, compound B was formed. The compound B reacted with water to form gas C which turned red litmus paper to blue. Identify A and B.",
+        "topic": "States of Matter & Gas Laws"
+    },
+    {
+        "number": "Q9b",
+        "question": "Write the equation for the reaction of:\n(i) calcium with A;\n(ii) B with water.",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q10a",
+        "question": "What is a battery?",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q10b",
+        "question": "Using appropriate equations, explain what happens at the electrodes of a cell in terms of redox reactions.",
+        "topic": "Electrochemistry"
+    },
+    {
+        "number": "Q11a",
+        "question": "Explain the following terms: (15 marks)\n(i) Order of reaction\n(ii) Rate constant\n(iii) Half life\n(iv) Activation energy\n(v) Activated state",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q11b i",
+        "question": "In the reaction, $2\\text{HI}(g) \\rightleftharpoons \\text{H}_2(g) + \\text{I}_2(g)$\nDerive an expression for the equilibrium constant in terms of the concentration of all the species in the above reaction. (3 marks)",
+        "topic": "Chemical Equilibrium"
+    },
+    {
+        "number": "Q11b ii",
+        "question": "The rate constant for the decomposition of hydrogen iodide at different temperatures are provided below:\n| Rate constant, $k\\text{ (dm}^3\\text{ mole}^{-1}\\text{ s}^{-1})$ | Temperature (K) |\n| --- | --- |\n| $3.75 \\times 10^{-7}$ | 500 |\n| $6.65 \\times 10^{-6}$ | 600 |\n| $1.15 \\times 10^{-3}$ | 700 |\n| $3.75 \\times 10^{-2}$ | 800 |\n\nDetermine the value of the activation energy for the decomposition reaction from the plot of $\\ln k$ against $1/T$ and obtain the value for the activation energy of the decomposition reaction. (12 marks)",
+        "topic": "Stoichiometry & Volumetric Analysis"
+    },
+    {
+        "number": "Q12a",
+        "question": "State the major contribution of each of the following to the development of atomic structure: (5 marks)\n(i) James Chadwick\n(ii) Henri Becquerel\n(iii) Michael Faraday\n(iv) Robert Millikan\n(v) Ernest Rutherford",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q12b i",
+        "question": "In the reaction:\n$$\\text{MnO}_4^- + \\text{Cl}^- + \\text{H}^+ \\longrightarrow \\text{Mn}^{2+} + \\text{Cl}_2 + \\text{H}_2\\text{O}$$\nBalance the equation of the reaction. (8 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q12b ii",
+        "question": "What is the oxidation number of manganese in $\\text{MnO}_4^-$? (1 mark)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q12b iii",
+        "question": "What are the species that oxidised and reduced? (2 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q12b iv",
+        "question": "Use an electron configuration to illustrate how manganese is able to possess variable oxidation state in this reaction. (3 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q12b v",
+        "question": "What is the role of $\\text{H}^+$ in the reaction? (1 mark)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q12c",
+        "question": "In the redox reaction:\n$$\\text{KClO}_3 + \\text{FeSO}_4 + \\text{H}^+ \\longrightarrow \\text{KCl} + \\text{Fe}_2(\\text{SO}_4)_3 + \\text{H}_2\\text{O}$$\nWhat is the number of moles of iron(III) produced, when $5.1\\text{g}$ of the trioxochlorate(V) is consumed in the reaction? (5 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q13a",
+        "question": "Predict the sign of the standard entropy change in the following: (5 marks)\n(i) $\\text{N}_2\\text{O}_{4(g)} \\longrightarrow 2\\text{ NO}_{2(g)} \\quad \\Delta H^\\circ = +58.04\\text{ kJ mol}^{-1}$\n(ii) $\\text{H}_2\\text{O}_{(g)} + \\text{C}_{(s)} \\longrightarrow \\text{H}_{2(g)} + \\text{CO}_{(s)} \\quad \\Delta H^\\circ = +128.4\\text{ kJ mol}^{-1}$\n(iii) $\\text{CH}_{4(g)} + 2\\text{O}_{2(g)} \\longrightarrow \\text{CO}_{2(g)} + 2\\text{H}_2\\text{O}_{(g)} \\quad \\Delta H^\\circ = -885.2\\text{ kJ mol}^{-1}$\n(iv) $\\text{C}_{(s)} + \\text{O}_{2(g)} \\longrightarrow \\text{CO}_{2(g)} \\quad \\Delta H^\\circ = -392.3\\text{ kJ mol}^{-1}$\n(v) $2\\text{H}_{2(g)} + \\text{O}_{2(g)} \\longrightarrow \\text{H}_2\\text{O}_{(l)} \\quad \\Delta H^\\circ = +570.0\\text{ kJ mol}^{-1}$",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q13b",
+        "question": "Explain the factor that is responsible for the changes in the above a(i-v) (12 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q13c i",
+        "question": "The following reaction occurs at $200^\\circ\\text{C}$:\n$$\\text{C}_2\\text{H}_5\\text{OH}_{(g)} \\longrightarrow \\text{C}_2\\text{H}_{4(g)} + \\text{H}_2\\text{O}_{(g)} \\quad \\Delta H = +12\\text{ kcal mol}^{-1}$$\nWhat is the sign of $\\Delta G$? (4 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q13c ii",
+        "question": "What is the sign of $\\Delta S$? (2 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q13c iii",
+        "question": "What feature of the reaction can affect the sign of $\\Delta S$? (2 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q14a",
+        "question": "Chloride of silicon hydrolyses readily but that of carbon does not under normal condition. (5 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q14b",
+        "question": "Although both boron and aluminium belong to the same group in the periodic table, $\\text{BCl}_3$ is trigonal planar but $\\text{AlCl}_3$ is tetrahedral in dimeric state. (6 marks)",
+        "topic": "Periodic Table & Periodicity"
+    },
+    {
+        "number": "Q14c",
+        "question": "The first ionisation energy of beryllium is greater than that of lithium but the second ionisation energy of lithium is higher than that of beryllium. (5 marks)",
+        "topic": "Periodic Table & Periodicity"
+    },
+    {
+        "number": "Q14d",
+        "question": "The radii, $r$ of an element, $X$ and its ions follow the order: $r_{X^+} < r_X < r_{X^-}$ (4 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q14e",
+        "question": "Nitrogen is generally unreactive at room temperature but reactive at very high temperature. (5 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q15a",
+        "question": "State four unique properties of most d-block elements. (4 marks)",
+        "topic": "Periodic Table & Periodicity"
+    },
+    {
+        "number": "Q15b i",
+        "question": "Using electron configuration, explain the following:\nThe boiling points of potassium and chromium are $760$ and $2,665^\\circ\\text{C}$ respectively. (5 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q15b ii",
+        "question": "Using electron configuration, explain the following:\nSome cobalt(II) complexes have pink colour. (5 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q15b iii",
+        "question": "Using electron configuration, explain the following:\n$+5$ oxidation state can be obtained in vanadium. (3 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q15c",
+        "question": "Account for the magnetic property of $\\text{Sc}^{3+}$, $\\text{Cu}^+$, $\\text{Zn}^{2+}$. (8 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q16a",
+        "question": "A is a mixture of 3 substances P, Q and R. Substance P is soluble in water and ethanol but insoluble in ether. Q is soluble in ethanol and ether but not in water. R is soluble only in ether. Explain briefly, how you will determine the percentage of P in the mixture, A. (7 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q16b i",
+        "question": "The atomic numbers of 2 elements, X and Y are $37$ and $35$ respectively.\nWrite the electron configurations of X and Y. (4 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q16b ii",
+        "question": "Write the formulae of the hydrides of X and Y. (4 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q16b iii",
+        "question": "State and explain the type of bonding between X and Y and give the formula of the compound formed. (4 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q16c",
+        "question": "Which of the elements, X and Y in b above: (1 mark each)\n(i) will conduct electricity in the solid state?\n(ii) will react violently with water?\n(iii) will form an acid anhydride?\n(iv) will form basic hydroxide?\n(v) has catenating property?\n(vi) has variable oxidation state?",
+        "topic": "General Chemistry"
+    }
+]

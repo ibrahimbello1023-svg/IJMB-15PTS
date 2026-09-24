@@ -1,0 +1,102 @@
+[
+    {
+        "number": "Q1a i",
+        "question": "Pipette $20$ or $25\\text{ cm}^3$ of solution B into conical flask. Add 2 or 3 drops of phenolphthalein indicator and titrate against solution A from a burette to a colourless end point.",
+        "topic": "Stoichiometry & Volumetric Analysis"
+    },
+    {
+        "number": "Q1a ii",
+        "question": "Repeat the above procedure twice more using fresh portions of solution B. (16 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q1a iii",
+        "question": "Calculate the average titre. (2 marks)",
+        "topic": "Stoichiometry & Volumetric Analysis"
+    },
+    {
+        "number": "Q1a iv",
+        "question": "Write the equation of the reaction. (2 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q1b i",
+        "question": "Calculate the molar concentration of $\\text{KOH}$ in solution B; (3 marks)",
+        "topic": "Stoichiometry & Volumetric Analysis"
+    },
+    {
+        "number": "Q1b ii",
+        "question": "Calculate the number of moles of $\\text{KOH}$ titrated; (3 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q1b iii",
+        "question": "Calculate the number of moles of $\\text{HX}$ consumed in the titration; (2 marks)",
+        "topic": "Stoichiometry & Volumetric Analysis"
+    },
+    {
+        "number": "Q1b iv",
+        "question": "Calculate the molar concentration of $\\text{HX}$ in solution A; (3 marks)",
+        "topic": "Stoichiometry & Volumetric Analysis"
+    },
+    {
+        "number": "Q1b v",
+        "question": "Calculate the molar mass of the weak acid; (3 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q1b vi",
+        "question": "Calculate the relative molecular mass of $\\text{X}$ in the formula $\\text{HX}$; (2 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q1b vii",
+        "question": "Calculate the $\\text{pH}$ of solution A. (4 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q1c i",
+        "question": "Distinguish between the end point and the equivalence point in acid-base volumetric analysis. (4 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q1c ii",
+        "question": "Explain why phenolphthalein and not methyl orange is used in the above titration. (3 marks)",
+        "topic": "Stoichiometry & Volumetric Analysis"
+    },
+    {
+        "number": "Q1c iii",
+        "question": "Give one major source of error in the experiment (a) above. (1 mark)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q1c iv",
+        "question": "Give two common features of all volumetric analyses. (2 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q2 A a",
+        "question": "You are provided with sample A1 = Benzoic acid. Record the physical characteristics of the sample.",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q2 A b",
+        "question": "Solubility test: with small quantities of the sample in separate test tubes, determine the solubility of the sample in:\ni. water\nii. dilute hydrochloric acid\niii. dilute sodium hydroxide",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q2 A c",
+        "question": "Functional group test:\ni. using a cleaned spatula, heat a small quantity of the sample in a Bunsen Burner flame.\nii. to a small quantity of the sample dissolved in ethanol, add small amount of $\\text{NaHCO}_3$, warm the resulting mixture and note any gas evolution. If gas is evolved, test its reaction with lime water.\niii. to a small quantity of the sample dissolved in ethanol, add $1\\text{ ml}$ of $\\text{H}_2\\text{SO}_4$ and warm the resulting mixture. Perceive the odour of the mixture by blowing air with your hand across the mouth of the reaction test tube.\niv. dissolve a small amount of the sample in ethanol. Dip a moist red litmus paper into a dilute solution of $\\text{NaOH}$ or $\\text{NH}_3$, the colour changes to blue. Then dip this blue litmus paper into the sample solution. (15 marks)",
+        "topic": "Organic Chemistry"
+    },
+    {
+        "number": "Q2 B a",
+        "question": "You are provided with sample A2 = Copper(II) trioxonitrate(V). Carry out two (2) confirmatory tests for the cation.",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q2 B b",
+        "question": "Carry out two (2) distinguishing tests for the anion. (15 marks)",
+        "topic": "General Chemistry"
+    }
+]

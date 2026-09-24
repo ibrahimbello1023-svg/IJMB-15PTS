@@ -1,0 +1,247 @@
+[
+  {
+    "number": "Q1",
+    "question": "A monochromatic light propagating from medium 1 of refractive index $n_1$ to medium 2 of refractive index $n_2$. If the angle of incidence is $\\hat{i}$, and refracted angle is $\\hat{r}$. Under what condition or relationship between $n_1$ and $n_2$ the refraction will produce the following results: (i) $\\hat{i} = \\hat{r}$ (ii) $\\hat{i} < \\hat{r}$ (iii) $\\hat{i} > \\hat{r}$.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q2",
+    "question": "Calculate the focal length of a combination of a concave lens of focal length $20\\text{ cm}$ and a convex lens of focal length $30\\text{ cm}$ in contact. Is the system a converging or diverging lens? (ignore the thickness of the lenses).",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q3",
+    "question": "Consider an object AB placed in front of a concave mirror as shown in figure 1. Copy and complete the ray diagram showing the image formation of the object. What is the nature of the image formed?",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q4",
+    "question": "How can you get an effective capacitance of $6\\mu\\text{F}$ from the three capacitors each of capacitances $4\\mu\\text{F}$? Show the calculations and draw the circuit diagram of the final arrangement.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q5",
+    "question": "State any four factors upon which resistance of a resistor depend. An electric kettle has a resistance of $30\\,\\Omega$. What is the power rating of the kettle when it is connected to a $240\\text{V}$ power supply?",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q6",
+    "question": "The magnetic materials can be classified into three categories. Mention them and give one example for each. What is Curie temperature as applied to magnetism?",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q7",
+    "question": "Given the instantaneous current in an a.c circuit, $I = 1.2\\sin(31.4t)$, find the maximum current, rms current and the frequency of the current.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q8",
+    "question": "Consider an X-rays produced by $30\\text{ kV}$, find the maximum frequency and minimum wavelength of the most accelerated electrons.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q9",
+    "question": "If $1\\text{ g}$ of radioactive substance takes $50\\text{ sec}$ to lose $0.01\\text{ g}$. Find its half-life.",
+    "topic": "Modern & Quantum Physics"
+  },
+  {
+    "number": "Q10",
+    "question": "The stopping potential for photoelectrons emitted from surface illuminated by light of wavelength $5896\\text{ \\AA}$ is $0.63\\text{ Volt}$. Calculate the maximum kinetic energy of photoelectrons.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q11a(i)",
+    "question": "Write down the image of the word pqf when viewed by a plane mirror. What is the name of this phenomena? Imagine the image of an object placed $12\\text{ cm}$ in front of a plane mirror. Describe the nature and characteristics of the image.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q11a(ii)",
+    "question": "Calculate the angle of minimum deviation and angle of incidence of a light ray on an equilateral triangular prism of refractive index $\\sqrt{\\frac{7}{3}}$.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q11a(iii)",
+    "question": "An object $2\\text{ cm}$ high is placed $16\\text{ cm}$ infront of concave mirror which produced image $3\\text{ cm}$ high. Find the radius of curvature of the mirror.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q11b(i)",
+    "question": "Write down the necessary conditions for the total internal reflection to occur. Find the critical angle for a rectangular slab of glass, with refractive index $1.57$ in air?",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q11b(ii)",
+    "question": "Distinguish between a Plane Mirror, a Concave Mirror and a Convex Mirror by viewing an object close to each mirror, without touching them (ray diagram is not needed). Also state one similarity for these mirrors.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q11b(iii)",
+    "question": "A small object is placed $20\\text{ cm}$ in front of (1) a concave mirror of radius of curvature $30\\text{ cm}$, (2) a convex mirror of focal length $12\\text{ cm}$. In each case find the position, nature and the magnification of the image. Also find the new position, nature and the magnification of the image when the object shifts towards the mirror by $7\\text{ cm}$.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q12a(i)",
+    "question": "Consider a refraction of a light ray through a parallel sided rectangular glass slab of thickness '$t$' which incidents on the slab at an angle of incidence $\\hat{i}$ with respect to the angle of refraction $\\hat{r}$. Finally the ray emerges out in the direction parallel to the initial ray. If refractive index of the glass used is $\\mu$. Sketch the ray diagram and indicate clearly the lateral displacement. Hence, prove that, the expression for the lateral displacement ($d$) is given by: $d = \\frac{t\\sin(\\hat{i} - \\hat{r})}{\\cos r}$. Define the underlined term, and deduce the expression for $d$ near normal incidence in terms of $\\hat{i}$ and $\\mu$ (i.e. at a very small angle of incidence). What would be the value of $d$ when $\\hat{i} = 90^\\circ$?",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q12b(i)",
+    "question": "Considering a concave reflector of a telescope of radius of curvature $250\\text{ cm}$. What is the focal length of the eyepiece to obtain a magnification $50\\text{ times}$?",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q12b(ii)",
+    "question": "Use ray diagram to briefly explain the nature of the focal length when parallel beam of light incident on (A) convex lens (B) concave lens.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q12b(iii)",
+    "question": "An object is placed $12\\text{ cm}$ from (A) a converging lens (B) a diverging lens: of focal length $18\\text{ cm}$. Find the nature of the image.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q13a(i)",
+    "question": "Determine the physical quantity whose SI unit is $\\text{JC}^{-1}$, $\\text{VA}$, and $\\Omega\\text{A}$. In each case, state whether it is a scalar or a vector quantity. The Columbic force on a small sphere of charge $0.8\\mu\\text{C}$ and $0.4\\mu\\text{C}$ in vacuum is $0.2\\text{ N}$. Calculate the separation between the spheres.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q13a(ii)",
+    "question": "State the necessary condition(s) for which Ohm's law is valid and define a resistance. A current of $6\\text{A}$ passes through a copper wire of length $12\\text{ mm}$ and $3\\text{ mm}^2$ cross section. Calculate the current density.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q13a(iii)",
+    "question": "What is the charge and energy stored in the circuit shown in figure 2?",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q13b(i)",
+    "question": "A $60\\text{ V}$ battery is connected across an appliance having a conductance of $0.025\\text{ S}$. Determine the current flowing in the appliance, the power consumed, the energy dissipated and quantity of charges transferred in $10\\text{ minutes}$.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q13b(ii)",
+    "question": "Consider a capacitor of capacitive reactance of $4\\Omega$ at $250\\text{ Hz}$. Find the capacitance of the circuit. Calculate the reactance at $\\frac{200}{\\pi}\\text{ Hz}$ and the rms current, when it is connected to a $220\\text{ V } 50\\text{ Hz}$ a.c supply.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q14a(i)",
+    "question": "Define the following terms: Magnetic field intensity, Magnetic permeability and Magnetic susceptibility.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q14a(ii)",
+    "question": "Calculate the magnetic field strength and the magnetomotive force (mmf) required to produce a flux density of $0.25\\text{ mT}$ in an air gap of length $12\\text{ mm}$.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q14b(i)",
+    "question": "A straight conductor carries a current of $5.3\\text{ A}$. What is the magnitude of magnetic field at point $20\\text{ cm}$ from the conductor?",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q14b(ii)",
+    "question": "When the electron in a thermionic tube travels at $3 \\times 10^7\\text{ ms}^{-1}$ inclined at $\\cos^{-1}(0.168)$ to a field of flux density $18.7\\text{T}$. Calculate the force exerted on the electron in the field.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q14b(iii)",
+    "question": "A flux of $0.025\\text{Wb}$ links with a $1500\\text{ turns}$ coil and a current of $3\\text{ A}$ passes through the coil. Calculate the inductance of the coil, the energy stored in the magnetic field, and the average e.m.f. induced if the current falls to zero in $0.150\\mu\\text{s}$.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q15a(i)",
+    "question": "Define the terms capacitor and capacitance of a capacitor. Four capacitors of capacitance $C_1, C_2, C_3, C_4$ are connected in series across a p.d $V\\text{ volt}$. Draw the circuit diagram and derive the expressions for the equivalent capacitance. Also find the effective capacitance when $C_1 = C_4 = 8\\text{nF}$, $C_2 = C_3 = 20\\text{nF}$.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q15a(ii)",
+    "question": "The plates of a parallel plate capacitor have area $90\\text{ cm}^2$ each separated by $2.5\\text{ mm}$. The capacitor is charged by connecting it to a $400\\text{ V}$ supply. How much electrostatic energy is stored by the capacitor?",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q15b(i)",
+    "question": "In terms of resistance $R$, The temperature coefficient of resistance of a material when the temperature variations is not too large can be written as: $\\alpha = \\frac{R_2 - R_1}{R_1 \\Delta T}$. Express $\\alpha$ in terms of resistivity $\\rho$.",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q15b(ii)",
+    "question": "A given wire has a resistance $2.1\\,\\Omega$ at $27.5^\\circ\\text{C}$ and a resistance of $2.7\\,\\Omega$ at $100^\\circ\\text{C}$. Determine the temperature coefficient of the resistance of the wire.",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q15b(iii)",
+    "question": "Assume a straight copper wire $0.30\\text{ m}$ long moves at a uniform speed of $4\\text{ ms}^{-1}$ perpendicular to a uniform magnetic field of flux density $1.25\\text{ T}$. What is the current flowing in the conductor when (A) its ends are open-circuited. (B) its ends are connected to a load of $2\\,\\Omega$ resistor?",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q16a(i)",
+    "question": "State the necessary condition(s) for a resonance frequency ($f_0$) to occur in an L-R-C circuit. What happen to the current at resonance condition? Hence derive the expression for the resonance frequency ($f_0$).",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q16a(ii)",
+    "question": "A coil takes a current of $2\\text{ A}$ from a $12\\text{ V}$ d.c. supply. When connected to a $240\\text{ V}$, $50\\text{ Hz}$ a.c supply the current is $20\\text{ A}$. Calculate the resistance, impedance, inductive reactance, susceptance, admittance and inductance of the coil.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q16b",
+    "question": "Use Kirchhoff's laws to find the current in the $12\\,\\Omega$ resistor in the circuit shown in figure 3.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q17a(i)",
+    "question": "Briefly explain the concept of the de Broglie hypothesis. Hence, deduce the wavelength connections between particle and wave.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q17a(ii)",
+    "question": "Assume the wavelength of light from the spectral emission of sodium is $589\\text{nm}$. Calculate the kinetic energy (in eV) of an electron and a neutron at the same de Broglie wavelength.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q17b(i)",
+    "question": "Define the term natural radioactivity. Hence, state the radiations emitted by a radioactive element in the order of increasing ionization power.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q17b(ii)",
+    "question": "The Radioactive decay law states that: \"The activity of a radioactive element at any instant is directly proportional to the number of undecayed active atoms present at that instant.\" Prove this law.",
+    "topic": "Modern & Quantum Physics"
+  },
+  {
+    "number": "Q17b(iii)",
+    "question": "Considering a radioactive isotope G - decays sequence: $^x_y\\text{G} \\rightarrow \\text{G}_1 \\rightarrow ^{176}_{71}\\text{G}_2$. When $\\text{G}$ decays to $\\text{G}_1$, $\\alpha$-particle is released. When $\\text{G}_1$ decays to $\\text{G}_2$, $\\beta$-particle is released. Determine the value of $x$ and $y$, also how many neutrons do the $\\text{G}_1$-isotope have?",
+    "topic": "Modern & Quantum Physics"
+  },
+  {
+    "number": "Q18a(i)",
+    "question": "For hydrogen atom, the ground state energy is $-13.6\\text{ eV}$. If an electron makes a transition from an energy level $-1.51\\text{ eV}$ to $-3.4\\text{ eV}$. Calculate the wavelength of the spectral line emitted.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q18a(ii)",
+    "question": "What is mass defect? Determine the binding energy of an $\\alpha$-particle. Given that: Mass of the helium nucleus = $^4_2\\text{He} = 4.001265\\text{ u}$, mass of proton = $1.007277\\text{ u}$, mass of neutron = $1.008665\\text{ u}$.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q18a(iii)",
+    "question": "Distinguish between: Nuclear Fission and Nuclear Fusion.",
+    "topic": "Modern & Quantum Physics"
+  },
+  {
+    "number": "Q18b(i)",
+    "question": "What do you understand by the terms: thermionic Emission and field emission.",
+    "topic": "Modern & Quantum Physics"
+  },
+  {
+    "number": "Q18b(ii)",
+    "question": "In the process of photoelectric effects, briefly explain the effects of \"intensity and frequency of the radiation\" when light is shine on a metal surface.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q18b(iii)",
+    "question": "In an experiment, a tungsten cathode which has a threshold wavelength of $2300\\text{ \\AA}$ is irradiated by UV light of wavelength $1800\\text{ \\AA}$. Calculate the maximum energy of the emitted photoelectron and work function for tungsten in electron volt.",
+    "topic": "Mechanics & Properties of Matter"
+  }
+]

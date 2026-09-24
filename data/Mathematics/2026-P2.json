@@ -1,0 +1,102 @@
+[
+  {
+    "number": "Q1",
+    "question": "Differentiate $y = \\sin^{-1}(1 - x)e^{-x}$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q2",
+    "question": "Evaluate $\\lim_{x \\to 9} \\frac{x^2 - 8x - 9}{3 - \\sqrt{x}}$.",
+    "topic": "Calculus (Differentiation & Integration)"
+  },
+  {
+    "number": "Q3",
+    "question": "Solve the differential equation $\\frac{dy}{dx} = e^{x - 2y}$.",
+    "topic": "Calculus (Differentiation & Integration)"
+  },
+  {
+    "number": "Q4",
+    "question": "Find the direction cosines for the resultant of the vectors $-i + 2j + 2k$ and $2i - 3j - k$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q5",
+    "question": "Obtain the indefinite $\\int 3x \\sin(x^2 + 5) dx$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q6a",
+    "question": "Find the relative maxima and minima on the curve $y = x^3 - 2x^2 + x + 2$.",
+    "topic": "Calculus (Differentiation & Integration)"
+  },
+  {
+    "number": "Q6b",
+    "question": "Evaluate $\\int_3^8 \\frac{dx}{x\\sqrt{1 + x}}$.",
+    "topic": "Calculus (Differentiation & Integration)"
+  },
+  {
+    "number": "Q6c",
+    "question": "Find $\\int x \\cos x dx$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q7a",
+    "question": "If $x = \\tan(\\ln y)$, show that $(1 + x^2)y'' + (2x - 1)y' = 0$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q7b",
+    "question": "Differentiate $\\cos^{-1}\\left(\\frac{1-x}{1+x}\\right)$ and express your answer in its simplest form.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q7c",
+    "question": "Find $\\int \\frac{x^2}{x^2 + 9} dx$.",
+    "topic": "Calculus (Differentiation & Integration)"
+  },
+  {
+    "number": "Q8a",
+    "question": "Differentiate from first principle $y = \\sqrt{x^2 - 2x}$.",
+    "topic": "Calculus (Differentiation & Integration)"
+  },
+  {
+    "number": "Q8b",
+    "question": "Using integration by parts, show that $n I_n = \\sin x \\cos^{n-1} x + (n - 1) I_{n-2}$, given that $I_n = \\int \\cos^n x dx$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q8c",
+    "question": "Integrate the function $f(x) = \\frac{1}{x^2 - 4}$ with respect to $x$.",
+    "topic": "Calculus (Differentiation & Integration)"
+  },
+  {
+    "number": "Q9a",
+    "question": "If $p = i - 2j - k$, $q = 2i - j + k$ and $r = i - 2j + 3k$, show that $p \\times (q + r) = p \\times q + p \\times r$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q9b",
+    "question": "Solve the differential equation $\\frac{dy}{dx} - \\tan x \\cdot y = x^2$, for $y(0) = 1$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q10a",
+    "question": "Find the particular solution of the equation $2xy \\frac{dy}{dx} = y^2 - 3x^2$, given that $y(1) = 1$.",
+    "topic": "Calculus (Differentiation & Integration)"
+  },
+  {
+    "number": "Q10b",
+    "question": "Given vectors $u = i - 2j - 3k$ and $v = 3i + 2j + k$, compute the scalar projection of $(2u + 3v)$ on $(3u - 2v)$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q11a",
+    "question": "Find the equation of the curve which passes through $(a, c)$ and is such that the gradient of the tangent to the curve at any point $(x, y)$ on it is $-\\frac{x^3}{y^3}$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q11b",
+    "question": "Find the area of triangle $PQR$ whose position vectors of $P, Q, R$ are $2i - j + 2k$, $3i + 4j + 3k$, and $2i - 3j - 2k$, respectively.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  }
+]

@@ -1,0 +1,207 @@
+[
+  {
+    "number": "Q1 i",
+    "question": "State three applications of dimensional analysis in physics.",
+    "topic": "Practicals"
+  },
+  {
+    "number": "Q1 ii",
+    "question": "The period ($T$) of vibration of a drop of liquid at the end of a tube of radius ($r$), depends on the surface tension ($\\gamma$), density ($\\rho$) and the radius $r$ of the drop. Use dimensional analysis to obtain a formula for the period of the drop.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q2",
+    "question": "A bullet of mass $0.05\\text{ kg}$ travelling horizontally at $20\\text{ ms}^{-1}$ embeds itself in a wooden block of mass $0.80\\text{ kg}$. If the block is suspended by a light vertical string $1\\text{ m}$ long, calculate the maximum inclination of the string to the horizontal.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q3 i",
+    "question": "State the triangular law of vector and parallelogram law of vector composition.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q3 ii",
+    "question": "An upward force of $2.0 \\times 10^4\\text{ N}$ acts on an elevator of mass $2.4 \\times 10^3\\text{ kg}$, calculate the elevator's acceleration.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q4",
+    "question": "A truck of mass $150\\text{ kg}$ is released from rest at position A and moves along the frictionless track as shown in figure 1. Determine (a) its maximum kinetic energy (b) its maximum velocity (c) its velocity at point C.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q5",
+    "question": "Define specific latent heat of vaporization of a liquid. A heater which is rated $45\\text{ W}$ will evaporate $0.6\\text{ kg}$ of boiling water in $30\\text{ seconds}$. Calculate the specific latent heat of vaporization of water.",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q6",
+    "question": "A constant volume hydrogen thermometer registered a pressure of $120\\text{ cmHg}$ when placed in an ice-box and a pressure of $156.6\\text{ cmHg}$ at steam point. In a bath of molten metallic lead, the reading is $243.1\\text{ cmHg}$. What is the melting point of lead on the temperature scale used?",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q7",
+    "question": "A rubber cord has a circular cross-section of radius $R$ and of length $L$. When it is stretched along its axis, within its elastic limit, it experiences a radial strain $\\beta$ as well as normal longitudinal strain $\\alpha$. If the volume of the cord remains constant, what is the ratio $\\frac{\\beta}{\\alpha}$? (State the assumptions you have made).",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q8",
+    "question": "A sample of blood is put in a centrifuge of radius $25\\text{ cm}$ and the mass of a corpuscle is $3 \\times 10^{-16}\\text{ kg}$. Find (i) the centripetal force required to make it settle out of the plasma if the number of revolutions per second required is $120\\text{ rev/s}$ (ii) the orbital angular momentum.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q9",
+    "question": "A beam of light is incident on a liquid of refractive index $1.40$. What is the angle of refraction of the beam if the reflected rays are completely polarized?",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q10",
+    "question": "Two stereo speakers A and B are $2\\text{ m}$ apart and playing the same $10^3\\text{ Hz}$ musical note. A listener P is $6\\text{ m}$ away at a point on the central line as shown in figure 2. How far can he be from the center line before he reaches the first note? Take the velocity of sound in air as $330\\text{ ms}^{-1}$.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q11a",
+    "question": "A body starts from an origin with an initial velocity $u$ and moves along the x-axis. Derive the expression for the final velocity $v$ of the body in term of its constant acceleration $a$ and distance covered $s$.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q11b",
+    "question": "A train passes a station A at $50\\text{ kmh}^{-1}$ and maintains this speed for $20\\text{ km}$ and then is uniformly retarded stopping at station B which is $24\\text{ km}$ from A. A second train starts from A at instant the first train passes. It is uniformly accelerated for part of the journey and uniformly retarded for the rest, stopping at B at the same time as the first train. (i) On the same diagram, sketch the velocity-time graph for the two trains. (ii) Find the greatest speed of the second train on the journey.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q12a",
+    "question": "State the law of conservation of energy and linear momentum.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q12b",
+    "question": "If a particle is freely projected under the action of gravity in a non-retarding medium. Find the angle which it must be projected to obtain maximum range $R_{\\text{max}}$. In this case if the maximum height is $H$, find the relation between $H$ and $R_{\\text{max}}$.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q12c",
+    "question": "The force required to draw back the string of an archer's bow by a distance $x$ from its equilibrium position is given by $F = kx$. If all the energy stored in the bow is communicated to the arrow, show that the maximum range of the arrow is given by $\\frac{2kx}{3mg}$, where $m$ is the mass of the arrow.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q13a",
+    "question": "Explain the meaning of the statement that 'a temperature is $50^\\circ$' on a scale of a particular thermometer.",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q13b",
+    "question": "Show that the coefficient of volume expansivity is three times the coefficient of linear expansivity $(\\gamma = 3\\alpha)$.",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q13c",
+    "question": "A glass vessel contains some tungsten and then filled with mercury to a certain mark. It is found that the mercury level remains at this mark despite changes in temperature. What is the ratio of the volume of the mercury to the volume of tungsten?",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q14a",
+    "question": "Explain the following terms: flow, turbulent, coefficient of viscosity and thermal velocity.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q14b",
+    "question": "Prove the Poiseuille's formula using dimensional analysis, (Take the value of $k = \\frac{\\pi}{8}$). Briefly describe how one may measure the coefficient of viscosity for water from the knowledge of the formula.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q14c",
+    "question": "Two horizontal tubes are joined at C as shown in figure 3. Water flows from A to B. The pressure at the free end of B is atmospheric and at A the pressure is $5.0\\text{ cm}$ of water above atmospheric pressure. Tube A is $32\\text{ cm}$ long and $0.08\\text{ cm}$ in diameter; tube B is $16\\text{ cm}$ long and $0.06\\text{ cm}$ in diameter. What is the pressure in $\\text{Nm}^{-2}$ at point C where the tubes are joined?",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q15a",
+    "question": "Define bulk modulus and modulus of rigidity.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q15b",
+    "question": "An under sea research vessel consist of a strong spherical shell made of steel of internal diameter $6\\text{ m}$. To test it for leaks, it is filled with water at the surface of a lake and then lowered to a depth where the total pressure was $22\\text{ atmosphere}$. Calculate the volume of water which would enter the spherical shell if leaked.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q15c",
+    "question": "A wire of length $4\\text{ m}$, radius $1\\text{ mm}$ is extended by $2.5\\text{ mm}$ by a load of $200\\text{ N}$. Calculate the energy stored in the wire and the strain energy per unit volume.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q16a",
+    "question": "State the first law of thermodynamics as applied to a fixed mass of ideal gas.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q16b",
+    "question": "Explain how the equation of the first law is applied when the gas is (i) heated at constant volume (ii) compressed adiabatically.",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q16c(i)",
+    "question": "What is the work done along the path xyz?",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q16c(ii)",
+    "question": "What is the work done along the path xz?",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q16c(iii)",
+    "question": "If the heat supplied is $1.7 \\times 10^3\\text{ J}$ along the xyz, what is the change in the internal energy of the system?",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q16c(iv)",
+    "question": "Calculate the work done and the heat supplied for a cyclic process xyzs.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q17a(i)",
+    "question": "A certain string has a linear mass density of $0.25\\text{ kgm}^{-1}$ and is stretched with a tension of $25\\text{ N}$. One end is given a sinusoidal motion with frequency $5\\text{ Hz}$ and amplitude $0.01\\text{ m}$. At time $t = 0$, the end has zero displacement and is moving in the $+y$ direction. Given the progressive wave $y = 0.01 \\sin 2\\pi \\left( \\frac{t}{0.2} - \\frac{x}{2} \\right)$. Find the wave speed, amplitude, angular frequency, period, wavelength and wave number.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q17a(ii)",
+    "question": "Write a wave function describing the wave.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q17a(iii)",
+    "question": "Find the position of the point $x = 0.25$ at time $t = 0.1\\text{s}$.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q17a(iv)",
+    "question": "Find the transverse velocity of the point at $x = 0.25\\text{ m}$ at $t = 0.1\\text{s}$.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q17a(v)",
+    "question": "Find the slope of the string at the point $x = 0.25\\text{ m}$ at time $t = 0.1\\text{s}$. Comment on the result you obtained.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q18a(i)",
+    "question": "State the Brewster's law.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q18a(ii)",
+    "question": "Prove that, when light strike a glass plate at Brewster's angle, the refracted ray is perpendicular to the reflected ray.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q18b",
+    "question": "What are the conditions under which interference pattern could be observed?",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q18c",
+    "question": "Radio waves of frequency $8.0 \\times 10^5\\text{ Hz}$ are received on a location $12.0\\text{ km}$ from the transmitter. The radio reception temporarily fades due to destructive interference between the direct beam and that reflected ray by a passing aircraft. Calculate the minimum height of the aircraft.",
+    "topic": "Waves, Sound & Optics"
+  }
+]

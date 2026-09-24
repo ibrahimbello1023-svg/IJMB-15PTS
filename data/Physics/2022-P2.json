@@ -1,0 +1,187 @@
+[
+  {
+    "number": "Q1",
+    "question": "When light travelling in air, enters a glass slab. Explain how its: velocity, frequency, wavelength and intensity behaved before and after it enters the slab, (ray diagram not needed).",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q2",
+    "question": "If a ray of light incident on a glass block of refractive index $\\frac{3}{2}$, calculate the angle of incidence of the ray of light if the angle between the reflected and refracted rays is $90^\\circ$?",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q3",
+    "question": "briefly explain the effects of increasing tempreture in conductors, semiconductors and insulators.",
+    "topic": "Modern & Quantum Physics"
+  },
+  {
+    "number": "Q4",
+    "question": "Calculate the radius, of a piece of copper wire, $40\\text{ m}$ having a resistance of $0.25\\,\\Omega$, assume the resistivity of copper as $2.0 \\times 10^{-8}\\,\\Omega\\text{m}$.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q5",
+    "question": "A cell supply $0.5\\text{ A}$ of current when connected across an external resistor of resistance $12\\,\\Omega$ and a current of $0.23\\text{ A}$ when connected across an external resistor of resistance $23\\,\\Omega$. Determine the emf and internal resistance of the cell.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q6",
+    "question": "Two resistors are connected in series across a $24\\text{ V}$ supply and a current of $6\\text{ A}$ flows in the circuit. If one of the resistors has a resistance of $20\\,\\Omega$, determine the value of the other resistor, and the p.d. across the $20\\,\\Omega$ resistor.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q7(a)",
+    "question": "Consider a certain capacitor of cross sectional area $4\\text{ cm}^2$ separated by $0.1\\text{ mm}$ of silk material of relative permittivity $100$. (i) Calculate the capacitance of the capacitor. (ii) when this capacitor charged, find the pd between the plates?",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q8",
+    "question": "The Photoelectric threshold wavelength of a metal is $3800\\text{ \\AA}$. When UV light of wavelength $4600\\text{ \\AA}$ is incident on the metal surface. Calculate the value of its work function in $\\text{eV}$.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q9",
+    "question": "The $H_n$ line of Balmer series corresponds to the transition from $n = 4$ to $n = 2$ level. Calculate the wavelength and the frequency of the $H_n$ line of the Balmer series for hydrogen. (Rydberg constant is $1.097 \\times 10^7\\text{ ms}^{-1}$).",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q10",
+    "question": "What type of extrinsic semiconductor would be formed when: (i) germanium is doped with indium (indium is trivalent)? (ii) silicon is doped with bismuth?",
+    "topic": "Modern & Quantum Physics"
+  },
+  {
+    "number": "Q11a",
+    "question": "Use ray diagram to explain the following terms as applied to spherical mirrors (concave and convex): center of curvature, pole, principal axis, principal focus, radius of curvature and aperture when a narrow beam of light parallel and near the principal axis is incident on the mirror.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q11b",
+    "question": "Assume that, a very thick needle is placed at a distance of $30\\text{ cm}$ from a concave mirror of focal length $20\\text{ cm}$, determine the image distance and its magnification. Also, draw the ray diagram.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q11c",
+    "question": "If the speed of light in vacuum is $3 \\times 10^8\\text{ ms}^{-1}$, Calculatethe speed of light in a medium whose critical angle is $45^\\circ$.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q12a",
+    "question": "(i) Explain in details the following terms: reflection and refraction of light waves. Use ray diagrams where necessary to support your answer. (ii) Sketch ray diagrams refraction of light waves under the following special conditions: at normal incident ($0^\\circ$) for two different media and refraction at any incident angle when both media are the same.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q12b",
+    "question": "If a ray of monochromatic light passes through an equilateral glass prism of refractive index $1.62$, when the angle of incidence is the same as the angle of emergence. Find the angle of deviation at an incident angle $37^\\circ$. What would be the angle of minimum deviation of this glass?",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q12c",
+    "question": "Given two thin lenses of power $+6\\text{D}$ and $-2\\text{D}$ are in contact to each other. Calculate the focal length of the combination.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q13a",
+    "question": "Distinguish between dielectric and conductor (i) in terms of mobility of electrons (ii) in the presence of external electric field.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q13b",
+    "question": "(i) Briefly explain the term quantization of electric charges. (ii) How many Coulombs are represented by $1.89 \\times 10^{20}$ amounts of electrons?",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q13c",
+    "question": "Write down the expressions (without proof) the electric potential energy ($U$) (i) for two point charges $q_1$ and $q_2$ separated at distance $r$ apart and hence (ii) four point charges $q_1, q_2, q_3$ and $q_4$ placed at the corner of square of side $r_{12}$. Sketch the arrangement of the charges.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q14a",
+    "question": "State and briefly explain the generations of each of the three types of electricity/ electric current we have.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q14b",
+    "question": "Draw a circuit diagram of an LCR series circuit when connected to an a.c source. Using the phasor diagram, derive the expression for the impedance of the circuit. Hence, find the expressions for the resonance frequency.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q14c",
+    "question": "A coil of negligible resistance and inductance $0.1\\text{H}$ is connected in series with a capacitance of $100\\,\\mu\\text{F}$ and a resistance of $20\\,\\Omega$ across a $100\\text{V}, 50/\\pi\\text{ Hz}$ variable frequency supply. Determine (i) current in the circuit and the phasor angle (ii) the resonant frequency, and the current at resonance (iii) the Q-factor of the circuit at resonance.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q15a",
+    "question": "Use figure 1, to calculate the (i) charge on each capacitor (ii) energy stored in each capacitor. (iii) show that, the law of conservation of energy is verified.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q15b",
+    "question": "(i) With the help of circuit diagram, explain clearly the following terms: ammeter, galvanometer and voltmeter.. (ii) A galvanometer of resistance $20\\,\\Omega$ give a full scale deflection when a current of $1\\text{ mA}$ is passesd through it. How would you convert it to an ammeter that can read current up to $1\\text{ A}$? How does the resistance of this ammeter affect the current when it is connected in a circuit?",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q15c",
+    "question": "A conductor has a resistance of $3.1\\,\\Omega$ at $30^\\circ\\text{C}$ and a resistance $4.5\\,\\Omega$ at $100^\\circ\\text{C}$. What is the temperature coefficient of resistance of the conductor?",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q16a",
+    "question": "(i) State the effects of stationary and moving charges with respect to electric and magnetic field. (ii) A long straight conductor carries a current of $12\\text{ A}$, calculate the magnitude of magnetic field intensity at a point of $24\\text{ cm}$ from the conductor. (iii) Write down the expression for magnetic force acting on a charged particle moving with velocity in the presence of magnetic field.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q16b(i)",
+    "question": "Define the terms: Magnetic flux ad Magnetic flux density and reluctance.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q16b(ii)",
+    "question": "Part of a magnetic circuit is made from steel of length $120\\text{mm}$, cross-sectional area $15\\text{ cm}^2$ and relative permeability $800$. Calculate the reluctance and the absolute permeability of the steel.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q16c",
+    "question": "Assume an e.m.f. of $150\\text{V}$ is induced in a coil when a current changes from $4\\text{ A}$ to $0.5\\text{ A}$ in $0.008\\text{ second}$. What is the inductance of the coil? What is the energy stored in the coil?",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q17a",
+    "question": "What do you understand by the term emission of electrons? State and define four possible methods of electrons' emission out of a metal.",
+    "topic": "Modern & Quantum Physics"
+  },
+  {
+    "number": "Q17b",
+    "question": "When a metallic surface is illuminated with light of wavelength $\\lambda_1$, it liberates electrons with maximum kinetic energy $E_1$ and when illuminated with light of wavelength $\\lambda_2$ (where $\\lambda_1 > \\lambda_2$) it emits electrons with maximum energy $E_2$. Use this information to derive the expressions for Planck's constant and the work function of the metal.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q17c",
+    "question": "Evaluate the term $ch$ (in $\\text{eV}$) with its appropriate unit, where c is the speed of light in vacuo and h is the Planck's constant.",
+    "topic": "Modern & Quantum Physics"
+  },
+  {
+    "number": "Q18a(i)",
+    "question": "Briefly explain the following term: radioactivity, natural and artificial radioactivity.",
+    "topic": "Modern & Quantum Physics"
+  },
+  {
+    "number": "Q18a(ii)",
+    "question": "Consider a series decay of radioactive nucleus 'A' according to the following scheme: $A \\xrightarrow{\\alpha} A_1 \\xrightarrow{\\beta} A_2 \\xrightarrow{\\alpha} A_3 \\xrightarrow{\\gamma} A_4$. If the mass number and atomic number of A are $190$ and $75$ respectively. what are these numbers in $A_4$?",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q18b(i)",
+    "question": "Consider the energy levels $E_n$ of a hypothetical one electron atom given by the relation: $E_n = -\\frac{23.6}{n^2}\\text{ eV}$. Where $n = 1,2,3\\dots$. (i) calculate the five lowest energy levels and construct the energy level diagram.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q18b(ii)",
+    "question": "What is the first excitation potential?",
+    "topic": "Modern & Quantum Physics"
+  },
+  {
+    "number": "Q18c",
+    "question": "Calculate the energy required to remove one neutron from $^{40}_{20}\\text{Ca}$. Write down the reaction. (given that: $^{40}_{20}\\text{Ca} = 39.962589\\text{u}$, $^{39}_{20}\\text{Ca} = 38.970691\\text{u}$, mass number of neutron $= 1.008665\\text{u}$ and $1\\text{u} = 930\\text{MeV}$).",
+    "topic": "Mechanics & Properties of Matter"
+  }
+]

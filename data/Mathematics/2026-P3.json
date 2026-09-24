@@ -1,0 +1,102 @@
+[
+  {
+    "number": "Q1",
+    "question": "Express $y^2 - 4x = 4y$ in polar coordinates.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q2",
+    "question": "Find the eccentricity of the ellipse $\\frac{x^2}{25} + \\frac{y^2}{16} = 1$, hence its foci.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q3",
+    "question": "Given that the coordinates of the center and the length of the radius of a circle are $(-2, -5)$ and $5$ respectively, obtain its equation.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q4",
+    "question": "Calculate $P(A \\cap B)$ where $P(A) = 0.4$, $P(B) = 0.6$, $P(A \\cup B) = 0.8$.",
+    "topic": "Statistics & Probability"
+  },
+  {
+    "number": "Q5",
+    "question": "What is the remainder when the polynomial $x^3 + 3x^2 + 6x + 1$ is divided by $(x - 1)$?",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q6a",
+    "question": "Find the condition for the line $y = ax + b$ to be tangent to the circle $x^2 + y^2 + x + y = 0$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q6b",
+    "question": "Show that $r = \\frac{1}{2 + 2\\cos \\theta}$ represents a parabola in polar form.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q7a",
+    "question": "Find the condition for the line $y = ax + b$ to touch the parabola $y^2 - y + 3x = 0$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q7b",
+    "question": "Find the center, eccentricity and foci of the ellipse $\\frac{(x-2)^2}{64} + \\frac{(y+2)^2}{16} = 1$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q8a",
+    "question": "Sketch the curve in polar form $r = 3(1 - \\sin 3\\theta)$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q8b",
+    "question": "Obtain the equation of the tangent to the ellipse $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$ at the point $(x_1, y_1)$. Hence, write down the equation of the tangent at $(a \\sin \\theta, b \\cos \\theta)$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q9a",
+    "question": "Show that $f(x) = 2e^{-2x}, 0 \\le x < \\infty$ represents probability density function for a random variable $x$. Calculate:\n(i) $P(x \\le 3)$;\n(ii) $P(x \\ge 2)$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q9b",
+    "question": "For a Binomial distribution with $6$ trials and $p = 0.125$, find the probability that:\n(i) all six trials are successful;\n(ii) at most two trials are successful;\n(iii) none of the trials is successful.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q9c",
+    "question": "A card is selected from a pack of playing cards, what is the probability that it is a queen or a diamond?",
+    "topic": "Statistics & Probability"
+  },
+  {
+    "number": "Q10a",
+    "question": "A random variable has the distribution given by the probability density function $f(x) = mx^2, 1 \\le x \\le 4$. Calculate the value of $m$. For this value of $m$, find the mean and standard deviation of the distribution.",
+    "topic": "Statistics & Probability"
+  },
+  {
+    "number": "Q10b",
+    "question": "The average birth in a certain community is $5$ per day; find the probability that in a certain day:\n(i) there will be $2$ births;\n(ii) at least $3$ births.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q10c",
+    "question": "In a single toss of a fair die, what is the probability of obtaining a prime or even number?",
+    "topic": "Statistics & Probability"
+  },
+  {
+    "number": "Q11a",
+    "question": "Two dice are tossed once. What is the probability that the outcomes are prime?",
+    "topic": "Statistics & Probability"
+  },
+  {
+    "number": "Q11b",
+    "question": "Two dice are tossed once. What is the probability that the product of the outcome is:\n(i) less than $7$;\n(ii) even;\n(iii) odd?",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q11c",
+    "question": "Find the Harmonic and Geometric means of $7, 9$ and $11$.",
+    "topic": "Statistics & Probability"
+  }
+]

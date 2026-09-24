@@ -1,0 +1,87 @@
+[
+  {
+    "number": "Q1",
+    "question": "Differentiate $\\cos^{-1}(2 + x) \\sin 5x$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q2",
+    "question": "Evaluate $\\lim_{y \\to 9} \\frac{\\sqrt{y} - 3}{y^2 - 8y - 9}$.",
+    "topic": "Calculus (Differentiation & Integration)"
+  },
+  {
+    "number": "Q3",
+    "question": "Solve the equation $\\frac{dy}{dx} = \\frac{\\sin x}{\\cos y}$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q4",
+    "question": "Find the direction cosines of the vectors $i - 2j + k$ and $i + 2j - k$, hence the cosine of the angle between them.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q5",
+    "question": "Find $\\int 5x^3 e^{x^4} dx$.",
+    "topic": "Calculus (Differentiation & Integration)"
+  },
+  {
+    "number": "Q6a",
+    "question": "A curve $C$ has parametric equations: $x = t + t^{-1}$ and $y = t^m + t^{-m}$. Show that $(x^2 - 4)\\left(\\frac{dy}{dx}\\right)^2 = m^2 (y^2 - 4)$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q6b",
+    "question": "Find the indefinite integral $\\int \\frac{e^t}{(e^t - 3)(e^t + 3)} dt$. (You may use $x = e^t$).",
+    "topic": "Calculus (Differentiation & Integration)"
+  },
+  {
+    "number": "Q7a",
+    "question": "Given that $I_n = \\int \\tan^n x dx$, show that $(n - 1) I_n = \\tan^{n-1} x - (n - 1) I_{n-2}$ using integration by part. Hence obtain $I_3$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q7b",
+    "question": "Differentiate $\\cos^{-1}\\left(\\frac{1-x^2}{1+x^2}\\right)$ and express in its simplest form.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q8a",
+    "question": "Find the maxima and minima of the function $f(x) = x(1 - x^2)$ and points at which they occur, sketch the curve for $x \\in \\mathbb{R}$. Hence, obtain the area bounded by curve and $x$-axis.",
+    "topic": "Calculus (Differentiation & Integration)"
+  },
+  {
+    "number": "Q8b",
+    "question": "Differentiate from first principle $y = \\cos 3x$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q9a",
+    "question": "If $a = 3i - 2j + k$, $b = i - 5j + k$ and $c = 2i + j + 2k$, show that $a \\cdot (b + c) = a \\cdot b + a \\cdot c$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q9b",
+    "question": "Solve the equation $\\frac{dy}{dx} - xy = 3x$, for $y(0) = 3$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q10a",
+    "question": "Find the particular solution of the equation $2x^2 \\frac{dy}{dx} = y^2 - 3xy$, given that $y(1) = 1$.",
+    "topic": "Calculus (Differentiation & Integration)"
+  },
+  {
+    "number": "Q10b",
+    "question": "Given vectors $a = i - j - k$ and $b = 2i - 3j + k$, compute the projection of $(2a + b)$ on $(a - 2b)$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q11a",
+    "question": "Find the equation of the curve which satisfies the differential equation $b^2 \\frac{dx}{y} - a^2 \\frac{dy}{x} = 0$ and passes through the point $(0, b)$.",
+    "topic": "Calculus (Differentiation & Integration)"
+  },
+  {
+    "number": "Q11b",
+    "question": "Find the area of triangle $ABC$ whose position vectors of $A, B, C$ are $i - j + 2k$, $i + 4j - 3k$, and $i - 3j + 2k$, respectively.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  }
+]

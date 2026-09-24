@@ -1,0 +1,87 @@
+[
+  {
+    "number": "Q1",
+    "question": "Differentiate $\\tan^{-1}((1 - x^2) \\cos 3x)$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q2",
+    "question": "Evaluate $\\lim_{x \\to -1} \\frac{x^3 + 1}{x^2 - 1}$.",
+    "topic": "Calculus (Differentiation & Integration)"
+  },
+  {
+    "number": "Q3",
+    "question": "Solve the equation $y(1 + x^2)dy + (1 + y^2)dx = 0$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q4",
+    "question": "Find the direction cosines of the vector $\\mathbf{i} - 2\\mathbf{j} - \\mathbf{k}$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q5",
+    "question": "Evaluate $\\int_0^1 x^2 e^{x^3} dx$.",
+    "topic": "Calculus (Differentiation & Integration)"
+  },
+  {
+    "number": "Q6a",
+    "question": "If a body moves according to the law $S = e^{3t} - 9t e^{-t} - 4t \\cos t$, find the velocity and acceleration at $t = 0\\text{ sec}$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q6b",
+    "question": "Find $\\int e^{-2x} \\cos 3x dx$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q7a",
+    "question": "Find the area of the region bounded by the curves $y = x^2 - 2x$ and $y = 2x - x^2$.",
+    "topic": "Calculus (Differentiation & Integration)"
+  },
+  {
+    "number": "Q7b",
+    "question": "Given that $\\cos y = \\frac{y}{x}$, find $\\frac{d^2y}{dx^2}$ at the point $(1, 0)$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q8a",
+    "question": "Differentiate from first principle $y = \\sin x \\cos x$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q8b",
+    "question": "Find a better approximation to the root of the equation $e^x - 3x + 1 = 0$ if $x_0 = 0.000$ is an initial approximation and $f'(x_0) \\neq 0$ up to 3 iterations.",
+    "topic": "Calculus (Differentiation & Integration)"
+  },
+  {
+    "number": "Q9a",
+    "question": "Solve the equation $(x^2 \\sec x \\tan x + x \\sec x)dx = xy dy$ given that $y(\\pi) = 0$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q9b",
+    "question": "Show that the point $P = 2\\mathbf{i} - 3\\mathbf{j} + 4\\mathbf{k}$ lies on the line $\\mathbf{r} = \\mathbf{i} - 2\\mathbf{j} + \\mathbf{k} + t(\\mathbf{i} - \\mathbf{j} + 3\\mathbf{k})$. Let $A = 3\\mathbf{i} - 5\\mathbf{j} + 3\\mathbf{k}$. Show that $AP$ is perpendicular to $\\mathbf{i} - \\mathbf{j} + 3\\mathbf{k}$, hence find the distance of the given line from $A$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q10a",
+    "question": "The position vectors of the vertices of triangle $PQR$ are $2\\mathbf{i} + 3\\mathbf{j} - 5\\mathbf{k}$, $-3\\mathbf{i} - 7\\mathbf{j} + 10\\mathbf{k}$ and $-3\\mathbf{i} - 5\\mathbf{j} + 10\\mathbf{k}$, respectively. Find the position vectors of the points $S$ and $T$ on $PQ$ and $PR$, respectively such that $\\frac{PS}{QS} = \\frac{PT}{RT} = \\frac{1}{2}$. Show that $ST \\parallel QR$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q10b",
+    "question": "For the triangle $PQR$ in part (a) above, calculate the cosine of angle $Q$ and hence the area of the triangle.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q11a",
+    "question": "Solve the equation $x^2 \\frac{dy}{dx} = x^2 + 2xy + y^2$, given that $y(1) = 0$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q11b",
+    "question": "Find the equation of the curve through $(0, \\pi)$ for which the normal at any point $(x, y)$ has the slope $-\\sin y e^x$ and $y(0) = \\pi$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  }
+]

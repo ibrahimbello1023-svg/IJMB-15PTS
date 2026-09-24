@@ -1,0 +1,22 @@
+[
+    {
+        "number": "Q1A",
+        "question": "For a simple pendulum bob suspended by an inextensible string from the roof of a lorry that slide down on an incline plane at angle $\\theta$ to the horizontal (ignore the mass of the string). The period ($T$) is inversely proportional to the square root of the cosine of the inclination. Assume that, the time taken $t$ second for $n$ complete oscillations is given by $t = \\alpha L^\\lambda$. Where $\\alpha$ and $\\lambda$ are constants and $L$ is the length of the string. Table 1 present the data obtained in an attempt to measure the period of such pendulum for $10$ complete oscillations.\n\n$$\\begin{array}{|c|c|c|c|c|c|c|c|c|c|c|} \\hline t/\\text{s} & 1.66 & 3.36 & 4.17 & 6.30 & 8.00 & 7.96 & 9.93 & 10.54 & 10.72 & 12.88 & 14.72 \\\\ \\hline L/\\text{m} & 0.63 & 0.78 & 0.92 & 0.98 & 1.04 & 1.10 & 1.17 & 1.23 & 1.29 & 1.39 & 1.47 \\\\ \\hline \\end{array}$$\n\n(i) Transform equation into a straight line graph to determine the constants $\\alpha$ and $\\lambda$.\n(ii) Form a suitable composite table containing all the necessary parameters to determine the approximate values of $\\alpha$ and $\\lambda$ graphically.\n(iii) Use your graph to determine the approximate values of $\\alpha$ and $\\lambda$.\n(iv) From the graph, find the approximate value of $t$ when $L = 120\\text{ cm}$.\n(v) From your values of $\\alpha$ and $\\lambda$, use equation to find the $t$ when $L = 50\\text{ cm}$.",
+        "topic": "Mechanics & Properties of Matter"
+    },
+    {
+        "number": "Q1b",
+        "question": "If $x = 80 \\pm 4.01$. Find the percentage error in determining the value of $\\sqrt{x}$.",
+        "topic": "Practicals"
+    },
+    {
+        "number": "Q2A",
+        "question": "You are provided with a wide test tube fitted with a mm scale (e.g. by inserting a strip of mm graph paper marked at cm intervals from its bottom), amount of water, a deep beaker and some lead shots. Use figure 1 as a guide to carry out the following instructions:\nMeasure and record the internal radius ($r$) of your test tube $r = \\dots\\text{ cm}$.\n(i) Place some lead shots or any piece of metal (e.g pendulum bob) to make it float vertically in the liquid and record this level as ($x_0$). Gently add the weights ($W$) in the tube and in steps for five more successive readings. In each case record the reading ($x$) of the scale against the liquid level.\n(ii) Evaluate the depth of immersion $d = x - x_0$, prepare a composite table from your readings.\n(iii) Plot a graph of ($d$) against the weights ($W$). Determine the slope ($s$) of the graph.\n(iv) Evaluate $k = \\frac{1}{\\pi r^2 s}$, where $r = \\text{internal radius of the test tube}$.\n(v) State the necessary precautions taken to ensure accurate results.",
+        "topic": "Practicals"
+    },
+    {
+        "number": "Q3A",
+        "question": "Use the circuit as shown in figure 2 as a guide to carry out the following instructions:\n(i) Identify $X$ and $Y$, where $R$ is the Rheostat. With $R$ at its lowest value, record the corresponding readings on $X$ and $Y$ as $x$ and $y$ respectively.\n(ii) Repeat the entire procedure by adjusting $R$ in each case to have five more corresponding readings on $X$ and $Y$ respectively.\n(iii) Tabulate your readings. Plot a graph of $y$ against $x$. Measure the slope $S$ of the graph.\n(iv) If $x$ and $y$ are related by the equation $y = \\psi - x\\eta$. Use your graph to find the possible value of $\\psi$ and $\\eta$.\n(v) State any sources of error you encounter to obtain accurate results.",
+        "topic": "Electricity & Magnetism"
+    }
+]

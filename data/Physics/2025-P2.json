@@ -1,0 +1,227 @@
+[
+  {
+    "number": "Q1 a",
+    "question": "State the condition for a ray of light to be refracted in a triangular glass prism.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q1 b",
+    "question": "A monochromatic ray of light is incident on one face of an equilateral glass prism of refractive index $\\sqrt{2}$. It undergoes a minimum deviation and finally emerges from the opposite face. What is the angle of incidence?",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q2",
+    "question": "Sketch the ray diagrams to illustrate the following terms: parallel beams, converging and diverging beams of light. Show the ray diagram for the formation of virtual image of a point object by a plane mirror.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q3",
+    "question": "An object $2\\text{ cm}$ height is placed $10\\text{ cm}$ in front of a concave lens of focal length $20\\text{ cm}$. What is the image size?",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q4 i",
+    "question": "What are the main sources of electric field and magnetic field?",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q4 ii",
+    "question": "Consider 2 resistors, of resistance $3\\,\\Omega$ and $6\\,\\Omega$ connected in parallel across a $12\\text{ V}$ battery. Determine the current flowing in the $3\\,\\Omega$ resistor and the voltage across each resistor.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q5",
+    "question": "When a $2\\text{ A}$ current flows through a very long wire, Find the magnetic field at a point $2.3\\text{ cm}$ from the wire.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q6",
+    "question": "Determine the capacitance that must be connected in series with a $30\\mu\\text{F}$ capacitor for the equivalent capacitance to be $12\\mu\\text{F}$? Also find the charges through each capacitor when the arrangement is connected to $10\\text{V}$ d.c supply.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q7",
+    "question": "An inductor is connected to a $150\\text{ V}, 50\\text{ Hz}$ supply, to a $300\\text{ VA}$ power supply. Calculate the value of the inductance.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q8",
+    "question": "Show that, the Einstein equation that related the frequency ($f$) and wavelength ($\\lambda$) of light wave by a photon has energy $E(\\text{eV}) = \\frac{12431}{\\lambda(\\text{\\AA})}$.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q9",
+    "question": "What is electromagnetic wave (emw)?. State the basic sources of emw. Write down any four examples of emw.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q10",
+    "question": "Cesium has a work function of $1.8\\text{ eV}$. When light of wavelength $5000\\text{\\AA}$ is incident on it, find the threshold frequency, cutoff wavelength and the maximum kinetic energy of the emitted electrons.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q11a i",
+    "question": "State any four applications of optical instruments that used lenses. Sketch ray diagrams of focal length by parallel beam of light striking the face each of converging (or convex) and diverging (concave) lenses. What is the nature of each focal length?",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q11a ii",
+    "question": "A small pin object is placed $15\\text{ cm}$ from a concave lens with focal length $10\\text{ cm}$, discuss the nature of the image formed.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q11b",
+    "question": "Consider an object $3.7\\text{ cm}$ high placed $15\\text{ cm}$ from the pole of a (i) concave mirror (ii) convex mirror of radius of curvature $40\\text{ cm}$. Find the nature of the image position, magnification and image height.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q12a i",
+    "question": "A ray of light travels from water to glass. Show the ray diagram and indicate clearly the angle of incidence ($\\hat{i}$), angle of refraction ($\\hat{r}$) and the angle of deviation ($\\hat{\\delta}$). Express $\\hat{\\delta}$ in terms of $\\hat{r}$ and $\\hat{i}$.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q12a ii",
+    "question": "If $\\hat{i} = \\cos^{-1}\\left(\\frac{4}{5}\\right)$, Calculate $\\hat{r}$ and $\\hat{\\delta}$, given that, refractive indices of water and glass are respectively $\\frac{4}{3}$ and $\\frac{3}{2}$.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q12b i",
+    "question": "An object $AB$ $10\\text{ cm}$ from the mirror is viewed through a plane mirror at angle $30^\\circ$ as shown in the diagram. Copy and locate the image formed by the mirror.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q12b ii",
+    "question": "Calculate the object distance from a convex lens of focal length $10\\text{ cm}$ when the image is magnified two times (A) if the image is real. (B) if the image is virtual.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q13a i",
+    "question": "State the mathematical form of Coulomb's law of electrostatics in terms of relative permittivity ($\\varepsilon_r$) and state any two properties each of electric charges and electric field line of force.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q13a ii",
+    "question": "Write down (without proof) the expression in each of the following forms of electric field: (A) The electric field due a point charge. (B) The electric field uniformly distributed due to infinite line charge density ($\\lambda$). (C) The electric field uniformly distributed due to surface charge density ($\\sigma$). (D) The electric field uniformly distributed due to volume charge density ($\\rho$).",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q13b i",
+    "question": "Find the equivalent capacitance of the given network in figure 2.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q13b ii",
+    "question": "If a $200\\text{ volt}$ d.c supply is connected to the circuit, calculate the charge and energy stored in the circuit.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q14 i",
+    "question": "Define the following terms as applied to electrical circuit: branch (give two examples), node and loop. Define the underlined term.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q14 ii",
+    "question": "State the Kirchhoff's laws in words and copy the circuit in figure 3 and indicate the number of branches, nodes and loops.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q14 iii",
+    "question": "Find the current through each resistor in figure 3.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q15a i",
+    "question": "Distinguish between the terms: cell and battery(as applied to electricity), electromotive force and terminal potential difference.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q15a ii",
+    "question": "A copper thick coil of 300 turns is wound uniformly on a non-magnetic ring. If the mean circumference of ring is $40\\text{ cm}$ and a uniform cross sectional area of $4\\text{ cm}^2$. When the current in the coil is $5\\text{ A}$, calculate the magnetic field strength, the flux density, the total magnetic flux in the ring and reluctance, also define the underlined term.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q15b i",
+    "question": "With the help of suitable diagram, briefly explain the phenomena that: \"magnetic monopole does not exist\" (i.e a magnet with a single N- pole or S-pole can not be formed).",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q15b ii",
+    "question": "The magnetic field at a point on the axis of a circular current-carrying coil is given by $B = \\frac{1}{2}\\frac{\\mu_0 N i r^2}{(r^2 + x^2)^{\\frac{3}{2}}}$ where $N$ is the number of turns, $r$ is the radius of the coil and $x$ is the distance of the observation point from the centre of the coil, Determine the $B$: At the centre of the loop, and at place when the observation point is far far away from the coil ($x \\gg r$).",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q15c",
+    "question": "Calculate the value of the energy stored when a current of $30\\text{ mA}$ is flowing in a coil of inductance $400\\text{ mH}$.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q16a i",
+    "question": "What are Ohmic and non Ohmic conductors? Support your answers with suitable sketches graphs. State the factors upon which the resistance and resistivity of on electrical conductors depend and the effect of each factor.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q16a ii",
+    "question": "The resistance of a $5\\text{ m}$ length of wire is $600\\,\\Omega$. Determine the resistance of an $8\\text{ m}$ length of the same wire, and the length of the same wire when the resistance is $420\\,\\Omega$.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q16b i",
+    "question": "State two advantages of a.c over d.c and one advantage of d.c over a.c.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q16b ii",
+    "question": "A series circuit of resistance $60\\text{ ohm}$ and $75\\text{ mH}$ inductance are connected to a $110\\text{ V}, 60\\text{ Hz}$ a.c supply. Calculate the power dissipated and the power factor.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q16b iii",
+    "question": "By substituting the values $\\mu_0$ and $\\varepsilon_0$, Show that physical quantity $\\frac{1}{\\sqrt{\\mu_0 \\varepsilon_0}}$ represents the speed of light in vacuum. And find the value of $\\sqrt{\\frac{\\mu_0}{\\varepsilon_0}}$ (has a unit of $\\Omega$).",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q17a i",
+    "question": "Briefly explain the concept of photoelectric emission. Write down the Einstein photoelectric relations in terms of frequency of the emitted radiation, wavelength, stopping potential.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q17a ii",
+    "question": "What are the factors affecting the photoelectric emissions? State the effects of each factor.",
+    "topic": "Modern & Quantum Physics"
+  },
+  {
+    "number": "Q17a iii",
+    "question": "Assume the stopping potential for a certain metal is $3\\text{V}$ when is is illuminated by radiation of wavelength $0.5\\mu\\text{m}$. what would be the stopping potential of the metal when the wavelength is $600\\text{nm}$?",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q17b i",
+    "question": "State the natural radiations emitted by a radioactive element. Assume a radioactive element X, eject each one of the radiation, explain with help of the disintegration reaction, what would be the resulting nucleus?",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q17b ii",
+    "question": "A radioactive source at any instant has its disintegration rate of 5000 disintegrations per minute. After 5 minutes, the rate is 1250 disintegrations per minute. Calculate, the decay constant (per minute).",
+    "topic": "Modern & Quantum Physics"
+  },
+  {
+    "number": "Q18a i",
+    "question": "Briefly explain the terms \"mass defect and nuclear binding energy\" How are they related?.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q18a ii",
+    "question": "Consider the Energy released in fission fragments when Barium, Krypton and neutrons are released with high velocities according to the reaction $_0^1\\text{n} + _{92}^{235}\\text{U} \\rightarrow _{56}^{141}\\text{Ba} + _{36}^{92}\\text{Kr} + 3_0^1\\text{n} + \\gamma$. Find the energy released due to $\\gamma$ emission. Given that $^{235}_{92}\\text{U} = 235.0439\\text{u}$, $_0^1\\text{n} = 1.0087\\text{u}$, $^{141}_{56}\\text{Br} = 140.9129\\text{u}$, $^{92}_{36}\\text{Kr} = 91.8973\\text{u}$.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q18b i",
+    "question": "State the Heisenberg's Uncertainty Principle in words and write down (without proof) its mathematical form, state clearly the meaning of each symbol for a particle having: a momentum, for a particle having an energy, and for a particle moving round a circular orbit.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q18b ii",
+    "question": "Find the de Broglie wavelength of an electron (A) moving with velocity $1000\\text{ ms}^{-1}$ (B) having the kinetic energy of $100\\text{ eV}$.",
+    "topic": "Mechanics & Properties of Matter"
+  }
+]

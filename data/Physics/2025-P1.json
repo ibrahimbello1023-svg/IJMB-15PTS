@@ -1,0 +1,237 @@
+[
+  {
+    "number": "Q1 i",
+    "question": "Explain the terms \"fundamental quantities and derived quantities\".",
+    "topic": "Practicals"
+  },
+  {
+    "number": "Q1 ii",
+    "question": "What is the dimension of $h$ in the equation $E = hf$?",
+    "topic": "Practicals"
+  },
+  {
+    "number": "Q2",
+    "question": "An object of mass $4\\text{ kg}$ is suspended from a spring balance which is attached to a ceiling of a lift. If the spring balance is calibrated in SI unit of force. What will be the reading on the balance when (i) the lift is stationary (ii) the lift is moving upwards with an acceleration of $0.15\\text{ ms}^{-2}$. (iii) the lift is moving downwards with an acceleration of $0.20\\text{ ms}^{-2}$.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q3",
+    "question": "A block of wood of mass $1\\text{ kg}$ is held in a vice and a bullet of mass $0.01\\text{ kg}$ is fired into it. It penetrates to a depth of $0.10\\text{ m}$. If the block is now suspended so that it can move freely and a second bullet is fired in to it, to what depth will the bullet penetrate?",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q4",
+    "question": "An observer stands by the side of a railway truck while a train approaches him at a constant speed of $50\\text{ ms}^{-1}$. If the train is sounding its whistle at a frequency of $500\\text{ Hz}$, what will be the frequency perceived by the observer as the train (i) approaches (ii) recedes. Comment on your results.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q5",
+    "question": "The temperature of three different liquids are maintain at $15^\\circ\\text{C}$, $20^\\circ\\text{C}$ and $25^\\circ\\text{C}$ respectively. When equal masses of the first two liquids are mixed, the final temperature is $18^\\circ\\text{C}$ and when equal masses of the last two liquids are mixed, the final temperature is $24^\\circ\\text{C}$. What temperature will be achieved by mixing equal masses of the first and the last liquids?",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q6",
+    "question": "The solar constant is $0.14\\text{ Wcm}^{-2}$. Calculate the surface temperature of the sun. The ratio of the earth orbit to the radius of the sun is approximately $215$. (Assume the sun as perfectly radiating body).",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q7",
+    "question": "Water flows into a water tank of large cross sectional area at a rate of $10^{-4}\\text{ m}^3\\text{s}^{-1}$ but flows out of from a hole of cross sectional area of $10^{-4}\\text{ m}^2$ at the base of the tank. How high does the water rise in the tank?",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q8",
+    "question": "A sonar device emits waves of frequency $4 \\times 10^4\\text{ Hz}$. The velocities of the wave in air and water are $400\\text{ ms}^{-1}$ and $1350\\text{ ms}^{-1}$ respectively. Suppose that the device is fixed to the bottom of a ship. If it emits a signal and the echo from the ocean bed returns to the observer $0.8\\text{ s}$ later. Determine the (i) the depth of the ocean at that point. (ii) the wavelength of the signal in air and in water. (HINT: the frequency of the wave emitted is the same in air and in water).",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q9",
+    "question": "A steel tyre of diameter $1.50\\text{ m}$ at a temperature $10^\\circ\\text{C}$ is to be fitted on to a train's wheel of diameter $1.51\\text{ m}$. To what temperature must the tyre be heated to just fit the wheel? (Linear expansivity of steel is $11.0 \\times 10^{-6}\\text{ K}^{-1}$).",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q10 a",
+    "question": "What do you understand by the term evaporation?",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q10 b",
+    "question": "Evaporation is usually accompanied by cooling. Explain.",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q11a(i)",
+    "question": "State the Newton's third law of motion.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q11a(ii)",
+    "question": "What do you understand by non conservative forces?",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q11a(iii)",
+    "question": "State the principle of conservation of linear momentum.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q11b(i)",
+    "question": "A small rectangular mirror with a mass of $9.0 \\times 10^{-6}\\text{ kg}$ is suspended from a thin quartz filament $0.04\\text{ m}$ long. A powerful laser beam is emitted in a direction perpendicular to the mirror so that, the system is deflected from the vertical by a certain angle. The energy of the laser beam is $100\\text{ J}$. Using the principle of conservation of energy and momentum, discuss briefly the interaction between the laser beam and the mirror.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q11b(ii)",
+    "question": "Determine the angle of deflection of the mirror. Assuming the mirror is a perfect reflector and undergoes negligible vibration.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q12a(i)",
+    "question": "State the law of universal gravitation.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q12a(ii)",
+    "question": "Obtain the expression for mass $m$ of the earth and density $\\rho$ of the earth. Hence, deduce their numerical values.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q12b(i)",
+    "question": "A fully equipped astronaut in space can jump $2\\text{ m}$ vertically on earth using maximum effort. If the diameter of the moon is $0.25$ that of the earth and its density is $\\frac{2}{3}$ that of the earth. Show that, the acceleration due to gravity on the moon is $\\frac{1}{6}$ that of the earth.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q12b(ii)",
+    "question": "How far can the astronaut jump on the moon?",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q13a",
+    "question": "Explain the terms (i) laminar flow. (ii) turbulent flow.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q13b",
+    "question": "Write down the expression of Reynold number, a basic parameter for the characteristic of fluid motion and show that, it is dimensionless.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q13c",
+    "question": "For a streamline motion of an incompressible non viscous fluid in a pipe, the Bernoulli's principle states that: $(p_1 - p_2)\\Delta v = \\frac{1}{2}\\rho\\Delta v (v_2^2 - v_1^2) + \\rho g \\Delta v (h_2 - h_1)$. Where all the symbols retain their usual meanings. Show that, the total work done per unit volume of the fluid is constant.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q13d(i)",
+    "question": "Water enters a house through a pipe of internal diameter of $0.02\\text{ m}$ at an absolute pressure of $4 \\times 10^5\\text{ Pa}$. The pipe leading to the second flow bathroom $5\\text{ m}$ above is $0.01\\text{ m}$ in diameter. When the flow velocity at the inlet pipe is $4\\text{ ms}^{-1}$. Calculate the flow velocity and the pressure in the bathroom.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q13d(ii)",
+    "question": "What is the pressure in the bathroom if the tap is turned off?",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q14a",
+    "question": "Define the following and state their units. (i) specific heat capacity (ii) specific latent heat of fusion.",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q14b",
+    "question": "Describe the method of continuous flow for the determination of the specific heat of liquid.",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q14c",
+    "question": "In an experiment to determine the specific heat capacity of water using continuous flow method, the flowing sets of measurements were taken.\n\n| | Exp. 1 | Exp. 2 |\n| :--- | :--- | :--- |\n| Current in heating coil | $2.0\\text{ A}$ | $1.5\\text{ A}$ |\n| Potential difference across coil | $5.5\\text{ V}$ | $4.5\\text{ V}$ |\n| Mass of water collected | $0.0405\\text{ kg}$ | $0.0700\\text{ kg}$ |\n| Time of flow | $60.0\\text{ s}$ | $180.0\\text{ s}$ |\n| Inlet temperature | $38.0^\\circ\\text{C}$ | $38.0^\\circ\\text{C}$ |\n| Outlet temperature | $45.0^\\circ\\text{C}$ | $45.0^\\circ\\text{C}$ |\n\nUse the given data to obtain the specific heat capacity of water.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q14d",
+    "question": "State and explain three factors that affect evaporation of liquids.",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q15a",
+    "question": "Define coefficient of viscosity and briefly describe two applications of viscosity of liquids.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q15b(i)",
+    "question": "The viscous force opposing the motion of a sphere of radius $r$ moving through a liquid of viscosity $\\eta$ is given by $f = k r v \\eta$. Obtain an expression for the terminal velocity $v_r$ of the sphere falling freely in the liquid if the density of the liquid is $\\rho$ and the density of the sphere is $\\rho_s$.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q15b(ii)",
+    "question": "Spherical particles of pollen are shaken up in water and allowed to stand. The depth of water is $0.02\\text{ m}$. What is the diameter of of the largest particles remaining in suspension $1\\text{ hour}$ later? Density of pollen is $1.8 \\times 10^3\\text{ kgm}^{-3}$.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q16a(i)",
+    "question": "State and explain the first law of thermodynamics.",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q16a(ii)",
+    "question": "Show that, the internal energy of a gas depends only on its temperature.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q16b",
+    "question": "With the aid of a sketch diagram, explain the isothermal and adiabatic changes.",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q16c(i)",
+    "question": "A mass of an ideal gas of volume $6 \\times 10^{-4}\\text{ m}^3$ at $219\\text{ K}$ expands adiabatically and its temperature falls to $273\\text{ K}$. What is the final volume if the ratio of the principal heat capacities of the ideal gas $\\gamma = 1.40$?",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q16c(ii)",
+    "question": "In a Wilson cloud chamber at a temperature of $20^\\circ\\text{C}$, particles tracks are made visible by causing condensation on ions by an approximately reversible adiabatic expansion of the volume in the ratio $1.375$ to $1$. Estimate the gas temperature after the expansion.",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q17a",
+    "question": "Explain the meaning of the following: (i) fundamental note. (ii) Overtones, (iii) Harmonic frequencies.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q17b(i)",
+    "question": "Draw sketches to show how the first three overtones are produced in a closed pipe.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q17b(ii)",
+    "question": "Show that, a closed pipe produces only odd harmonics.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q17c",
+    "question": "Explain the meaning of end correction of resonance tube.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q17d",
+    "question": "You are given a closed pipe $0.46\\text{ m}$ long and an opened pipe $0.60\\text{ m}$ long. They both have same diameter and each sound its first overtone at the same pitch. What is the end correction?",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q18a(i)",
+    "question": "What is simple harmonic motion?",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q18a(ii)",
+    "question": "State and explain three examples of simple harmonic motion.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q18b",
+    "question": "A liquid column of total length $L$, and density $\\rho$ is at rest in a U-tube of uniform cross sectional area $A$. If the liquid in a U-tube is given a small placement $x$. (i). Show that, the issuing motion is simple harmonic. (ii) deduce an expression for the period of the water column.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q18c",
+    "question": "The displacement $x$, of of an object oscillating with simple harmonic motion is given by $x = 12\\cos(5\\pi t)$. Where $x$ is in millimeter and $t$ is in second. Determine the (i) amplitude (ii) The period. (iii) the maximum velocity attained by the object.",
+    "topic": "Mechanics & Properties of Matter"
+  }
+]

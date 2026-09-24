@@ -1,0 +1,92 @@
+[
+  {
+    "number": "Q1",
+    "question": "Differentiate $\\frac{1 + \\sin x}{1 + \\cos x}$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q2",
+    "question": "Find the direction cosines of the vector $2\\mathbf{i} + 2\\mathbf{j} - \\mathbf{k}$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q3",
+    "question": "Evaluate $\\lim_{x \\to 0} \\frac{x - \\sin x}{x^3 - x^4}$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q4",
+    "question": "If $y = e^x \\sin x$, show that $y'' - 2y' + 2y = 0$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q5",
+    "question": "Show that $\\int_0^1 \\frac{dx}{(1+x)[2+\\log(1+x)]} = \\log \\frac{\\log 2e^2}{2}$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q6a(i)",
+    "question": "If $y = xe^y$, show that $(1 - y)y' = e^y$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q6a(ii)",
+    "question": "If $y = xe^y$, show that $(1 - y)y'' = (2 - y)(y')^2$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q6b",
+    "question": "Evaluate $\\int_3^{11} \\frac{1}{x\\sqrt{1+x}} dx$.",
+    "topic": "Calculus (Differentiation & Integration)"
+  },
+  {
+    "number": "Q7a",
+    "question": "Differentiate from first principle $y = \\sqrt{7x - 5}$.",
+    "topic": "Calculus (Differentiation & Integration)"
+  },
+  {
+    "number": "Q7b",
+    "question": "Find the first four terms of the series expansion of the function $f(x) = \\frac{1}{3x - 1}$ for $|x| < 1$, ascending powers of $x$.",
+    "topic": "Sequences, Series & Binomial Expansion"
+  },
+  {
+    "number": "Q8a",
+    "question": "Sketch the graph of the function $y = x^3 - 2x^2 - 5x + 6$ and obtain the area bounded by the curve and $x$-axis.",
+    "topic": "Calculus (Differentiation & Integration)"
+  },
+  {
+    "number": "Q8b",
+    "question": "Differentiate $\\tan^{-1}(\\sqrt{1 + x^2} + x)$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q9a",
+    "question": "Solve the equation $\\frac{dy}{dx} - y\\tan x = \\sin^2 x$, $y\\left(\\frac{\\pi}{2}\\right) = 0$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q9b",
+    "question": "Find the angles the vector $\\mathbf{a} = 3\\mathbf{i} + \\mathbf{j} - 2\\mathbf{k}$ makes with the coordinate axes.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q10a",
+    "question": "Solve the equation $y x dx - (1 + x^2) dy = 0$, $y(0) = 1$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q10b",
+    "question": "Given the vectors $\\mathbf{a} = 3\\mathbf{i} + \\mathbf{j} - \\mathbf{k}$ and $\\mathbf{b} = 2\\mathbf{i} - \\mathbf{j} - \\mathbf{k}$, compute the projection of $(3\\mathbf{a} - 2\\mathbf{b})$ on the vector $(2\\mathbf{a} + 3\\mathbf{b})$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q11a",
+    "question": "Solve the differential equation for $\\frac{dy}{dx} = \\frac{x^2 - 3xy + 4y^2}{x^2}$ if $y(1) = 0$.",
+    "topic": "Calculus (Differentiation & Integration)"
+  },
+  {
+    "number": "Q11b",
+    "question": "Determine the value of $y$ if the vectors $y\\mathbf{i} - 2\\mathbf{j}$, $\\mathbf{j} - \\mathbf{k}$ and $\\mathbf{k} - \\mathbf{i}$ are linearly dependent.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  }
+]

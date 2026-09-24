@@ -1,0 +1,102 @@
+[
+  {
+    "number": "Q1",
+    "question": "Evaluate $\\int_{-\\pi}^{\\pi} 2x(\\tan^2 x - \\sec^2 x) dx$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q2",
+    "question": "Find the sine of the angle between the vectors $\\mathbf{a} = 3\\mathbf{i} - 2\\mathbf{j} + \\mathbf{k}$ and $\\mathbf{b} = \\mathbf{i} + 2\\mathbf{j} - 3\\mathbf{k}$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q3",
+    "question": "Solve the equation $\\frac{dy}{dx} = e^{2x+y}$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q4",
+    "question": "Differentiate $e^{\\sin x} \\cos 2x$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q5",
+    "question": "Find the value of $x$ for which the vectors $x\\mathbf{i} - 298\\mathbf{j} + \\mathbf{k}$ and $x\\mathbf{i} - 25\\mathbf{k}$ are perpendicular.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q6a",
+    "question": "A curve $C$ has parametric equations: $x = e^{2u} - u$ and $y = e^{3u} - 2u$. Find $\\frac{dy}{dx}$ and $\\frac{d^2y}{dx^2}$. If the gradient of the normal to the curve at the point $A$ is $2$, find the value of $u$ at $A$ in the form $u = \\ln c$, where $c$ is a constant.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q6b",
+    "question": "If $x = \\tan(\\ln y)$, show that $(1 + x^2)\\frac{d^2y}{dx^2} + (2x - 1)\\frac{dy}{dx} = 0$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q7a",
+    "question": "Given that $I_n = \\int \\cos^n x dx$, show that $n I_n = \\sin x \\cos^{n-1} x + (n - 1) I_{n-2}$, using integration by part. Hence evaluate $\\int_0^{\\frac{\\pi}{2}} \\cos^7 x dx$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q7b",
+    "question": "Evaluate $\\int_0^1 \\frac{x+3}{(x+2)(x+1)(x-2)} dx$.",
+    "topic": "Calculus (Differentiation & Integration)"
+  },
+  {
+    "number": "Q8a",
+    "question": "$1000\\text{ m}$ of fencing wire is to be used to make a rectangular enclosure. Find the maximum possible area and the corresponding dimensions.",
+    "topic": "Calculus (Differentiation & Integration)"
+  },
+  {
+    "number": "Q8b",
+    "question": "Differentiate from first principle $y = \\csc x$.",
+    "topic": "Calculus (Differentiation & Integration)"
+  },
+  {
+    "number": "Q9a",
+    "question": "Solve the equation $(4x + 1)\\frac{dy}{dx} + 8y = 6(4x + 1)^{-2}$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q9b",
+    "question": "Solve the equation $y\\frac{dy}{dx} = x e^{3y^2 - x^2}$, $y(0) = 0$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q9c",
+    "question": "Find the general solution of the equation $\\frac{dy}{dx} = x^3 - 3yx^3$.",
+    "topic": "Calculus (Differentiation & Integration)"
+  },
+  {
+    "number": "Q10a",
+    "question": "The position vectors of the vertices of triangle $XYZ$ are $5\\mathbf{i} + 3\\mathbf{j} + 2\\mathbf{k}$, $3\\mathbf{i} - 2\\mathbf{j} - 5\\mathbf{k}$ and $2\\mathbf{i} + 5\\mathbf{j} - 3\\mathbf{k}$, respectively. Calculate the cosine of angle $Y$, hence the area of the triangle.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q10b",
+    "question": "Given the vectors $\\mathbf{a} = 3\\mathbf{i} + 4\\mathbf{j} + 5\\mathbf{k}$, $\\mathbf{b} = 2\\mathbf{i} - 3\\mathbf{j} + 4\\mathbf{k}$ and $\\mathbf{c} = -4\\mathbf{i} - 3\\mathbf{j} - 2\\mathbf{k}$, show that $\\mathbf{a} \\cdot (\\mathbf{b} + \\mathbf{c}) = \\mathbf{a} \\cdot \\mathbf{b} + \\mathbf{a} \\cdot \\mathbf{c}$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q10c",
+    "question": "Calculate the value of $n$ for the vectors $3\\mathbf{i} - n\\mathbf{j} - 5\\mathbf{k}$ and $n\\mathbf{i} - 2\\mathbf{j} - 7\\mathbf{k}$ to be perpendicular.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q11a",
+    "question": "Solve the equation $(x - y)dy = ydx$, given that $y(0) = 1$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q11b",
+    "question": "Given the vectors $\\mathbf{a} = 5\\mathbf{i} + 4\\mathbf{j} + 3\\mathbf{k}$, and $\\mathbf{b} = 2\\mathbf{i} + 3\\mathbf{j} - 4\\mathbf{k}$, calculate the vector projection of $2\\mathbf{a} + \\mathbf{b}$ on $\\mathbf{a} - 2\\mathbf{b}$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q11c",
+    "question": "The equation of the tangent to a curve at any point $(x, y)$ is $3x^2 + 2x - 1$, obtain the equation of the curve if it passes through the point $(1, 1)$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  }
+]

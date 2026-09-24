@@ -1,0 +1,82 @@
+[
+    {
+        "number": "Q1a i",
+        "question": "Rinse your burette with solution A and fill it with the same solution. Record your initial reading by recording the upper meniscus of the burette.",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q1a ii",
+        "question": "Pipette 20 or $25\\text{ cm}^3$ of solution B in to a clean conical flask and add to it about $15\\text{ cm}^3$ of solution C using a measuring cylinder. Swirl to mix and warm the mixture until it is about to boil.",
+        "topic": "Stoichiometry & Volumetric Analysis"
+    },
+    {
+        "number": "Q1a iii",
+        "question": "From the burette, run in solution A in to the content of the conical flask until a permanent faint pink colour is observed.",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q1a iv",
+        "question": "Repeat (ii) and (iii) twice more with fresh portions of 20 or $25\\text{ cm}^3$ of solution B. (16 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q1a v",
+        "question": "Calculate the average titre. (2 marks)",
+        "topic": "Stoichiometry & Volumetric Analysis"
+    },
+    {
+        "number": "Q1a vi",
+        "question": "Balance the reaction equation (2 marks)\n$$\\text{MnO}_4^- + \\text{C}_2\\text{O}_4^{2-} + \\text{H}^+ \\longrightarrow \\text{Mn}^{2+} + \\text{CO}_2 + \\text{H}_2\\text{O}$$",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q1b i",
+        "question": "From your results, calculate the amount in $\\text{grams dm}^{-3}$ of solution A; (3 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q1b ii",
+        "question": "From your results, calculate the amount in $\\text{moles dm}^{-3}$ of solution A; (5 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q1b iii",
+        "question": "From your results, calculate the amount in moles of solution A titrated; (3 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q1b iv",
+        "question": "From your results, calculate the amount in moles of solution B consumed; (5 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q1b v",
+        "question": "From your results, calculate the amount in $\\text{moles dm}^{-3}$ of solution B; (3 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q1b vi",
+        "question": "From your results, calculate the amount in $\\text{grams dm}^{-3}$ of solution B. (5 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q1c",
+        "question": "State one use of each of the following in a laboratory: (3 marks)\n(i) Buchner funnel;\n(ii) Wash bottle;\n(iii) Round bottom flask.",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q1d",
+        "question": "Define reducing agent in terms of: (3 marks)\n(i) oxidation number;\n(ii) electron transfer;\n(iii) transfer of hydrogen atom.",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q2 A",
+        "question": "You are provided with sample A1 = Barium Chloride.\n(a) Carry out two (2) distinguishing tests for the cation\n(b) Carry out two (2) distinguishing tests for the anion. (20 marks)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q2 B",
+        "question": "You are asked to identify the functional group present in two (2) organic compounds [A2 and A3]. Each compound will be treated with four different reagents and appropriate observations made.\nPrepare a saturated solution of each of samples A2 and A3 in ethanol separately and use the solution for the following tests\n\nTEST 1 Litmus Paper\ni) Pour a small portion of Compound A2 solution into a test tube.\nii) Test with blue litmus paper.\niii) Record all observations\niv) Repeat the procedure for Compound A3.\n\nTEST 2 Hydrogen carbonate Solution\ni) Pour a small portion of Compound A2 solution into a test tube.\nii) Add an aqueous solution of $\\text{NaHCO}_3$ drop by drop.\niii) Test any gas evolved with lime water.\niv) Record all observations\nv) Repeat the procedure for Compound A3.\n\nTEST 3 Dinitrophenylhydrazine\ni) Pour a small portion of Compound A2 solution into a test tube.\nii) Add about $2\\text{ ml}$ of saturated solution of 2,4-dinitrophenylhydrazine and shake well.\niii) Warm the mixture on a water bath for 2 minutes and allow it cool\niv) Record all observations\nv) Repeat the procedure for Compound A3.\n\nTEST 4 Schiff's reagent\ni) Pour a small portion of Compound A2 solution into a test tube.\nii) Add about $2\\text{ ml}$ of Schiff's reagent and shake well\niii) Allow the mixture to stand for 2 minutes\niv) Record all observations\nv) Repeat the procedure for Compound A3.\n\nCopy and complete the following table in your answer booklet: (8 marks)\n| Compound | Observations with Litmus Paper | Observations with Hydrogen Carbonate Solution | Observations with Dinitrophenylhydrazine | Observations with Schiff's Reagent | Conclusion |\n| --- | --- | --- | --- | --- | --- |\n| A2 | | | | | |\n| A3 | | | | | |",
+        "topic": "Organic Chemistry"
+    }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "number": "Q1A a(i)",
+    "question": "Transform equation (1) into a straight line graph to find the values of the constants $A$ and $\\mu$.",
+    "topic": "Practicals"
+  },
+  {
+    "number": "Q1A a(ii)",
+    "question": "Prepare a composite table with all the necessary parameters to determine the constants $A$ and $\\mu$.",
+    "topic": "Practicals"
+  },
+  {
+    "number": "Q1A a(iii)",
+    "question": "Determine the constant $A$ and $\\mu$ graphically.",
+    "topic": "Practicals"
+  },
+  {
+    "number": "Q1A a(iv)",
+    "question": "From your graph, find the value of $F$ when $\\theta = 5.4^\\circ$.",
+    "topic": "Practicals"
+  },
+  {
+    "number": "Q1A a(v)",
+    "question": "Also use equation (1) to find the value of $F$ when $\\theta = 5.4^\\circ$. Compare your answer in (iv) above.",
+    "topic": "Practicals"
+  },
+  {
+    "number": "Q1A b",
+    "question": "Given that: $x = 45.4 \\pm 1.23$ and $y = 4.2 \\pm 0.07$. Find the error in calculating the value of $m = x^2 - y$.",
+    "topic": "Practicals"
+  },
+  {
+    "number": "Q2A i",
+    "question": "Suspend another mass $M_1 = 10\\text{ g}$ at the other side $A$ of the rule, such that by adjusting $M_1$, the meter rule balances horizontally at a distance $x\\text{ cm}$ from the c.g.. Read and record the corresponding value of $x$. Repeat the whole procedure by increasing $M_1 = 20, 25, 28, 32\\text{ and } 38\\text{ g}$ respectively. In each case read and record the corresponding values of $x$. Prepare a composite table.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q2A ii",
+    "question": "Plot a graph of $M_1$ against $x^{-1}$. Find the slope $S$ of the graph with its appropriate unit.",
+    "topic": "Practicals"
+  },
+  {
+    "number": "Q2A iii",
+    "question": "If $M_1$ is related to $M_o$ according to the relation, $M_1 = \\frac{M_o(c.g - 2)}{x}$, from your slope, find the value of $M_o$.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q2A iv",
+    "question": "State any two precautions taken to ensure accurate results.",
+    "topic": "Practicals"
+  },
+  {
+    "number": "Q3A i",
+    "question": "Connect the circuit as shown in figure 2 with $E = 4\\text{ or } 4.5\\text{ volts}$, $R$ is a variable resistor, $X$ is an unknown resistor, $V$ and $A$ are voltmeter and ammeter respectively. Move the slider to the one end such that, the voltmeter reading is in its lowest point. Read and record this lowest voltage and its corresponding current reading. Repeat the procedure by slightly adjusting the variable resistor to obtain five more successive values of Voltmeter and its corresponding ammeter readings respectively. Prepare a composite table. Plot a graph of $\\ln(I)$ against $\\ln(V)$. Find the slope $S$ of the graph. What is the physical meaning of the slope $S$? Hence, Evaluate $S^{-1}$.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q3A ii",
+    "question": "State any two precautions taken to ensure accurate results.",
+    "topic": "Practicals"
+  }
+]

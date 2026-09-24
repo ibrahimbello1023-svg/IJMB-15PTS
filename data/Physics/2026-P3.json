@@ -1,0 +1,47 @@
+[
+  {
+    "number": "Q1A i",
+    "question": "Transform equation (1) into a straight line graph to determine $R_0$ and $\\lambda$.",
+    "topic": "Practicals"
+  },
+  {
+    "number": "Q1A ii",
+    "question": "Form a suitable composite table containing all the necessary parameters to determine the approximate values of $R_0$ and $\\lambda$ graphically.",
+    "topic": "Practicals"
+  },
+  {
+    "number": "Q1A iii",
+    "question": "Use your graph to determine the approximate values of $R_0$ and $\\lambda$.",
+    "topic": "Practicals"
+  },
+  {
+    "number": "Q1A iv",
+    "question": "From the graph, find the approximate value of $R$ when $t = 0.36\\text{ seconds}$.",
+    "topic": "Practicals"
+  },
+  {
+    "number": "Q1A v",
+    "question": "From your values of $R_0$ and $\\lambda$ use equation (1) to find the value of $t$ when $R = 8.99\\text{ s}^{-1}$.",
+    "topic": "Practicals"
+  },
+  {
+    "number": "Q1A b",
+    "question": "if $x = 1.3 \\pm 0.002$ and $y = 2.1 \\mp 0.0009$, Find the error in the determining the value of the term $x^2 - \\sqrt{y}$.",
+    "topic": "Practicals"
+  },
+  {
+    "number": "Q2A",
+    "question": "Hang two spiral springs of nearly the same elastic constants in series from a rigid support as shown in figure 1 with $M = 50\\text{g}$. Displace the spring vertically downward through a small distance and gently release it. The spring performs simple harmonic oscillations. With the help of stop watch record the time for 20 complete oscillations. Find the time period $T$. Evaluate $T^2$. Repeat the experiment for five more different values of $M$ within the elastic limit.\ni. Tabulate your readings.\nii. Plot a graph of $T^2$ against $M$. Find the slope $S$ of the graph.\niii. If $T = 2\\pi \\sqrt{\\frac{M}{2k}}$, Use your slope to find the value of $k$.\niv. State two precautions taken to ensure accurate results.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q3A a",
+    "question": "Use the diagram in figure 2.1 to carry out the following instructions. For the ray PQRS, the angle of incidence is $i$ and the angle of emergence is $\\theta$.\ni. Trace the outline of a triangular glass prism ABC. Set the angle of incidence $i = 25^\\circ$. With the help of the optical pins, find the angle of emergence $\\theta$.\nii. Measure and record the corresponding angle marked 'a'. Evaluate $\\sin\\theta$ and $\\sin a$.\niii. Repeat the experiments with $i = 30^\\circ, 40^\\circ, 45^\\circ, 50^\\circ$ and $55^\\circ$ respectively.\niv. Prepare a composite table for your readings. Plot a graph of $\\sin a$ against $\\sin\\theta$. Find the slope $S$ of the graph and evaluate $S^{-1}$.\nv. State two precautions taken to ensure accurate results.\n(Attach the traces to your answer booklet)",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q3A b",
+    "question": "Assume the angle of a triangular glass prism of index of refraction $1.73$ is approximately $7^\\circ$. Find the angle of minimum deviation.",
+    "topic": "Waves, Sound & Optics"
+  }
+]

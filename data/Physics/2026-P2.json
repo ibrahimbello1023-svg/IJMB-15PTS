@@ -1,0 +1,272 @@
+[
+  {
+    "number": "Q1",
+    "question": "Assume an object of mass $2.22\\text{ g}$ is placed $7.5\\text{ mm}$ in front of a large plane mirror. Find the image position and the nature of the image formed.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q2",
+    "question": "Briefly explain the term \"power of lens\". Two lenses of power $+7.3\\text{ D}$ and $-9.6\\text{ D}$ are placed in contact to each other. What is the focal length of the combination? Which type of lens is finally formed.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q3",
+    "question": "A ray of light strikes normally one of the face of Pyrex triangular glass prism of angle of refraction $30^\\circ$ and refractive index $1.41$. Determine the angle of minimum deviation and the angle of refraction.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q4a",
+    "question": "Write down the expression for an electrostatic potential energy in vacuum for three charges situated at the corner of an oblique triangle as shown in Figure 1.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q4b",
+    "question": "If $q_1 = 1\\mu\\text{C}$, $r_1 = 1\\text{ mm}$, $q_2 = 2.1\\mu\\text{C}$, $r_2 = 0.5\\text{ mm}$ and $q_3 = 1\\mu\\text{C}$, $r_3 = 0.043\\text{ mm}$. Find electrostatic potential energy in vacuum.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q5",
+    "question": "A wire has a resistance R and resistivity $\\rho$. What will be its resistance if the length of the wire is (i) doubled (ii) its diameter is halved?",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q6",
+    "question": "If $\\varepsilon_0$ and $\\mu_0$ are the absolute permittivity and permeability of free space. then evaluate the expression $\\Omega = \\frac{2}{\\sqrt{\\varepsilon_0 \\mu_0}}$. State clearly its unit.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q7",
+    "question": "Two wires of the same length and of the same materials have different diameters, $d_1$ and $d_2$ ($d_1 < d_2$) determine which wire has greater (i) conductivity? (ii) Conductance?",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q8a i",
+    "question": "State the fundamental laws of conservation of electric charges.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q8a ii",
+    "question": "What will happened to a neutral body When it gains electrons?",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q8b",
+    "question": "Write down the Gauss' law (without proof) for a closed surface enclosing a net charge $q$, the net electric flux $\\Phi$.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q9",
+    "question": "An electromagnetic wave radiation of wavelength $1500\\text{ \\AA}$ is incident on a metal surface. If the stopping potential is $4.4\\text{ volts}$, Calculate the maximum kinetic energy of the emitted electrons and the work function of the metal in eV.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q10",
+    "question": "What is Thermonuclear energy? A heavy unstable nucleus is bombarded with a neutron and breaks in to two smaller parts which resulted in the released of $210\\text{ MeV}$ and three neutrons are emitted. The reaction process is $_{92}^{235}\\text{U} + _0^1\\text{n} \\rightarrow _{56}^{141}\\text{Ba} + _{36}^{92}\\text{Kr} + 3(_0^1\\text{n}) + 210\\text{ MeV}$. Explain this process whether it is a fission or fusion process.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q11a i",
+    "question": "What do you understand by the term reflection of light wave?",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q11a ii",
+    "question": "With the aid of ray diagram, explain the formation of image by a plane mirror.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q11a iii",
+    "question": "A light wave is incident on a triangular glass prism at an angle of $60^\\circ$. If the reflected and the refracted waves are mutually perpendicular Sketch the ray diagram and calculate the refractive index of the material.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q11b i",
+    "question": "Assume the angle of minimum deviation for a prism of refractive index $1.75$ is equal to the angle of prism. Calculate the angle of prism, given that $\\sin x = 2\\sin\\left(\\frac{x}{2}\\right)\\cos\\left(\\frac{x}{2}\\right)$.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q11b ii",
+    "question": "Consider an astronomical telescope with an objective of focal length $108\\text{ cm}$ and an eyepiece of focal length $7\\text{ cm}$. if the telescope is in its normal adjustment, calculate the angular magnification (magnifying power), the distance of the eye-ring from the eyepiece and the diameter of the eye-ring if the objective diameter is $50\\text{ mm}$.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q12a i",
+    "question": "Recopy figure 2 and identify points A, B, C and D. Explain the nature of the object and image formed.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q12a ii",
+    "question": "From figure 3, copy the ray diagram and trace the ray to form either the image or object (explain your answer with reasons). Also discuss clearly their nature.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q12a iii",
+    "question": "Assume radius of curvature of the lens in figure 3 is $10\\text{ cm}$. if the image is $20\\text{ cm}$ from the mirror. Find the nature of the image.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q12b i",
+    "question": "Assume a ray of light travels from one face of triangular glass slab of thickness $12.73\\text{ cm}$ and refractive index $1.66$. If the angle of incidence is $44^\\circ$, find the angle of refraction and the lateral displacement of the emergent ray.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q12b ii",
+    "question": "If an object of mass $3.21\\text{ kg}$ is placed $14.73\\text{ cm}$ in front of a very long plane mirror. Find the nature of the image formed and the magnification produced.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q13a i",
+    "question": "Distinguish between the following terms: (A) Electric charge and electric current, state clearly their mathematical relationships. (B) Charging by induction and charging by conduction.",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q13a ii",
+    "question": "If the total charge entering a terminal is given by $q = 3.7t^3 + 0.09t$. Find the current at $t = 2.3\\text{ seconds}$.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q13a iii",
+    "question": "Consider two positively points charge separated at $100\\text{ cm}$ apart repel each other with a force of $18\\text{ N}$. If the sum of charges is $1.9\\mu\\text{c}$. Calculate their separate. You following identity may be useful: $(a-b)^2 = (a+b)^2 - 4ab$.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q13b i",
+    "question": "Briefly explain the terms inductor and inductance of inductor.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q13b ii",
+    "question": "Four inductors each of inductance $2\\text{mH}$, are connected in (A) series (B) parallel across a $10\\text{A}$ a.c supply. In each case, draw the circuit diagram and calculate the equivalent inductance and the energy stored in the circuit.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q13b iii",
+    "question": "Calculate the e.m.f. induced in a coil of inductance $12\\text{ H}$ by a current changing at the rate of $2.7\\text{ A/s}$.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q14a i",
+    "question": "Briefly explain the following terms: magnetic flux and magnetic flux density, Electromotive force (emf) and Magnetomotive force (mmf).",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q14a ii",
+    "question": "If a conductor moves with a velocity of $15\\text{ ms}^{-1}$ at an angle $30^\\circ$ to a magnetic field produced between two square-faced poles of side length $2\\text{ cm}$. If the flux leaving a pole face is $5\\mu\\text{Wb}$, find the magnitude of the induced e.m.f.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q14b i",
+    "question": "Distinguish between reluctance and resistance.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q14b ii",
+    "question": "The following table 1 gives comparisons between Electrical and Magnetic circuit. Find the values of $w, x, y, z$ in the table.",
+    "topic": "Practicals"
+  },
+  {
+    "number": "Q14b iii",
+    "question": "Use figure 4 to find the equivalent conductance and current in the circuit.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q15a i",
+    "question": "State the factors upon which the resistivity of a given materials depend.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q15a ii",
+    "question": "Given two wires of same material and length have resistances $5\\,\\Omega$ and $3\\,\\Omega$ respectively. Find the ratio of radii of the two wires.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q15a iii",
+    "question": "A small concrete needle of diameter $2\\text{ mm}$ and of length $100\\text{ m}$ has a resistance of $0.5475\\,\\Omega$ at $20^\\circ\\text{C}$ and $0.805\\,\\Omega$ at $150^\\circ\\text{C}$. Find the values of temperature coefficient of resistance, its resistance at $0^\\circ\\text{C}$ and its resistivity at $0^\\circ\\text{C}$ and $20^\\circ\\text{C}$.",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q15b i",
+    "question": "Briefly explain the following terms, (how are they connected in a given circuit): galvanometer, voltmeter, ammeter.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q15b ii",
+    "question": "What is the conductance and current through a bulb rated at $100\\text{ W}$, $250\\text{ V}$ d.c supply? Calculate the power if it is connected to a $200\\text{ V}$ line?",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q16a i",
+    "question": "With the help of a circuit diagram, briefly explain the concepts of electromagnetic induction. Hence, State the laws of electromagnetic induction' in words (both Faraday's and Lenz's laws).",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q16a ii",
+    "question": "Calculate the induced e.m.f. in a coil of $200\\text{ turns}$ when there is a change of flux of $0.025\\text{ Wb}$ linking with it in $0.50\\text{ seconds}$.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q16b i",
+    "question": "A coil of resistance $5\\text{ ohm}$ and inductance $0.120\\text{ H}$ in series with a $100\\mu\\text{F}$ capacitor, is connected to a $300\\text{ V}, 50\\text{ Hz}$ a.c. supply. Calculate: (i) the impedance and current flowing in the circuit. Is the circuit inductive or capacitive? State your reason. (ii) The phase difference between the supply voltage and current, (iii) The resonant frequency.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q17a i",
+    "question": "State and briefly discuss the four methods in which electrons can be ejected out of a metal surface.",
+    "topic": "Modern & Quantum Physics"
+  },
+  {
+    "number": "Q17a ii",
+    "question": "The equation for the energy of the nth state ($E_n$) of the electron in the hydrogen atom can be expressed (in eV) as: $E_n = -\\frac{me^4}{8\\varepsilon_0^2 h^2 n^2}$. By substituting the values of the constants, find the value of $E_n$ (in eV) in terms of $n$. what is name given to $n$ in this equation? Hence, find the value of $E_4 - E_1$.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q17a iii",
+    "question": "From a sodium surface, light of wavelength $3125\\text{ \\AA}$ and $3650\\text{ \\AA}$ causes emission of electrons whose maximum kinetic energy is $2.128\\text{ eV}$ and $1.595\\text{ eV}$, respectively. Use these information to determine Planck's constant and the work function of sodium.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q17a iv",
+    "question": "Light of wavelength $2000\\text{ \\AA}$ falls on a metallic surface. If the work function of the surface is $4.2\\text{ eV}$. What is the kinetic energy of the fastest photoelectrons emitted? Also calculate the stopping potential and the threshold wavelength for the metal.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q17b i",
+    "question": "State the Heisenberg's uncertainty principle in words and write down its mathematical form for each of the following conditions: Angular momentum ($L$) and polar angle ($\\varphi$), Energy ($E$) and time ($t$), position ($x$) and linear momentum ($p$).",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q17b ii",
+    "question": "Calculate the de Broglie wavelength of an electron having a kinetic energy of $1000\\text{ eV}$. Also find the wavelength (in Angstrom) of x-rays having the same energy. Hence evaluate the ratio $\\frac{\\lambda \\text{ for x-rays}}{\\lambda \\text{ for de Broglie of electron}}$.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q18a i",
+    "question": "What is meant by the terms Natural and artificial radioactivity?.",
+    "topic": "Modern & Quantum Physics"
+  },
+  {
+    "number": "Q18a ii",
+    "question": "Explain the following: alpha decay, beta decay and gamma decay in radioactivity. Support your answer with reaction, assume an atom $_Z^A\\text{X}$.",
+    "topic": "Modern & Quantum Physics"
+  },
+  {
+    "number": "Q18a iii",
+    "question": "Prove the radioactive decay law. Assume $N$ be the number of radioactive nuclei present at any time $t$.",
+    "topic": "Modern & Quantum Physics"
+  },
+  {
+    "number": "Q18a iv",
+    "question": "Complete the following nuclear reactions:\n(A) $_3^6\\text{Li} + ? \\rightarrow _4^7\\text{Be} + _0^1\\text{n}$\n(B) $_{17}^{35}\\text{Cl} + ? \\rightarrow _{16}^{32}\\text{S} + _2^4\\text{He}$\n(C) $_4^9\\text{Be} + \\alpha\\text{-particle} \\rightarrow 3(\\alpha\\text{-particle}) + ?$\n(D) $_{35}^{79}\\text{Br} + _1^2\\text{H} \\rightarrow ? + 2(_0^1\\text{n})$",
+    "topic": "Modern & Quantum Physics"
+  },
+  {
+    "number": "Q18b i",
+    "question": "Find the binding energy and binding energy per nucleon for a lithium nucleus ($_3^7\\text{Li}$). Given that: $_3^7\\text{Li} = 7.000000\\text{u}$, mass of proton $= 1.007825\\text{u}$ and mass of neutron $= 1.008665\\text{u}$, $1\\text{u} = 931.5\\text{MeV}$.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q18b ii",
+    "question": "Consider the fusion process _1^2\text{H} + _1^2\text{H} \rightarrow _2^3\text{He} + _0^1\text{n} + Q. Given that the mass of deuteron, helium and neutron are respectively $2.015\\text{u}$, $3.017\\text{u}$ and $1.009\\text{u}$. Determine the total energy released ($Q$). $1\\text{u} = 931.5\\text{MeV}$.",
+    "topic": "Mechanics & Properties of Matter"
+  }
+]

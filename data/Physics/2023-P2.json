@@ -1,0 +1,222 @@
+[
+  {
+    "number": "Q1",
+    "question": "Assume an object of $7\\text{ cm}$ height is placed at a distance of $12\\text{ cm}$ from a convex lens of focal length $8\\text{ cm}$, find the height and nature of the image.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q2",
+    "question": "A ray of light travels from glass to water, such that the angle of incidence is $50^\\circ$. Find the angle of refraction, take the refractive index of glass as $1.52$ and that of water as $1.33$.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q3",
+    "question": "An equilateral Pyrex glass prism has index of refraction $1.72$. Find its angle of minimum deviation.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q4",
+    "question": "When two capacitors are connected in parallel, the equivalent capacitance is $8\\,\\mu\\text{F}$ and when connected in series, the equivalent capacitance is $\\frac{15}{8}\\,\\mu\\text{F}$. Find the values of the two capacitances.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q5",
+    "question": "An alternating voltage is given by $V = 7.3\\sin(200\\pi t - 1.2)\\text{ Volts}$, find the maximum voltage and root mean square (rms) voltage.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q6",
+    "question": "Define electric flux density and state its unit. Find the velocity at which a conductor $75\\text{ mm}$ long cut a magnetic field of flux density $0.6\\text{ T}$ if an e.m.f. of $9\\text{ V}$ is to be induced in it. Assume the conductor, the field and the direction of motion are mutually perpendicular.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q7",
+    "question": "In a d.c. potentiometer, a balance point is obtained at a length of $400\\text{ mm}$ when using a standard cell of $1.0186\\text{ Volts}$. Determine the e.m.f. of a dry cell if the balance is obtained at $650\\text{ mm}$.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q8",
+    "question": "Give two examples each of the following terms: conductors, semiconductors or insulators. State the one effect of temperature on conductivity each on conductors and semiconductors.",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q9",
+    "question": "Calculate the de Broglie wavelength each of electron and proton all having the same kinetic energy of $100\\text{ eV}$.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q10",
+    "question": "What is meant by the statement that 'the work function of a metal is $0.48\\text{ eV}$'. Find the threshold wavelength for this metal.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q11a(i)",
+    "question": "Consider the ray diagram of formation of an image by a certain mirror as shown in figure 1. From the ray diagram: State (with reasons) the type of the mirror used, identify/locate the image, the object and their nature (with reasons) also identify point B.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q11a(ii)",
+    "question": "Assume that, an object of size $1\\text{ cm}$ is placed at a distance of $15\\text{ cm}$ from a concave mirror of focal length $10\\text{ cm}$. Find the size, nature and position of the image formed.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q11b",
+    "question": "Consider an object placed at the following positions: $8.5\\text{ cm}$, $15\\text{ cm}$, $20\\text{ cm}$, $25\\text{ cm}$ and $27.7\\text{ cm}$ from a convex lens of radius of curvature $20\\text{ cm}$ respectively. Determine the position of the object that produce (i) a real diminished image (ii) a magnified real image (iii) a magnified virtual image (iv) an image of the same size as the object.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q12a(i)",
+    "question": "State the factor(s) upon which the refractive index of kerosene depends. Calculate the speed of light in flint glass of refractive index $1.63$ when travelling from air.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q12a(ii)",
+    "question": "What is meant by dispersive power? Calculate the dispersive power of crown glass. Given that, the refractive index for violet colour is $1.5230$ and that of red colour is $1.5145$.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q12b(i)",
+    "question": "When a light ray travelling from a rectangular glass slab to water. The ray travels all the way through the slab to water and finally emerges into air. Sketch the ray diagram and compare clearly the angle of incidence with angle of refraction. Briefly discuss the possibility of total internal reflection to occur.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q12b(ii)",
+    "question": "A lens has a power of $+5\\text{ diopter}$ in air. Find its power when completely immersed in water. (Take $_a n_w = \\frac{4}{3}$, and $_a n_g = \\frac{3}{2}$).",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q13a(i)",
+    "question": "Define the terms: gold leaf electroscope and electric field strength.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q13a(ii)",
+    "question": "If $f_e$ is the electrostatic force and $f_g$ the gravitational force, find the magnitude of the ratio $\\frac{f_e}{f_g}$ between two electrons.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q13b(i)",
+    "question": "What is an electric current? Write down its mathematical form.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q13b(ii)",
+    "question": "Distinguish between direct and alternating current. Use sketch graphs where necessary.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q13b(iii)",
+    "question": "What is a conductance? Four resistors of resistances $R_1, R_2, R_3$ and $R_4$ are connected in parallel across a battery $V\\text{ volts}$. Sketch the circuit and derive the expressions for the equivalent resistance and hence, write down the expressions for its equivalent conductance.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q13b(iv)",
+    "question": "Two resistors of resistances $2\\,\\Omega$ and $5\\,\\Omega$ are connected in parallel and the combination is connected to $10\\,\\Omega$ in series. Sketch the circuit diagram and determine the equivalent conductance of the circuit.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q14a(i)",
+    "question": "Define the terms Magnetic flux and Magnetic flux density. What is the flux density in a magnetic field of cross-sectional area $20\\text{ cm}^2$ having a flux of $3\\,\\mu\\text{Wb}$?",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q14a(ii)",
+    "question": "Briefly explain the permeability of free space. Write down its mathematical expressions. Determine the magnetic field strength and the magnetomotive force (mmf) required to produce a flux density of $0.25\\,\\mu\\text{T}$ in an air gap of length $12\\text{ mm}$.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q14b",
+    "question": "State the factors upon which the force on the current-carrying conductor in a magnetic field depends.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q14c",
+    "question": "Consider a conductor $50\\text{ mm}$ carries a current of $20\\text{ A}$ at right angle to a magnetic field of flux density $0.9\\text{ T}$. Calculate the force acting on the conductor. Also, Determine the value of the force if the conductor is inclined at an angle of $30^\\circ$ to the direction of the field.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q15a(i)",
+    "question": "With the help of labelled diagram, explain the principle of electromagnetic induction.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q15a(ii)",
+    "question": "State the Faraday's and Lenz's laws of electromagnetic induction.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q15b(i)",
+    "question": "An $0.58\\text{ H}$ inductor has a current of $5\\text{ A}$ flowing through it. Find the energy stored in the magnetic field of the inductor?",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q15b(ii)",
+    "question": "Use the circuit in Figure 2 to determine the equivalent inductance at terminals $a\\text{--}b$.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q16a(i)",
+    "question": "The unit of capacitance is Farad, hence, define the term Farad. Consider three capacitors of Capacitances $3\\,\\mu\\text{F}$, $6\\,\\mu\\text{F}$ and $12\\,\\mu\\text{F}$ connected in series across a $250\\text{ V}$ supply. Draw the circuit diagram and calculate the equivalent circuit capacitance, the charge on each capacitor and the p.d across each capacitor.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q16a(ii)",
+    "question": "The p.d. at the terminals of a battery is $25\\text{ V}$ when no load is connected and $24\\text{ V}$ when a load taking $10\\text{ A}$ is connected. Determine the internal resistance of the battery.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q16b(i)",
+    "question": "A coil takes a current of $2\\text{ A}$ from a $12\\text{ V}$ d.c. supply. When connected to a $240\\text{ V}$, $50\\text{ Hz}$ a.c supply the current is $20\\text{ A}$. Calculate the resistance, impedance, inductive reactance and inductance of the coil.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q16b(ii)",
+    "question": "State the Kirchhoff's laws in words. Use figure 3 to find $i_1, i_2$ and $V$ and the power dissipated in the $6\\,\\Omega$ resistor.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q17a(i)",
+    "question": "Balmer series is one of the five spectral series observed in the Hydrogen Spectrum corresponding to the five energy levels of the Hydrogen atom. Mention the other four.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q17a(ii)",
+    "question": "Distinguish between the terms 'ionization Potential and work function'. The photoelectric threshold of the photo electric effect of a certain metal is $2750\\text{ \\AA}$. Find the maximum velocity of the electrons ejected from the metal by light with a wavelength $1800\\text{ \\AA}$.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q17b(i)",
+    "question": "Name three types of radiations emitted by radioactive sources in order of their relative most penetrating power. Determine, which of the radiations carries a negative charge, is similar to X-rays, is most easily absorbed,",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q17b(ii)",
+    "question": "Travels with the greatest speed, is not deflected by a magnetic field emitted when decays $^{238}_{92}\\text{U}$ decays to $^{234}_{90}\\text{Th}$ and is similar in nature to cathode rays.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q17b(iii)",
+    "question": "Carbon-14 ($^{14}_{6}\\text{C}$) is radioactive isotope of carbon. It is a radioactive, decaying to nitrogen-14 ($^{14}_{7}\\text{C}$). Define the underlined term and write down the equations for the radioactive decay. How many protons and neutrons do $^{14}_{6}\\text{C}$ have?",
+    "topic": "Modern & Quantum Physics"
+  },
+  {
+    "number": "Q18a(i)",
+    "question": "With the help of labeled diagram, briefly discuss the production of x-rays in a Coolidge tube. Hence, explain the terms: soft and hard x-rays.",
+    "topic": "Modern & Quantum Physics"
+  },
+  {
+    "number": "Q18a(ii)",
+    "question": "When X-ray tube produces a continuous spectrum of radiation with its short-wavelength end at $0.45\\text{ \\AA}$. What is the maximum energy (in eV) of a photon in the radiation? And accelerating voltage (for electrons) is required in such a tube?",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q18b(i)",
+    "question": "Calculate the energy released in MeV when neutron breaks into a proton and electron.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q18b(ii)",
+    "question": "Given that, the half-life of radon is $3.8\\text{ days}$. After how many days will one twentieth $\\left(\\frac{1}{20}\\text{th}\\right)$ of radon sample will remain?",
+    "topic": "Modern & Quantum Physics"
+  }
+]

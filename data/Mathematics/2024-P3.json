@@ -1,0 +1,102 @@
+[
+  {
+    "number": "Q1",
+    "question": "Calculate the gradient of the line joining the points $(7, 50)$ and $(-7, 8)$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q2",
+    "question": "Calculate the mean of the distribution $f(x) = e^{-3x}$ where $0 \\le x \\le \\infty$.",
+    "topic": "Statistics & Probability"
+  },
+  {
+    "number": "Q3",
+    "question": "Find the equation of the line through the mid-point of $(2, 3)$, $(-5, 1)$ and perpendicular to the line $2x + y = 700$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q4",
+    "question": "Find the equation of the circle whose end points of diameter are $(7, -3)$ and $(-1, 2)$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q5",
+    "question": "Find the coordinates of the vertex and focus of the parabola $x^2 = 16 - 4y$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q6a",
+    "question": "Obtain the equation of the conic whose parametric equations are given by $x = 1 + 2 \\tan \\phi$ and $y = -1 + 3 \\sec \\phi$, and describe it completely.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q6b",
+    "question": "Sketch the curve $r = (1 + \\sin \\theta)$ in polar form for $0 \\le \\theta \\le 360^\\circ$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q6c",
+    "question": "Show that $r = \\frac{1}{1 + \\cos \\theta}$ is the polar form of a parabola.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q7a",
+    "question": "Show that the equation $9x^2 + 25y^2 - 54x - 100y - 44 = 0$ represents an Ellipse. Find the coordinates of its center.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q7b",
+    "question": "Find the equation of a straight line parallel to the line $x - 3y = 5$ which passes through the mid-point of the line joining the points $(3, -2)$ and $(7, 8)$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q7c",
+    "question": "Find the value of $2x + y$, if $(2, 3)$ is the mid-point of $(x, 3)$ and $(-3, y)$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q8a",
+    "question": "Determine the condition for the line $y = mx$ to be tangent to the parabola $y^2 = 4a(x - 5)$. Write down the general equation of the tangent to the parabola.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q8b",
+    "question": "Let $A, B$ and $C$ be the midpoints of the sides $ST, RT$ and $SR$ of the triangle $\\Delta RST$ respectively, whose coordinates are $R(2, -7), S(4, -5), T(6, 3)$. Find the coordinates of the point of intersection $P$ of the lines $RA$ and $SB$. Show that $TC$ passes through the point $P$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q8c",
+    "question": "Calculate the slope of the line parallel the line joining the points $(3, 7)$ and $(-2, -5)$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q9a",
+    "question": "A biased coin has the probability for a head $\\frac{2}{3}$. The coin is tossed six times. Calculate the probability that:\n(i) all six trials result in a tail;\n(ii) none of the six results in a tail;\n(iii) at least three heads appear in the six trials;\n(iv) not more than three tails appear;\n(v) the first two results in a head, and the remaining four in a tail;\n(vi) The heads and tails appear alternatively. (you may not simplify the answer)",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q9b",
+    "question": "Find the Harmonic and Geometric means of $3, 5$ and $7$.",
+    "topic": "Statistics & Probability"
+  },
+  {
+    "number": "Q10a",
+    "question": "Two dice are tossed once, what is the probability that the:\n(i) sum is less than $7$;\n(ii) same number appeared;\n(iii) difference is $2$;\n(iv) product is greater than $8$;\n(v) first number is even.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q10b",
+    "question": "If the diameters of ball bearings are normally distributed with mean $60.5\\text{cm}$ and standard deviation $2.5\\text{cm}$, determine the probability of the ball bearing with diameter between $58.5\\text{cm}$ and $63.5\\text{cm}$.",
+    "topic": "Statistics & Probability"
+  },
+  {
+    "number": "Q11a",
+    "question": "If $f(x) = mx^2$ for $0 \\le x \\le 2$ is a probability density function for a continuous random variable $x$, calculate:\n(i) the value of $m$;\n(ii) $P(0 \\le x \\le 1)$;\n(iii) the mean;\n(iv) the variance of the distribution.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q11b",
+    "question": "On an average, two accidents occur every day on a busy highway and it is known that the number of accidents per day follows Poisson law. Find the probability that on a certain day:\n(i) there are 2 accidents;\n(ii) there is no accident;\n(iii) Find the least value, $n$ such that the probability for $n$ accidents on a particular day is $< 0.1$. [Approximately take $e^{-2} = 1/7$]",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  }
+]

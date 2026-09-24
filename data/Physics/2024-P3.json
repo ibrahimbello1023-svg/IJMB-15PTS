@@ -1,0 +1,42 @@
+[
+  {
+    "number": "Q1A a(i)",
+    "question": "Transform equation (3) into a suitable straight line graph for the determination of the approximate numerical constants $I$ and $k$.",
+    "topic": "Practicals"
+  },
+  {
+    "number": "Q1A a(ii)",
+    "question": "Form a composite table necessary to plot a suitable graph to determine the values of $I$ and $k$.",
+    "topic": "Practicals"
+  },
+  {
+    "number": "Q1A a(iii)",
+    "question": "Use your graph to determine the approximate values of $I$ and $k$.",
+    "topic": "Practicals"
+  },
+  {
+    "number": "Q1A a(iv)",
+    "question": "Use your graph to find the value of $\\alpha$ when $\\tau = 187.6$.",
+    "topic": "Practicals"
+  },
+  {
+    "number": "Q1A a(v)",
+    "question": "Use your values of the constants $I$ and $k$ find the value of $\\alpha$ when $\\tau = 187.63$.",
+    "topic": "Practicals"
+  },
+  {
+    "number": "Q1A b",
+    "question": "Given that $\\mu = w^3 - \\sqrt{z}$, where $w = 10 \\mp 0.3$, and $z = 1 \\pm 0.02$. Calculate the percentage error in computing $\\mu$.",
+    "topic": "Practicals"
+  },
+  {
+    "number": "Q2A",
+    "question": "Place the rectangular glass prism abcd on a plane sheet of drawing paper. Set $i = 30^\\circ$ and P1 and p2 are drawing pins. Measure and record '$t$', view the image of p1 and p2 from the other face of the prism, and fix other two pins p3 and p4 to make sure they coincide with p1 and p2 when viewed through the glass. Remove the block and join the straight line yz, measure and record angle $\\theta$, $r$ and the perpendicular distance $d$. Repeat the entire procedure with $i = 35, 40, 45, 50, 60^\\circ$ respectively. Tabulate your readings. Plot a graph of $\\cos r$ against $\\sin \\theta$. Determine the slope $s$ of the graph. If $d$ and $t$ are related by equation $d \\cos r = t \\sin \\theta$; Find the value of $d$. State two necessary sources of error to ensure accurate results.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q3A",
+    "question": "Set $V = 1.5\\text{V}$, $R = 2\\,\\Omega$, with the switch closed, record the corresponding meters readings. Repeat the procedure by increasing the values of $V$ in order to obtain five more values from the meters. Form a composite table. Plot a graph of $\\log_{10}(I)$ against $\\log_{10}(V)$. Find the slope ($S$) of the graph. Assume $I$ and $V$ are related by the relation; $I = \\frac{V}{R + \\lambda}$. Use your graph to find the approximate value of $\\lambda$. State two necessary precautions to ensure accurate results.",
+    "topic": "Electricity & Magnetism"
+  }
+]

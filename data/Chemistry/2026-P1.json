@@ -1,0 +1,92 @@
+[
+    {
+        "number": "Q1",
+        "question": "a) Explain what happens when carbon(IV) oxide is passed into lime water for a long time. Write the necessary equation(s) to justify your answer.",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q2",
+        "question": "Calculate the relative molecular mass of chloroform from the following data which was obtained by Victor Meyer's method: $0.220\\text{ g}$ of chloroform displaced $45\\text{ cm}^3$ of air at $20\\text{ }^\\circ\\text{C}$ and $100.7\\text{ kN m}^{-2}$ pressure (saturated vapour pressure of water at $20\\text{ }^\\circ\\text{C} = 2.32\\text{ kN m}^{-2}$).",
+        "topic": "States of Matter & Gas Laws"
+    },
+    {
+        "number": "Q3",
+        "question": "A metal, Y belongs to group 2 of the periodic table on the basis of this information, answer the following questions:\na) Give the chemical formula of the possible oxide of Y.\nb) Suggest the expected bond type in the oxide.\nc) Write the chemical equation for the reaction of the metal oxide with water.\nd) Write an equation for the effect of adding aqueous hydrogen chloride to the aqueous solution obtained in (c) above.",
+        "topic": "Periodic Table & Periodicity"
+    },
+    {
+        "number": "Q4a",
+        "question": "Classify the following elements as $s$-, $p$-, $d$ or $f$-block elements:\n(i) A (atomic number = 25)\n(ii) B (atomic number = 11)\n(iii) C (atomic number = 16)",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q4b",
+        "question": "The quantum numbers $n$, $l$, $m$, and $s$ for the electrons in the valence shells of the atoms, Y and Z are given below:\nFor Y: ($2, 0, 0, -\\frac{1}{2}$), ($2, 0, 0, +\\frac{1}{2}$)\nFor Z: ($3, 0, 0, -\\frac{1}{2}$), ($3, 0, 0, +\\frac{1}{2}$), ($3, 1, 0, -\\frac{1}{2}$), ($3, 1, 0, +\\frac{1}{2}$)\nWrite out the electron configuration of the valence shell in each case.",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q5",
+        "question": "Given that the volume of chlorine gas at saturated temperature and pressure is $2.24\\text{ dm}^3$, calculate the: (a) mole of chlorine gas; (b) mass of chlorine gas; (c) number of chlorine molecules; (d) number of chlorine atoms.",
+        "topic": "Stoichiometry & Volumetric Analysis"
+    },
+    {
+        "number": "Q6a",
+        "question": "Define the following terms:\n(i) Enthalpy of solution\n(ii) Enthalpy of combustion",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q6b",
+        "question": "The heat of formation of carbon(IV) oxide is given by $\\text{C} + \\text{O}_2 \\longrightarrow \\text{CO}_2; \\quad \\Delta H_\\text{f} = -393\\text{ kJ/mol}$. What does this information indicate?",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q7",
+        "question": "Outline five general features of group 1 elements of the periodic table.",
+        "topic": "Periodic Table & Periodicity"
+    },
+    {
+        "number": "Q8",
+        "question": "The rate determining step of a reaction involves reaction between a mole each of P and Q to give a mole of R as a product.\na) Write the rate law for the reaction.\nb) State four things you might do to increase the formation of the product, R.",
+        "topic": "Stoichiometry & Volumetric Analysis"
+    },
+    {
+        "number": "Q9",
+        "question": "a) What is inert pair effect?\nb) Give the oxidation state of nitrogen in each of the following compounds:\n(i) $\\text{NH}_3$\n(ii) $\\text{NH}_2\\text{OH}$\n(iii) $\\text{N}_2$",
+        "topic": "General Chemistry"
+    },
+    {
+        "number": "Q10",
+        "question": "A gas X diffuses four times as rapidly as another gas Y under the same condition of temperature and pressure. If the density of gas Y is $2.88 \\times 10^3\\text{ g m}^{-3}$, calculate the density of gas X.",
+        "topic": "States of Matter & Gas Laws"
+    },
+    {
+        "number": "Q11",
+        "question": "Explain the following:\na) Tin and lead have variable oxidation states and form complex ion but are not regarded as transition metals. (2 marks)\nb) An aqueous solution of $\\text{KCl}$ is colourless but that of $\\text{CuCl}_2$ is green. (7 marks)\nc) Although calcium chloride has a lower melting point than strontium chloride, it has a higher melting point than calcium iodide. (8 marks)\nd) Although oxygen and sulphur belong to the same group of the periodic table, $\\text{SF}_6$ is stable but $\\text{OF}_6$ is not. (5 marks)\ne) Occurrence of $+3$ oxidation state in scandium. (3 marks)",
+        "topic": "Periodic Table & Periodicity"
+    },
+    {
+        "number": "Q12",
+        "question": "a) Outline two similarities between electrochemical and electrolytic cells. (2 marks)\nb) In a tabular form, state four differences between electrochemical and electrolytic cells. (4 marks)\nc) Metal X and Y are both divalent electrodes in an electrochemical cell with $E^\\theta_X = -2.00\\text{ V}$ and $E^\\theta_Y = -4.25\\text{ V}$ at $298\\text{ K}$.\n(i) With suitable reason, which of the metals will serve as the cathode and the anode? (2 marks)\n(ii) Write the reactions at the electrodes. (4 marks)\n(iii) Write the overall reactions in the cell. (1 mark)\n(iv) Determine the emf of the cell. (3 marks)\n(v) Calculate the value of $\\Delta G$ for the reaction. (3 marks)\n(vi) Is the reaction spontaneous? Explain (2 marks)\n(vii) Calculate the equilibrium constant, $K$ for the system. (4 marks)",
+        "topic": "Electrochemistry"
+    },
+    {
+        "number": "Q13",
+        "question": "Use the information in the following table to explain the following observations:\n[Table: Element, Atomic radius (nm), Ionic radius (nm), First ionisation energy (kJ/mol) for Na, Mg, Al, Si, P, S, Cl]\na) The atomic radius decreases from $\\text{Na}$ to $\\text{Cl}$. (6 marks)\nb) The ionic radii of the ions of S and Cl are greater than their respective atom. (3 marks)\nc) The ionic radii of the ions of Na, Mg and Al are less than their respective atom. (2 marks)\nd) The first ionisation energy of Al is less than that of Mg. (6 marks)\ne) The first ionisation energy of S is less than that of P. (5 marks)\nf) Which of the elements are $s$-block elements? (2 marks)\ng) Which of the elements are $d$-block elements? (1 mark)",
+        "topic": "Periodic Table & Periodicity"
+    },
+    {
+        "number": "Q14",
+        "question": "a) Give the formula of:\n(i) an example of cationic complex of chromium; (1 mark)\n(ii) an example of anionic complex of chromium; (1 mark)\n(iii) an example of neutral complex of chromium. (1 mark)\nb) State three reasons why chromium is able to exist in the form of the above a(i) - (iii). (3 marks)\nc) The compound A, $[\\text{CoCl}(\\text{H}_2\\text{O})_5]\\text{Cl}_2\\cdot\\text{H}_2\\text{O}$ is isomeric with compound B, $[\\text{Co}(\\text{H}_2\\text{O})_6]\\text{Cl}_3$\n(i) Name the type of isomerism. (1 mark)\n(ii) What ions would these two compounds produce when dissolve in polar medium like water? (4 marks)\n(iii) Using a balanced chemical equation, describe a simple chemical test for any of the isomers. (4 marks)\n(iv) Give the oxidation state of cobalt in isomer A and write its full electron configuration. (3 marks)\n(v) What is the coordination number of cobalt in isomer B? (1 mark)\n(vi) Draw the structure of the isomer B. (3 marks)\n(vii) Predict the magnetic property of isomer B and give reason(s) for your answer. (3 marks)",
+        "topic": "Organic Chemistry"
+    },
+    {
+        "number": "Q15",
+        "question": "a) State the following laws or principles and give an application or consequence of each: (3 marks each)\n(i) Heisenberg's uncertainty principle;\n(ii) Fajan's rule;\n(iii) Nernst distribution law;\n(iv) Hund's rule of maximum multiplicity;\n(v) Hess' law of heat summation\nb) A piece of impure iron scrap weighing $0.22\\text{ g}$ was dissolved in tetraoxosulphate(VI) acid, which oxidised the scrap to $\\text{Fe}^{2+}$. The resulting solution requires $36.50\\text{ cm}^3$ of $0.1\\text{ mole}$ of potassium tetraoxomanganate(VII) for complete reaction. Calculate the percentage purity of the iron scrap. (5 marks)\nc) Give any two methods that can be employed to determine the end point of an acid - base titration. (5 marks)",
+        "topic": "Stoichiometry & Volumetric Analysis"
+    },
+    {
+        "number": "Q16",
+        "question": "At $200\\text{ }^\\circ\\text{C}$, the $K_c$ for the reaction\n$$\\text{PCl}_{5(g)} \\rightleftharpoons \\text{PCl}_{3(g)} + \\text{Cl}_{2(g)} \\quad \\Delta H = +124\\text{ kJ mol}^{-1}$$\nhas a numerical value of $8 \\times 10^{-3}$.\na) Write an expression for $K_c$ in terms of the degree of dissociation ($\\alpha$) and the total volume (V) (3 marks)\nb) What is the unit of $K_c$? (2 marks)\nc)(i) What is the value of $K_c$ for the reverse reaction at the same temperature in terms of $\\alpha$ and V? (2 marks)\n(ii) Write the unit for the reverse reaction. (1 mark)\nd) What will be the effect of $K_c$ if:\n(i) more $\\text{PCl}_5$ is added (ii) pressure is increased (iii) temperature is increased? (2 marks)\ne) Predict the effect on the equilibrium composition if:\n(i) more $\\text{PCl}_5$ is added; (2 marks)\n(ii) pressure is increased; (2 marks)\n(iii) temperature is increased. (2 marks)\nf) At $200\\text{ }^\\circ\\text{C}$ and a total pressure of $1\\text{ atmosphere}$, the $\\text{PCl}_5$ is found to be $50\\%$ dissociated. Write an expression for the $K_p$ in terms of $\\alpha$ and $P$. Calculate the equilibrium constant $K_p$ at this temperature. (9 marks)",
+        "topic": "Chemical Equilibrium"
+    }
+]

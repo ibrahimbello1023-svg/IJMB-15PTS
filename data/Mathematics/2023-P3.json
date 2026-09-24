@@ -1,0 +1,82 @@
+[
+  {
+    "number": "Q1",
+    "question": "Express $r \\cos\\left(\\theta + \\frac{\\pi}{6}\\right) = 1$ in rectangular coordinates.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q2",
+    "question": "Find the eccentricity and foci of the hyperbola $\\frac{x^2}{36} - \\frac{y^2}{16} = 1$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q3",
+    "question": "Find the equation of the circle whose centre is at $(-2, -5)$ and radius $5$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q4",
+    "question": "Show that $f(x) = 2e^{-2x}, 0 \\le x < \\infty$ is a probability density function.",
+    "topic": "Statistics & Probability"
+  },
+  {
+    "number": "Q5",
+    "question": "Find the equation of perpendicular bisector of the line joining the points $(7, 3)$ and $(-5, 7)$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q6a",
+    "question": "Obtain the equation of the conic whose parametric equations are given by $x = -2 + 3t^2$ and $y = -1 + 5t$, and describe it completely.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q6b",
+    "question": "Sketch the curve $r = 5(1 - \\cos 2\\theta)$ in polar form for $0 \\le \\theta \\le 360^\\circ$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q7a",
+    "question": "Obtain the equation of the conic whose parametric equations are given by $x = 3 + 5\\sin \\theta$ and $y = 2 + 3\\cos \\theta$, and describe it completely.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q7b",
+    "question": "Find the equation of a straight line perpendicular to the line $2x + 3y = 3$ which passes through the point of intersection of the lines $3x - 5y = -2$ and $2x - 3y = -1$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q8a",
+    "question": "Determine the condition for the line $y = mx$ to be tangent to the hyperbola $\\frac{x^2}{a^2} - \\frac{y^2}{b^2} = 1$. Write down the general equation of the tangent to the hyperbola.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q8b",
+    "question": "Let $D$ be the midpoint of the side $BC$ of a triangle $A(-1, 5), B(3, -5), C(7, 3)$. Find the coordinates of the point $G$ on $AD$ which divides $AD$ in the ratio $2:1$. Show that the medians of the triangle are concurrent.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q9a",
+    "question": "Show that $f(x) = \\frac{1}{2}\\sin x, 0 \\le x \\le \\pi$ represents probability density function for a random variable $x$. Calculate:\n(i) $P\\left(x \\le \\frac{\\pi}{4}\\right)$;\n(ii) $P\\left(x \\ge \\frac{\\pi}{4}\\right)$;\n(iii) find $c$ such that $P(x \\le c) = \\frac{1}{2}$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q9b",
+    "question": "For a Binomial distribution with 5 trials and $p = 0.25$, find the probability that:\n(i) all five trials are successful;\n(ii) only four trials are successful;\n(iii) at least three trials are successful;\n(iv) none of the trials is successful.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q10a",
+    "question": "A random variable has the distribution given by the probability function $f(x) = kx^2, x = 1, 2, 3, 4$. Calculate the value of $k$. For this value of $k$, find the mean and variance of the distribution.",
+    "topic": "Statistics & Probability"
+  },
+  {
+    "number": "Q10b",
+    "question": "If $X \\sim P_o(3)$, find:\n(i) $P(X \\ge 2)$;\n(ii) $P(X = 2)$;\n(iii) $P(X \\le 2)$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q11",
+    "question": "Given the distribution below:\n\n| Marks | 10-13 | 14-17 | 18-21 | 22-25 | 26-29 | 30-33 |\n|---|---|---|---|---|---|---|\n| Frequency | 7 | 9 | 5 | 3 | 6 | 10 |\n\nCalculate:\n(i) The median,\n(ii) The mode,\n(iii) The mean, and\n(iv) The standard deviation of the distribution.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  }
+]

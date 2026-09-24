@@ -1,0 +1,112 @@
+[
+  {
+    "number": "Q1",
+    "question": "Given that $\\sec \\theta = \\frac{25}{24}$, compute the value of $\\cot \\theta + \\cos \\theta$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q2",
+    "question": "If $\\alpha$ and $\\beta$ are the roots of the equation $x^2 - 5x + 6 = 0$, find $\\alpha - \\beta$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q3",
+    "question": "Express $\\left( \\frac{\\sqrt{2} + 3i}{\\sqrt{2} - 3i} \\right)^2$ in the form $a + ib$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q4",
+    "question": "If the $16^{\\text{th}}$ term of an AP is $3$ times the $4^{\\text{th}}$ term, prove that the $23^{\\text{rd}}$ term is $5$ times the $3^{\\text{rd}}$ term.",
+    "topic": "Sequences, Series & Binomial Expansion"
+  },
+  {
+    "number": "Q5",
+    "question": "Solve the equation $1^x = 3$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q6a",
+    "question": "Given that $x - 1$ is a factor of the polynomial $px^2 + qx + r$, and when the polynomial is divided by $x + 1$ and $x - 2$ leaves remainders of $2$ and $8$, respectively. Calculate the values of $p, q$ and $r$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q6b",
+    "question": "Obtain the first four terms of the binomial expansion of $(x - y)^{10}$ and use it to estimate the value of $(0.99)^{10}$, correct to $3$ decimal points.",
+    "topic": "Sequences, Series & Binomial Expansion"
+  },
+  {
+    "number": "Q7a",
+    "question": "Prove that $2^{4n} - 1$ is always divisible by $5$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q7b",
+    "question": "Solve the following simultaneous linear equations using Cramer's rule:\n$$x + 2y - 2z = 1$$\n$$x - 3y + 8z = 6$$\n$$2x - 3y - z = -2$$",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q8a",
+    "question": "Solve the equation $\\log_5 (x^2 + 9) - \\log_5 (x + 1) = 1$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q8b",
+    "question": "Solve the equation $49^x - 42^x = 36^x$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q9a(i)",
+    "question": "Given that $z_1 = 1 - 2i$, $z_2 = 3 + 2i$, and $z_3 = 1 + i$, simplify $z_1 z_2 z_3$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q9a(ii)",
+    "question": "Given that $z_1 = 1 - 2i$, $z_2 = 3 + 2i$, and $z_3 = 1 + i$, simplify $z_1 z_2 - z_2 z_3$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q9a(iii)",
+    "question": "Given that $z_1 = 1 - 2i$, $z_2 = 3 + 2i$, and $z_3 = 1 + i$, simplify $\\frac{z_2 z_3}{\\overline{z_1}}$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q9b",
+    "question": "Show that if $\\omega$ is one complex cube root of unity then $\\omega^2$ is also another complex cube root of unity and $1 + \\omega + \\omega^2 = 0$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q9c",
+    "question": "Given that $z = x + iy$, show that $|z + i| = |1 + i|$ is the circle $x^2 + y^2 + 2y - 1 = 0$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q10a",
+    "question": "Given that $\\tan A = \\frac{1}{5}$, $\\tan B = \\frac{1}{2}$, and $A + B + C = 45^\\circ$, find the value of $\\tan C$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q10b",
+    "question": "Find the square roots of $-i$ and $3 + 4i$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q10c",
+    "question": "Show that $\\frac{1 + \\cos x}{1 - \\cos x} = \\csc^2 x + 2 \\csc x \\cot x + \\cot^2 x$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q11a",
+    "question": "Solve the equation $\\sin^2 x - \\sin x - \\cos^2 x = 0$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q11b",
+    "question": "Given that $\\sin 2x = 2 \\sin x \\cos x$, $\\cos 2x = \\cos^2 x - \\sin^2 x$, obtain an expression for $\\sin x, \\cos x$ in terms of $\\tan \\frac{x}{2}$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q11c",
+    "question": "If $\\cos (x + \\theta) = \\sin (x - \\phi)$, find the value of $\\tan x$ in terms of $\\theta$ and $\\phi$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  }
+]

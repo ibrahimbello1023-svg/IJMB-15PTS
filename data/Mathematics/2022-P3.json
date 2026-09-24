@@ -1,0 +1,92 @@
+[
+  {
+    "number": "Q1",
+    "question": "Find the equation of a straight line which is perpendicular to the line $x - 3y + 2 = 0$ and passes through the mid-point of the line joining the points $(3, -2)$ and $(-1, 5)$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q2",
+    "question": "Show that $f(x) = 5e^{-5x}, 0 \\le x \\le \\infty$ is a probability density function, hence find the probability for $x \\le 3$.",
+    "topic": "Statistics & Probability"
+  },
+  {
+    "number": "Q3",
+    "question": "A bag contains $15$ balls out of which $7$ are yellow balls, $3$ white balls and the rest are black. A ball is picked from the bag at random. Find the probability that the ball is black.",
+    "topic": "Statistics & Probability"
+  },
+  {
+    "number": "Q4",
+    "question": "Find the equation of the circle whose centre is the mid-point of $(-1, 2)$ and $(2, 3)$ and radius $5$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q5",
+    "question": "Find the focus of the parabola $y^2 = 3(x + 1)$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q6a",
+    "question": "Obtain the equation of the conic whose parametric equations are $y = 5 + 4\\tan \\theta$, $x = 7 + 3\\sec \\theta$ and describe it completely.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q6b(i)",
+    "question": "Write $3x + 2y = 8$ in polar form.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q6b(ii)",
+    "question": "Write $x^2 = \\sqrt{x^2 + y^2}$ in polar form.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q7a",
+    "question": "Obtain the equation of the conic whose parametric equations are $y = k + 2t$, $x = h + t^2$ and obtain condition for which the line $y = mx + c$ touches it.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q7b",
+    "question": "Describe the locus of the points $P(x, y)$ equidistant from the points $A(3, -2)$ and $B(-3, 5)$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q8a",
+    "question": "Find the equation of the tangent to the ellipse $\\frac{(x-h)^2}{a^2} + \\frac{(y-k)^2}{b^2} = 1$, at the point $(x_1, y_1)$. Hence, obtain the equation of the tangent to the ellipse $\\frac{(x+2)^2}{16} + \\frac{y^2}{4} = 1$, at the point $(-2, 2)$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q8b",
+    "question": "Sketch the curve $r = 2(1 + \\sin 3\\theta)$ in polar form for $0 \\le \\theta \\le 360^\\circ$.",
+    "topic": "Trigonometry & Coordinate Geometry"
+  },
+  {
+    "number": "Q9a",
+    "question": "Two numbers are selected at random from integers $10$ to $40$, both inclusive, repetition being allowed. Find the probability that:\n(i) Both are multiples of $5$\n(ii) Both are powers of $2$\n(iii) One is power of $2$ and the other is a multiple of $5$.\nWhat are the corresponding probabilities if repetition is not allowed?",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q9b",
+    "question": "If $X \\sim N(74, 9)$ find:\n(i) $P(X \\le 73)$\n(ii) $P(70 \\le X \\le 78)$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q10a",
+    "question": "For a Binomial distribution with 5 trials and $P = \\frac{1}{4}$, find the probability that:\n(i) Exactly 3 trials are successful;\n(ii) At least 2 trials are successful;\n(iii) Less than 4 trials are successful;\n(iv) All the 5 trials are successful;\n(v) None of the trials is successful.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q10b",
+    "question": "If a card is randomly selected from a deck of cards, find the probability that it is:\n(i) A spade or a diamond;\n(ii) An ace or a heart.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q11a",
+    "question": "Three balls are drawn at random without replacement from a bag containing $10$ black, $13$ white and $11$ red balls. Find the probability that:\n(i) The balls are of the same color\n(ii) $2$ of the balls are black and one is white.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  },
+  {
+    "number": "Q11b",
+    "question": "If $X \\sim P_o(2.5)$, find:\n(i) $P(X = 1)$\n(ii) $P(X \\ge 2)$\n(iii) $P(X \\le 2)$.",
+    "topic": "Algebra, Indices, Logarithms & Complex Numbers"
+  }
+]

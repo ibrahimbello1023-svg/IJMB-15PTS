@@ -1,0 +1,232 @@
+[
+  {
+    "number": "Q1a",
+    "question": "Define fundamental quantities. Give three examples of fundamental quantities with their units.",
+    "topic": "Practicals"
+  },
+  {
+    "number": "Q1b",
+    "question": "Determine the dimensions of the constants 'a' and 'b' in Vander Waal's equation using the theory of dimension: $\\left(p + \\frac{a}{V^2}\\right)(V - b) = RT$.",
+    "topic": "Practicals"
+  },
+  {
+    "number": "Q2",
+    "question": "An object of mass $6\\text{ kg}$ is suspended from a spring balance which is attached to a ceiling of a lift. If the spring balance is calibrated in SI unit of force, what will be the reading on the balance when: (a) the lift is stationary; (b) the lift is moving with an acceleration of $0.3\\text{ ms}^{-2}$ upwards; (c) if incidentally the lift cable breaks and the lift falls freely under gravity.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q3",
+    "question": "An aeroplane flying horizontally with speed of $200\\text{ ms}^{-1}$ releases a bomb at a height of $500\\text{ m}$ from the ground. When and where will the bomb strike the ground?",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q4",
+    "question": "A human heart pumps $8 \\times 10^5\\text{ m}^3/\\text{s}$ of blood through the arteries under a pressure $12.0\\text{ cm Hg}$. Calculate the power of the heart in watt. (Density of mercury $= 1.36 \\times 10^4\\text{ kgm}^{-3}$).",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q5",
+    "question": "A fan turns at a rate of $15\\text{ Hz}$. Calculate the (i) angular speed of any point on one of the fan blades (ii) the tangential speed of the tip of the blade if the distance from the center of the tip is $0.2\\text{ m}$.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q6",
+    "question": "An ideal gas at STP undergoes a reversible thermal expansion. If the work done by the gas in the process is $2000\\text{ J}$, what is the change in entropy?",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q7",
+    "question": "An engine of $20\\text{ kW}$ is used to pump water from a river which is $100\\text{ m}$ deep. Calculate the quantity of water which it can pump in $20\\text{ minutes}$.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q8",
+    "question": "Two tuning forks A and B give $8\\text{ beats per second}$. From tuning fork 'A' resonant with a closed column of air $16\\text{ cm}$ long and 'B' resounds with an open column of $33\\text{ cm}$ long. Evaluate their frequencies.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q9",
+    "question": "One end of a $1\\text{ m}$ copper rod and $0.02\\text{ m}$ in radius is immersed in boiling water at $100^\\circ\\text{C}$, while the other end immersed in ice at $0^\\circ\\text{C}$. Evaluate the rate at which the ice melts. Given that thermal conductivity of copper is $380\\text{ Wm}^{-1}\\text{K}^{-1}$.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q10",
+    "question": "A man standing between two parallel hills fires a gun. He hears the first echo after $2.4\\text{ s}$ and the second after $4\\text{ s}$. Find the distance between the two hills.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q11a(i)",
+    "question": "What are vector and scalar quantities? To which class do: momentum, current, electrical energy, acceleration due to gravity and mass belong?",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q11a(ii)",
+    "question": "Explain the term 'relative velocity'.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q11a(iii)",
+    "question": "At the instant the traffic lights turn green, an auto mobile that has been waiting at the intersection of roads accelerates with $3\\text{ ms}^{-2}$. At the same instant, a truck travelling with a constant velocity of $12\\text{ ms}^{-1}$ overtakes and passes the automobile. How far beyond its starting point will the automobile overtake the truck and how fast will it be travelling at that time?",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q11b(i)",
+    "question": "Define centripetal force and derive its expression.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q11b(ii)",
+    "question": "A bend in a level road has a radius of $100\\text{ m}$. Find the maximum speed which a car turning this bend may have without skidding if the coefficient of friction between the road and the car is $0.25$.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q12a(i)",
+    "question": "Define amplitude and angular frequency of a simple harmonic motion and write down an expression relating them, explaining all the symbols used.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q12a(ii)",
+    "question": "A mass of $0.12\\text{ kg}$ is suspended from a spring of force constant $25\\text{ Nm}^{-1}$. Calculate the extension of the spring assuming that Hooke's law is obeyed. If the mass is now pulled a further distance of $10\\text{ mm}$ and released. Show that, the motion is simple harmonic and calculate the period. Also evaluate the maximum kinetic energy of the mass during its motion.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q12b(i)",
+    "question": "Define moment of inertia of a body and state its units. Derive the expression for the rotational kinetic energy of a body in terms of moment of inertia.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q12b(ii)",
+    "question": "An electric motor exerts a constant torque of $15\\text{ Nm}$ on a flywheel mounted on its shaft. The moment of inertia of grindstone is $2.5\\text{ kgm}^2$. If the flywheel starts from rest, find the work done by the motor in $10\\text{ seconds}$ and the kinetic energy at the end of this time. Evaluate the average power delivered by the motor.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q13a(i)",
+    "question": "Derive an expression for the terminal speed of a sphere falling in a viscous fluid in terms of the sphere radius '$r$', density '$\\rho$' and fluid viscosity '$\\eta$'. Assuming that the flow is laminar and Stokes's law holds.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q13a(ii)",
+    "question": "The motion of a sphere of radius '$r$' and speed '$v$' through air is opposed by a resistive force $F = krv$, where $k = 3.5 \\times 10^{-4}\\text{ Nm}^{-1}\\text{s}$. In a Millikan's oil drop experiment, the terminal speed of an oil drop of density $920\\text{ kgm}^{-3}$ was measured to be $1.57 \\times 10^{-3}\\text{ ms}^{-1}$, when there was no electric field. The same oil drop was held stationary by an electric field of intensity $3.2 \\times 10^5\\text{ Vm}^{-1}$. Calculate (A) the charge on the drop (B) the radius of the drop (C) the weight of the drop.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q13b(i)",
+    "question": "Explain the term Bernoulli's principle with its significance and give two simple applications of it.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q13b(ii)",
+    "question": "Water flows steadily along a horizontal pipe at a volume rate of $10^{-2}\\text{ m}^3\\text{s}^{-1}$. If the area of cross section of the pipe is $50\\text{ cm}^2$. (A) calculate the flow velocity of the water. (B) Find the total pressure in the horizontal pipe if the static pressure in the horizontal pipe is $2.0 \\times 10^5\\text{ Nm}^{-2}$. State any assumption you have made. (C) What is the new flow velocity if the total pressure is $3.6 \\times 10^4\\text{ Nm}^{-2}$?",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q14a(i)",
+    "question": "What do you understand by Newton's law of cooling?",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q14a(ii)",
+    "question": "$500\\text{ g}$ of water and equal volume of alcohol of mass $250\\text{ g}$ are placed successively in the same calorimeter and cooled from $70^\\circ\\text{C}$ to $55^\\circ\\text{C}$ in $390\\text{ seconds}$ and $201\\text{ seconds}$ respectively. Find the specific heat capacity of the alcohol. Water equivalent of the calorimeter is $10$.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q14b(i)",
+    "question": "Explain the term 'specific heat capacity' and 'specific latent heat of a substance'.",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q14b(ii)",
+    "question": "The densities of two substances 'A' and 'B' are in the ratio $5:6$ and their specific heat capacities are in the ratio $4:5$. Compare their thermal capacities per unit volume.",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q15a(i)",
+    "question": "State briefly five assumptions of kinetic theory of gas and write down the expression for the pressure of the gas.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q15a(ii)",
+    "question": "Explain why the equation of state for an ideal gas differs from that of real gas.",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q15a(iii)",
+    "question": "Helium gas occupies a volume of $0.04\\text{ m}^3$ at a pressure of $2.0 \\times 10^5\\text{ Nm}^{-2}$ and at $300\\text{ K}$. Calculate the mass of Helium, r.m.s speed of its molecules, r.m.s speed at $432\\text{ K}$ when gas is treated at constant pressure to this temperature, r.m.s speed of hydrogen molecules at $432\\text{ K}$ if the molecular mass of helium and hydrogen are $4\\text{ g}$ and $2\\text{ g}$ respectively.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q15b(i)",
+    "question": "Show that, the molar heat capacities of a gas are related by $C_p - C_v = R$. Where $R$ is the gas constant.",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q15b(ii)",
+    "question": "A refrigerator operates with its cold reservoir at $5^\\circ\\text{C}$ and rejects heat to its surroundings at $27^\\circ\\text{C}$. If $200\\text{ g}$ of water are turned to ice at $0^\\circ\\text{C}$, evaluate the total work done by the motor, assuming there is maximum efficiency.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q16a(i)",
+    "question": "State the second law of thermodynamics and explain its significance.",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q16a(ii)",
+    "question": "A Carnot engine takes $3000\\text{ J}$ of heat from a reservoir at $600\\text{ K}$, does some work and discard some heat to a reservoir at $400\\text{ K}$. (A) how much does it do? (B) How much heat is discarded? (C) What is the efficiency of the engine?",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q16b(i)",
+    "question": "Explain the term 'entropy' and write down an expression for it. For a reversible isothermal expansion, evaluate an expression for entropy.",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q16b(ii)",
+    "question": "$2\\text{ kg}$ of ice is melted and converted to water at $0^\\circ\\text{C}$. Evaluate the change in entropy.",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q17a(i)",
+    "question": "State how the velocity of sound in air depends on the temperature, pressure and humidity. Prove and depend your statements.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q17a(ii)",
+    "question": "The velocity of sound in air at $14^\\circ\\text{C}$ is $340\\text{ ms}^{-1}$. What will be the velocity when the pressure of the gas is tripled and its temperature raised to $200^\\circ\\text{C}$?",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q17b(i)",
+    "question": "Explain the terms 'fundamental note, overtone and harmonic frequencies'.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q17b(ii)",
+    "question": "A wire of length $100\\text{ cm}$ when stretched by a load of $10\\text{ kg}$, vibrates with frequency of $300\\text{ vibrations per second}$. Evaluate the mass of the wire.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q17b(iii)",
+    "question": "State the conditions for two sources 'A' and 'B' to produce stationary wave.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q18a(i)",
+    "question": "Briefly explain the concept of Doppler's effect.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q18a(ii)",
+    "question": "A whistle is giving out $600\\text{ Hz}$ moves away from a stationary observer in a direction towards and perpendicular to a flat wall with a velocity of $2\\text{ ms}^{-1}$. Evaluate the apparent shift in frequency.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q18b(i)",
+    "question": "State the four characteristics of a progressive wave.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q18b(ii)",
+    "question": "A man standing in front of a mountain at a certain distance, beats a drum at regular intervals. The drumming rate is gradually increased and he finds that the echo is not heard distinctly when the rate becomes $40\\text{ per minute}$. He then moves nearer to the mountain by $90\\text{ m}$ and find that, the echo is again not heard when the drumming rate becomes $60\\text{ per minute}$. Evaluate the distance between the mountain and the initial position of man and the velocity of sound.",
+    "topic": "Waves, Sound & Optics"
+  }
+]

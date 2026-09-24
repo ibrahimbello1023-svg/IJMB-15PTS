@@ -1,0 +1,42 @@
+[
+    {
+        "number": "Q1A a(i)",
+        "question": "Transform equation (1) into a suitable straight line graph to determine the constants $n$ and $\\lambda$.",
+        "topic": "Practicals"
+    },
+    {
+        "number": "Q1A a(ii)",
+        "question": "Prepare a composite table to plot a suitable graph to determine the constants $n$ and $\\lambda$.",
+        "topic": "Practicals"
+    },
+    {
+        "number": "Q1A a(iii)",
+        "question": "Use your graph to determine the value of the values of $n$ and $\\lambda$.",
+        "topic": "Practicals"
+    },
+    {
+        "number": "Q1A a(iv)",
+        "question": "Use your graph to estimate the value of $P$ when $x = 0.92$.",
+        "topic": "Practicals"
+    },
+    {
+        "number": "Q1A a(v)",
+        "question": "Substitute your values of $n$ and $\\lambda$ obtained from your graph in (iii) above into equation to determine the value of $p$ when $x = 0.92$.",
+        "topic": "Practicals"
+    },
+    {
+        "number": "Q1A b",
+        "question": "Given that $z = \\sqrt{r - y^3}$. Find the percentage error in $z$ when $r = 2.01 \\pm 0.071$ and $y = 0.77 \\mp 0.0031$.",
+        "topic": "Practicals"
+    },
+    {
+        "number": "Q2A",
+        "question": "Use the diagram in figure 1 as a guide to carry out the following instructions.\n(i) ABCD the outline of the rectangular and transparent block on the ray-trace sheet, such that AB is a plane mirror mounted, NN' is the normal FE the incident ray at an angle of incidence $i = 20^\\circ$.\n(ii) Fix two optical pins P1 and P2 into line FE and place the block on the sheet of drawing paper. Then observes the images of P1 and P2 through side CD of the block so that the images of P1 and P2 appear to be in a straight line with the others. The positions of P3 and P4 are marked as shown.\n(iii) Continue the line FE so that it crosses CD and extends as far as side AB. Draw a line joining the positions of P4 and P3. Continue the line so that it crosses CD and extends as far as side AB. Label the point G where this line crosses the line from P1 and P2.\n(iv) Measure the angle $\\theta$ between the lines meeting at G. repeats the procedure using an angle of incidence $i = 25, 30, 35$ and $40$ respectively. In each case, records the value of $\\theta$.\n(v) Prepare a suitable composite table. Plot a graph of $i$ against $\\frac{1}{2}\\theta$. Find the slope S of the graph and evaluate $k = \\frac{1}{2} - S$. State the necessary precaution taken to ensure accurate results. (Attach your traces to your answer booklet)",
+        "topic": "Waves, Sound & Optics"
+    },
+    {
+        "number": "Q3A",
+        "question": "Connect up the circuit as shown in figure 3.1, where R is the Rheostat ($R_H$) and $E = 12\\text{V}$. Set $R_H$ to the minimum and record the corresponding ammeter and voltmeter readings respectively. By gently adjusting the $R_H$, record 6 different values corresponding to V and A readings respectively, in each case evaluate $I^{-1}$ and $V^{-1}$. Plot a graph of $I^{-1}$ against $V^{-1}$. Determine the slope S of the graph. If I and V are related according to the equation $I^{-1} = (r+2)V^{-1}$, use your slope to find the value of $r$.",
+        "topic": "Electricity & Magnetism"
+    }
+]

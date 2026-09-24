@@ -1,0 +1,187 @@
+[
+  {
+    "number": "Q1",
+    "question": "Obtain the dimensions of the following quantities: Density, Acceleration, Momentum and Pressure.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q2a",
+    "question": "Write down, one similarity and one difference between speed and velocity.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q2b",
+    "question": "A simple pendulum of length $L$, mass $m$ oscillating at an angle $\\theta$. Sketch the pendulum and indicate the points of maximum kinetic energy, maximum potential kinetic energy and maximum velocity.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q3a",
+    "question": "Define the following terms: Longitudinal strain, volume strain and Shearing strain.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q3b",
+    "question": "A wire $1\\text{ m}$ long and $1\\text{ mm}$ in radius is stretched $0.60\\text{ mm}$ when the load of $20\\text{ kg}$ hang from it. Calculate the strain and the force constant of the wire.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q4",
+    "question": "The surface tension of a liquid is $5\\text{ Nm}^{-1}$. If a thin film of diameter $0.002\\text{ m}^2$ is formed on a loop, Calculate its surface energy. State two factors and the effect of each factor of the underlined term.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q5",
+    "question": "what is the change in volume and the percentage change in volume of a spherical container made up of brass of radius $8.0\\text{ cm}$ when heated from $0^\\circ\\text{C}$ to $100^\\circ\\text{C}$. Take the linear expansivity of brass as $1.9 \\times 10^{-5\\circ}\\text{C}^{-1}$.",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q6",
+    "question": "Assume a Carnot engine takes $10^5\\text{ J}$ of heat from a reservoir at $827^\\circ\\text{C}$ and exhaust it to a sink at $27^\\circ\\text{C}$. Find the work done by the engine and its efficiency.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q7",
+    "question": "Calculate the total heat required to rise the temperature of $1.8\\text{ kg}$ of copper calorimeter containing $2.0\\text{ kg}$ of water from $20^\\circ\\text{C}$ to $100^\\circ\\text{C}$.",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q8",
+    "question": "Find the change in entropy when $50\\text{ kg}$ of water is converted to liquid to vapour at $100^\\circ\\text{C}$.",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q9",
+    "question": "Given a harmonic wave represented by: $y = 0.34\\cos(3000t + 0.74)$, where $y$ and $t$ are in meters and seconds respectively. Deduce the amplitude, angular frequency, frequency, period and the phase angle of the wave.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q10",
+    "question": "What is the increase in velocity of sound for $1^\\circ\\text{C}$ rise in temperature, if the velocity of at $0^\\circ\\text{C}$ is $330\\text{ ms}^{-1}$.",
+    "topic": "Waves, Sound & Optics"
+  },
+  {
+    "number": "Q11a(i)",
+    "question": "State the principle of conservation of linear momentum. Explain whether the principle applies in the cases of elastic collisions and inelastic collisions?",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q11a(ii)",
+    "question": "What do you understand by the term \"coefficient of restitution\"?. State the factor(s) upon which it depends. Write down its range in the case of Perfectly elastic collision, Inelastic collision, Perfectly inelastic collision.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q11a(iii)",
+    "question": "Consider two bodies of masses $m_1$ and $m_2$, ($m_1 \\ne m_2$) moving with initial velocities $u_1$ and $u_2$ in the same direction and they collide such that after collision their final velocities are $v_1$ and $v_2$ respectively. Use this information to derive the relations for the coefficient of restitution. Hence, reduce the equation to the Perfectly elastic collision, Inelastic collision, Perfectly inelastic collision.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q11a(iv)",
+    "question": "Assuming that, two balls of masses $2\\text{ kg}$ and $4\\text{ kg}$ are moved towards each other with velocities $4\\text{ ms}^{-1}$ and $2\\text{ ms}^{-1}$ respectively on a frictionless surface. After collision, the $2\\text{ kg}$ ball returns back with velocity $2\\text{ ms}^{-1}$. Find: the velocity of $4\\text{ kg}$ ball after collision and the coefficient of restitution $e$.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q11b(i)",
+    "question": "Differentiate between the center of gravity (c.g) and center of mass (c.m) of an object?",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q11b(ii)",
+    "question": "With the help of sketch geometrical diagrams, locate the position of the c.g for the following different bodies. Uniform solid sphere, Triangular plane lamina, Rectangular block, piece of stone.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q11b(iii)",
+    "question": "Assuming earth to be a sphere of a uniform density of radius $6.38 \\times 10^6\\text{ m}$, the gravitational constant to be $6.67 \\times 10^{-11}\\text{ Nm}^2\\text{kg}^{-2}$, acceleration due to gravity on the surface to be $10\\text{ ms}^{-2}$. Calculate the mass of the earth. Hence find the density of the earth.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q11b(iv)",
+    "question": "Consider a ball dropped from the top of a $40\\text{ m}$ tall building with an initial velocity of $8.0\\text{ ms}^{-1}$. Find the time taken for the ball to reach the ground and the velocity on impact.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q12a(i)",
+    "question": "Briefly explain with examples: Conservative forces and non-conservative forces.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q12a(ii)",
+    "question": "Prove that for a given velocity of projection, the horizontal range is same for two angles of projection $\\alpha$ and $(90^\\circ - \\alpha)$.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q12a(iii)",
+    "question": "A body projected from the ground with a velocity $u$ at an angle $\\theta$ with the horizontal, the horizontal and vertical distances covered in time $t$ can be given by $x = (u\\cos\\theta)t$ and $y = (u\\sin\\theta)t - \\frac{1}{2}gt^2$. Derive the equation of trajectory. Also define the underlined term.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q12a(iv)",
+    "question": "An object is thrown with a velocity of $20\\text{ ms}^{-1}$ at an angle of $30^\\circ$ the horizontal from the top of a building $15\\text{ m}$ high. Calculate the maximum height reached by the object above the ground.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q12b(i)",
+    "question": "what is meant by rigid body? Given a circular disc of mass $m$ and radius $r$ is set rolling on a table. If its angular velocity is $\\omega$, show that its total energy $E = \\frac{3}{4}mr^2\\omega^2$.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q12b(ii)",
+    "question": "An object of mass $50\\text{ g}$ is moving with a momentum of $10\\text{ Ns}$. Is a force of $0.2\\text{ N}$ acts on it in the direction of motion of the object for $10\\text{ seconds}$. Calculate change in its kinetic energy.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q12b(iii)",
+    "question": "what is meant by the statement that, a body is in equilibrium? State and define the types of equilibrium.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q12b(iv)",
+    "question": "Assuming that, a particle moves in a potential region defined $U = (2x^2 - x + 200)\\text{ J}$. Determine the force acting on the particle at $x = \\sqrt{2}\\text{ m}$. At what value(s) of $x$ Its state of equilibrium occurred?",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q13a(i)",
+    "question": "state the mathematical expression of Hooke's law and explain the term elastic limit.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q13a(ii)",
+    "question": "Define the term fluid with examples. Consider a metallic sphere of radius '$a$' and density $\\rho$ to fall under gravity in a liquid of density $\\sigma$. sketch the diagram and indicate all the possible forces acting on the sphere. Hence, prove that, the terminal velocity of the sphere is given by $v = \\frac{2}{9}\\frac{a^2(\\rho - \\sigma)g}{\\eta}$",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q13b(i)",
+    "question": "The radius of a fluid pipe decreases from $23$ to $16\\text{ cm}$. If the average velocity in the wider portion is $12\\text{ ms}^{-1}$, find the average velocity in the narrower region.",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q13b(ii)",
+    "question": "A wire $1\\text{ m}$ long and $1\\text{ mm}$ in radius stretches $0.6\\text{ mm}$ when a load of $20\\text{ kg}$ hang from it. Calculate the tensile stress, tensile strain, Young modulus, force constant for the wire.",
+    "topic": "Electricity & Magnetism"
+  },
+  {
+    "number": "Q14a(i)",
+    "question": "Write down the mathematical form of the first law of thermodynamic and state the meaning of each term.",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q14a(ii)",
+    "question": "State and define the four thermodynamic processes.",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q14a(iii)",
+    "question": "When a gas at constant pressure of $4.0 \\times 10^5\\text{ Pa}$ is cooled so that its volume changes from $4.6\\text{ m}^3$ to $3.2\\text{ m}^3$. Calculate work is performed by the gas?",
+    "topic": "Mechanics & Properties of Matter"
+  },
+  {
+    "number": "Q14b(i)",
+    "question": "Define the term entropy. Find the change in entropy for $50\\text{ kg}$ of water converting from liquid to vapour at $100^\\circ\\text{C}$?",
+    "topic": "Thermal Physics & Thermodynamics"
+  },
+  {
+    "number": "Q14b(ii)",
+    "question": "Mention any five thermometers and their corresponding substances. state clearly how the thermometric substances used for each one mentioned.",
+    "topic": "Thermal Physics & Thermodynamics"
+  }
+]
